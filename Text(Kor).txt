@@ -6440,11 +6440,11 @@ Sau khi lấy ra khỏi \n* kho hoặc kho quà tặng, vật phẩm sẽ không
 6679	"Phòng thủ thêm +%d"
 6680	"Chế tạo item Ruud"
 6681	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Chế tạo Ruud<BR></FONT><FONT color='#d2d2d2' size='12'>       Bạn có thể chế tạo trang bị Ruud và các vật phẩm nguyên liệu.<br>       <FONT color='#faed7d' size='12'><br>       * Chế tạo Linh Hồn Thiên Thần Máu</FONT><FONT color='#d2d2d2' size='12'>        <br></Font><FONT color='#faed7d' size='12'><br>       * Chế tạo Trang Bị Ruud</FONT><FONT color='#d2d2d2' size='12'><br>       - Chế tạo và nâng cấp Ruud<br>       - Chế tạo bằng Linh Hồn Ruud [Liên kết]<br>       - Kết hợp chuyển đổi Ruud<br></Font><FONT color='#faed7d' size='12'><br>       * Chế tạo Nguyên liệu Khác</FONT><FONT color='#d2d2d2' size='12'><br>       - Chế tạo Linh Hồn Ruud [Liên kết]<br>       - Chế tạo Giáp Phong Ấn Bị Hư Hỏng<br></Font>"
-6682	"Chế tạo trang bị Ruud"
+6682	"Chế tạo Item huyền thoại"
 6683	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Chế tạo Huyền Thoại<BR></FONT><FONT color='#d2d2d2' size='12'>       Bạn có thể chế tạo trang bị Huyền Thoại.<br><FONT color='#faed7d' size='12'><br>     * Chế tạo Trang bị Huyền Thoại</FONT><FONT color='#d2d2d2' size='12'><br>        - Chế tạo và nâng cấp<br>        - Kết hợp chuyển đổi Huyền Thoại<br></Font>"
 6686	"Chế tạo Linh Hồn Anh hùng"
 6687	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Chế tạo đá Linh Hồn Anh Hùng <BR></FONT><FONT color='#d2d2d2'>       Bạn có thể chế tạo Linh Hồn Anh Hùng Máu bằng cách sử dụng các trang bị giáp Set đã được nâng cấp +11 trở lên.<BR>       Khi đăng ký các trang bị Set phần thưởng Speed Server đã được nâng cấp +11, +13 và +15,<BR>        hãy sử dụng 'Biểu Tượng Chuyển Đổi Linh Hồn Thiên Thần Máu' làm nguyên liệu kết hợp.<BR><BR>       - Ví dụ về trang bị Set cấp cao: High On Set</FONT>"
-6688	"Chế tạo Trang bị Ruud 2"
+6688	"Chế tạo Trang bị Ruud"
 6689	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Chế tạo Trang bị Ruud<BR></FONT><FONT color='#d2d2d2' size='12'>       Bạn có thể chế tạo và nâng cấp trang bị Ruud.<br><FONT color='#faed7d' size='12'><br>       * Chế tạo / Nâng cấp Ruud</FONT><FONT color='#d2d2d2' size='12'><br>        Bạn có thể chế tạo và nâng cấp bằng các vật phẩm Linh Hồn Ruud.<br></Font><FONT color='#faed7d' size='12'><br>       * Chế tạo bằng Linh Hồn Ruud [Liên kết]</FONT><FONT color='#d2d2d2' size='12'><br>        Bạn có thể chế tạo và nâng cấp bằng các vật phẩm Linh Hồn Ruud [Liên kết].<br></Font><FONT color='#faed7d' size='12'><br>       * Kết hợp chuyển đổi Ruud</FONT><FONT color='#d2d2d2' size='12'><br>        Bạn có thể chuyển đổi trang bị Ruud của Black Knight, Elf và Dark Wizard.<br></Font>"
 6690	"Chế tạo Nguyên liệu Khác"
 6691	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'>Chế tạo Nguyên liệu Khác<BR> </FONT><FONT color='#faed7d' size='12'><br>       * Chế tạo Linh Hồn Ruud [Liên kết]</FONT><FONT color='#d2d2d2' size='12'><br>        Bạn có thể chế tạo các vật phẩm Linh Hồn Ruud cùng cấp được dùng làm nguyên liệu từ các vật phẩm Linh Hồn Ruud (Bound).<br> </Font><FONT color='#faed7d' size='12'><br>       * Chế tạo Giáp Phong Ấn Bị Hư Hỏng</FONT><FONT color='#d2d2d2' size='12'><br>       Bạn có thể chế tạo các vật phẩm Giáp Phong Ấn Thiên Thần Máu Bị Hư Hỏng bằng cách sử dụng các mảnh Giáp Phong Ấn.<br></FONT>"
@@ -6543,3 +6543,4 @@ Sau khi lấy ra khỏi \n* kho hoặc kho quà tặng, vật phẩm sẽ không
 //S20.2-3	
 6796	"Hồi phục miễn phí hằng ngày %d / %d"
 6797	"Bạn có thể hồi phục miễn phí."
+
