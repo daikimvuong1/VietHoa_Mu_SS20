@@ -6459,7 +6459,7 @@ Sau khi lấy ra khỏi \n* kho hoặc kho quà tặng, vật phẩm sẽ không
 6702	"Not Used"
 6703	"Not Used"
 6704	"Chế/Nâng Cấp Ruud"
-6705	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Chế tạo/Nâng cấp Ruud<BR> </FONT><FONT color='#faed7d' size='12'><br>       * Nguyên liệu chính có thể chế tạo</FONT><FONT color='#d2d2d2' size='12'><br>        - Giáp Thiên Thần Máu Phong Ấn<br>        - Giáp Thiên Thần Máu Phong Ấn Bị Hư Hỏng<br>        - Trang bị Ruud +11 với 16 Tùy Chọn trở lên</FONT>"
+6705	"<FONT color='#ffaa00' size='12'><img src='point' align='baseline' vspace='-4'> Chế tạo/Nâng cấp Ruud<BR> </FONT><FONT color='#faed7d' size='12'><br>       * Nguyên liệu chính có thể chế tạo</FONT><FONT color='#d2d2d2' size='12'><br>        - Set Huyết Thần bị Phong Ấn<br>        - Set Huyết Thần bị Phong Ấn Bị Hư Hỏng<br>        - Trang bị Ruud +11 với 16 tùy chọn trở lên</FONT>"
 6706	"Not Used"
 6707	"Not Used"
 6708	"[Liên kết] Chế tạo bằng Linh Hồn Ruud"
@@ -6543,5 +6543,6 @@ Sau khi lấy ra khỏi \n* kho hoặc kho quà tặng, vật phẩm sẽ không
 //S20.2-3	
 6796	"Hồi phục miễn phí hằng ngày %d / %d"
 6797	"Bạn có thể hồi phục miễn phí."
+
 
 
