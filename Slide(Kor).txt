@@ -1,0 +1,116 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
+// Text Ver. 0.0.3.4									
+// Version 1.03y  - T서버									
+// Version 1.03y  - M서버									
+// 최종 작업자 - 박혜진									
+// 최종 작업일 - 2016-06-28 10:45 AM									
+// 내용: 도움말 시스템 개선 (UI 및 스크립트 개선)									
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
+// 데이터 타입	출력 대기 시간(밀리초)								
+updateTime	60000								
+									
+// 데이터 타입	최소레벨	최대레벨							
+// 1~15레벨 출력			eng						
+message	1	15	Nhân vật cơ bản có thể vào Devias từ <font color='#FFBB00'>Level 20</font>, và nhân vật nâng cao có thể vào khu vực này từ <font color='#FFBB00'>Level 13</font>.						
+message	1	15	Lối vào Devias nằm tại Lorencia ở <font color='#FFBB00'>tọa độ (7, 40)</font>.						
+message	1	15	Khi nhân vật trên <font color='#FFBB00'>Level 10</font> tử vong, nhân vật sẽ mất một lượng EXP và Zen nhất định.						
+message	1	15	Bạn có thể sử dụng Bình Máu, Bình Mana, Thuốc Giải Độc và Cuộn Dịch Chuyển bằng các phím <font color='#FFBB00'>Q, W, E, R</font>.						
+message	1	15	Kho Lorencia nằm tại <font color='#FFBB00'>tọa độ (140, 110), (147, 144)</font>.						
+message	1	15	Kho Noria nằm tại <font color='#FFBB00'>tọa độ (173, 95)</font>.						
+message	1	15	Có phí khi sử dụng kho, tùy theo cấp độ nhân vật.						
+message	1	15	Bạn có thể bảo vệ kho bằng chức năng mật khẩu.						
+message	1	15	Nhấn nút kỹ năng và chọn <font color='#FFBB00'>Ctrl + Số</font> để đổi kỹ năng nhanh bằng phím số.						
+message	1	15	Lối đi từ Lorencia sang Noria nằm tại <font color='#FFBB00'>tọa độ (214, 244)</font>.						
+message	1	15	Lối đi từ Noria về Lorencia nằm tại <font color='#FFBB00'>tọa độ (153, 5)</font>.						
+message	1	15	Bạn có thể nhặt vật phẩm rơi xung quanh bằng <font color='#FFBB00'>phím Space</font>.						
+message	1	15	Thợ rèn Hanzo bán trang bị cho Dark Knight tại Lorencia. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (117, 140)</font>.						
+message	1	15	Pasi bán trang bị cho Dark Wizard tại Lorencia. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (119, 112)</font>.						
+message	1	15	Thương nhân Lang Thang bán vật phẩm cho người mới tại Lorencia. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (183, 136)</font>.						
+message	1	15	Elf Lala bán vật phẩm cho người mới tại Noria. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (173, 124)</font>.						
+message	1	15	Nghệ nhân bán trang bị cho Elf tại Noria. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (196, 124)</font>.						
+message	1	15	Khi lên cấp, nhân vật cơ bản nhận <font color='#FFBB00'>5</font> điểm, nhân vật nâng cao nhận <font color='#FFBB00'>7</font> điểm thuộc tính.						
+message	1	15	Nhấp chuột trái vào quái để tấn công thường.						
+message	1	15	Nhấp chuột phải vào quái để sử dụng kỹ năng tấn công.						
+message	1	15	Nhấp chuột phải vào Scroll hoặc Orb để học kỹ năng.						
+message	1	15	Bạn có thể sử dụng chức năng bạn bè từ <font color='#FFBB00'>Level 6</font>.						
+message	1	15	Bạn có thể sử dụng kỹ năng và phép thuật bằng chuột phải.						
+message	1	15	Bạn có thể dùng các chức năng như giao dịch hoặc tổ đội dễ dàng hơn với Hệ Thống Lệnh <font color='#FFBB00'>(Phím nóng 'D')</font>.						
+message	1	15	Bạn có thể sử dụng Chaos Goblin Combination từ <font color='#FFBB00'>Level 10</font>.						
+message	1	15	Cửa Hàng Cá Nhân có thể dùng từ <font color='#FFBB00'>Level 6</font>, lệnh là <font color='#FFBB00'>'/buy'</font> và có thể tạo bằng <font color='#FFBB00'>phím nóng S</font>.						
+//	1	15	You can view or close personal shop titles with '/viewshop on'. '/viewshop off.'						
+message	1	15	Bạn có thể kiểm tra thông tin nhiệm vụ bằng <font color='#FFBB00'>phím nóng T</font>.						
+message	1	15	Có phí khi sử dụng kho, tùy theo cấp độ nhân vật.						
+message	1	15	Bạn có thể dịch chuyển bằng <font color='#FFBB00'>phím nóng M</font> khi đạt <font color='#FFBB00'>Level 10</font>.						
+message	1	15	Giữ <font color='#FFBB00'>phím Shift</font> và di chuột lên vật phẩm để xem so sánh với vật phẩm đang trang bị.						
+						
+// 데이터 타입	최소레벨	최대레벨							
+// 16~30레벨 출력							
+message	16	30	Nhân vật cơ bản có thể vào Dungeon từ <font color='#FFBB00'>Level 30</font>, và nhân vật nâng cao từ <font color='#FFBB00'>Level 20</font>.						
+message	16	30	Lối vào Dungeon nằm tại Lorencia ở <font color='#FFBB00'>tọa độ (122, 231)</font>.						
+message	16	30	Nhấn <font color='#FFBB00'>Ctrl + E</font> lên Bình Máu, Thuốc Giải Độc hoặc Cuộn Dịch Chuyển để gán phím nóng.						
+message	16	30	Bạn có thể chạy khi mang Giày có cấp trên <font color='#FFBB00'>+5</font>.						
+message	16	30	Sau khi bị tấn công độc, nhân vật sẽ chuyển sang màu <font color='#FFBB00'>xanh lá</font> và chịu thêm sát thương trong 10 giây.						
+message	16	30	Trạng thái độc sẽ biến mất khi sử dụng Thuốc Giải Độc.						
+message	16	30	Sử dụng Cuộn Dịch Chuyển để quay về thành phố gần nhất hoặc khu vực an toàn.						
+message	16	30	Sử dụng <font color='#FFBB00'>phím Print Screen</font> để lưu ảnh chụp màn hình vào thư mục MU.						
+message	16	30	Vũ khí và giáp có độ bền. Khi độ bền giảm, hiệu quả của vật phẩm sẽ kém hơn.						
+message	16	30	Bạn có thể thiết lập chat macro cho số 1 - 10 bằng lệnh <font color='#FFBB00'>'/number nội dung'</font>.						
+message	16	30	Bạn có thể sử dụng chat macro đã lưu bằng <font color='#FFBB00'>Alt + Số</font>.						
+message	16	30	Bạn có thể sửa vũ khí hoặc giáp tại NPC bán vũ khí.						
+message	16	30	Bạn có thể chat với toàn bộ tổ đội bằng lệnh <font color='#FFBB00'>'~ nội dung chat'</font>.						
+message	16	30	Bạn có thể chat với toàn bộ bang hội bằng lệnh <font color='#FFBB00'>'@ nội dung chat'</font>.						
+message	16	30	Bạn có thể giao dịch với người chơi khác bằng lệnh <font color='#FFBB00'>'/trade'</font>.						
+message	16	30	Izabel bán vật phẩm cho Dark Wizard trung cấp tại Devias. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (225, 40)</font>.						
+message	16	30	Thương nhân Sophie bán vũ khí và giáp cho nhân vật trung cấp tại Devias. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (188, 46)</font>.						
+message	16	30	Kho Devias nằm tại <font color='#FFBB00'>tọa độ (218, 61)</font>.						
+message	16	30	Bạn cũng có thể sử dụng phép hỗ trợ bằng cách nhấp vào tên trong cửa sổ tổ đội.						
+//	16	30	You can view or close personal shop titles with '/viewshop on'. '/viewshop off.'						
+message	16	30	Bạn có thể kiểm tra thông tin nhiệm vụ bằng <font color='#FFBB00'>phím nóng T</font>.						
+message	16	30	Có phí khi sử dụng kho, tùy theo cấp độ nhân vật.						
+message	16	30	Giữ <font color='#FFBB00'>phím Shift</font> và di chuột lên vật phẩm để xem so sánh với vật phẩm đang trang bị.						
+
+							
+// 데이터 타입	최소레벨	최대레벨							
+// 16~30레벨 출력			eng						
+message	31	50	Ngọc Chaos là vật phẩm chỉ dùng cho việc kết hợp.						
+message	31	50	Bạn có thể nâng cấp vũ khí, giáp và cánh tối đa đến <font color='#FFBB00'>Level 6</font> bằng Jewel of Bless.						
+message	31	50	Bạn có thể nâng cấp vũ khí, giáp và cánh tối đa đến <font color='#FFBB00'>Level 9</font> bằng Jewel of Soul.						
+//	31	50	Tỷ lệ thành công của Jewel of Soul là 50%. Nếu có tùy chọn Luck, tỷ lệ sẽ tăng thêm 25%.						
+message	31	50	Sau khi Jewel of Soul thất bại, cấp độ vật phẩm có thể bị giảm.						
+message	31	50	Bạn có thể lập tổ đội với người chơi khác bằng lệnh <font color='#FFBB00'>'/party'</font>.						
+message	31	50	Tỷ lệ phòng thủ tăng 10% khi bạn trang bị đầy đủ cùng một bộ giáp.						
+message	31	50	Vật phẩm Excellent là vật phẩm tốt hơn vật phẩm thường. Tên của chúng được hiển thị bằng <font color='#FFBB00'>màu xanh lá</font>.						
+message	31	50	Phí sử dụng kho sẽ tăng khi cấp độ nhân vật cao hơn.						
+message	31	50	Sát thương được hiển thị bằng <font color='#FFBB00'>màu xanh da trời</font> đối với Đòn Chí Mạng (DMG tối đa).						
+message	31	50	Sát thương được hiển thị bằng <font color='#FFBB00'>màu xanh lá</font> đối với Đòn Excellent (120% DMG tối đa).						
+message	31	50	Chaos Goblin thực hiện kết hợp vật phẩm tại Noria. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (180, 102)</font>.						
+message	31	50	Bạn có thể tạo Guild khi đạt <font color='#FFBB00'>Level 100</font>.						
+message	31	50	Đội trưởng Vệ binh Hoàng gia Lorence hỗ trợ người chơi tạo Guild tại Devias. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (215, 44)</font>.						
+message	31	50	Alex bán vật phẩm cấp trung tại Lorencia. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (63, 130)</font>.						
+message	31	50	Lối đi từ Noria sang Atlans nằm tại <font color='#FFBB00'>tọa độ (240, 242)</font>.						
+//	31	50	You can view or close personal shop titles with '/viewshop on'. '/viewshop off.'						
+message	31	50	Bạn có thể kiểm tra thông tin nhiệm vụ bằng <font color='#FFBB00'>phím nóng T</font>.						
+message	31	50	Có phí khi sử dụng kho, tùy theo cấp độ nhân vật.						
+message	31	50	Giữ <font color='#FFBB00'>phím Shift</font> và di <font color='#FFBB00'>chuột lên vật phẩm</font> để mở tooltip so sánh trang bị.						
+									
+// 데이터 타입	최소레벨	최대레벨							
+// 51~ 레벨 출력							
+message	51	10000	Trong trường hợp bị hack/lừa đảo gây thiệt hại, vui lòng báo cho Bộ phận Hỗ Trợ Khách Hàng.						
+message	51	10000	Bạn có thể tham gia Chaos Castle miễn phí mỗi ngày tại PC Cafe vào các khung giờ <font color='#FFBB00'>1:30, 3:30, 5:30, 7:30, 9:30, 11:30</font>.						
+message	51	10000	GM MU sẽ không bao giờ hỏi tài khoản và mật khẩu của bạn. Vui lòng cẩn thận và không tiết lộ thông tin.						
+//	51	10000	Bản đồ sự kiện mới 'Illusion Temple' đã được cập nhật! Mời tất cả Mutizen tham gia Illusion Temple! Vui lòng xem chi tiết trên website.						
+message	51	10000	Bạn có thể kiểm tra thời gian vào các bản đồ sự kiện như Chaos Castle hoặc Blood Castle bằng <font color='#FFBB00'>phím T</font>.						
+message	51	10000	Lahap phụ trách Kết Hợp / Phân Rã Ngọc. Bạn có thể tìm NPC tại Elbeland ở <font color='#FFBB00'>tọa độ (37, 247)</font>.						
+message	51	10000	Silvia bán potion và mũi tên tại Elbeland. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (44, 229)</font>.						
+message	51	10000	Rhea bán vũ khí và giáp cho Summoner tại Elbeland. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (29, 239)</font>.						
+message	51	10000	Marce bán sách và giấy phép thuật cho Summoner tại Elbeland. Bạn có thể tìm NPC tại <font color='#FFBB00'>tọa độ (36, 219)</font>.						
+message	51	10000	Vệ Binh An Toàn tại Elbeland nằm ở <font color='#FFBB00'>tọa độ (50, 229)</font>.						
+message	51	10000	Mirage, NPC hỗ trợ vào Illusion Temple, nằm tại Loren Market. <font color='#FFBB00'>tọa độ (94, 137)</font>.						
+message	51	10000	Shadow Phantom Soldier tại Elbeland nằm ở <font color='#FFBB00'>tọa độ (43, 191) (57, 232) (73, 220)</font>.						
+//혼합 유료화 관련 도움말 추가										
+message	51	10000	Bạn có thể mở bản đồ thế giới bằng <font color='#FFBB00'>phím Tab</font>.						
+message	51	10000	Bạn có thể sử dụng Cửa Hàng Trong Game bằng <font color='#FFBB00'>phím nóng 'X'</font> hoặc nút <font color='#FFBB00'>'In-game Shop'</font> ở góc dưới bên trái.						
+message	51	10000	Bạn có thể gia nhập 'Gens Duprian' hoặc 'Gens Vanert' khi đạt <font color='#FFBB00'>Level 50 trở lên</font>.						
+message	51	10000	Một số khu vực trong game là Chiến Trường, và bạn cần tham gia Gens để vào các khu vực này.						
+message	51	10000	Nhận nhiều nhiệm vụ phù hợp cấp độ tại Shadow Phantom Soldier ở mỗi thành phố.						
+message	51	10000	Giữ <font color='#FFBB00'>phím Shift</font> và di chuột lên vật phẩm để xem so sánh với trang bị đang mặc.						

@@ -1,0 +1,228 @@
+//==============================================================================================================================================//					
+//	MuDevs.com				
+//	Version: S20.2-1				
+//	Update: Apr/22/2025				
+//	Editor: OMEGA				
+//==============================================================================================================================================//					
+//					
+//Skill_Id	SkillDesc_1		Skilldesc_2		SkillDesc_Type
+1001	"Các đòn tấn công kỹ năng kết nối sẽ tăng sát thương skill lên %d."	"Sát thương Skill tăng %d."	0		
+1002	"Các đòn tấn công sẽ kết nối thêm 1 sát thương."	"không có giá trị"	-1		
+1003	"Các đòn tấn công sẽ kết nối thêm 2 sát thương."	"không có giá trị"	-1		
+1004	"Các đòn tấn công sẽ kết nối thêm 3 sát thương."	"không có giá trị"	-1		
+1005	"Các đòn tấn công sẽ kết nối thêm 4 sát thương."	"không có giá trị"	-1		
+1006	"Đòn tấn công kỹ năng kết nối thêm 2 sát thương."	"không có giá trị"	-1		
+1007	"Các đòn tấn công kỹ năng kết nối sẽ tăng tỉ lệ sát thương bổ sung thêm %0.2f%%."	"Tỉ lệ sát thương bổ sung tăng thêm %0.2f%%."	1		
+1008	"Tăng tốc độ tấn công của kỹ năng được kết nối thêm %d."	"Tăng tốc độ tấn công của kỹ năng được kết nối thêm %d."	0		
+1009	"Tăng phạm vi tấn công của kỹ năng được kết nối thêm %d ô."	"Tăng phạm vi tấn công của kỹ năng được kết nối thêm %d ô."	0		
+1010	"Thêm hiệu ứng sát thương nổ vào kỹ năng được kết nối."	"không có giá trị"	-1		
+1011	"Tăng phạm vi tấn công của kỹ năng được kết nối thêm %d ô."	"Tăng phạm vi tấn công của kỹ năng được kết nối thêm %d ô."	0		
+1012	"Các đòn tấn công kỹ năng kết nối làm tăng số lượng mục tiêu chịu sát thương thêm %d."	"Các đòn tấn công kỹ năng kết nối làm tăng số lượng mục tiêu chịu sát thương thêm %d."	0		
+1013	"Tăng các hiệu ứng có lợi lên %0.2f%%."	"Tăng các hiệu ứng có lợi lên %0.2f%%."	1		
+1014	"Tăng các hiệu ứng có lợi lên %0.2f%%."	"Tăng các hiệu ứng có lợi lên %0.2f%%."	1		
+1015	"Tăng thời gian của các hiệu ứng có lợi lên %d giây."	"Tăng thời gian của các hiệu ứng có lợi lên %d giây."	0		
+1016	"Có thể học skill khiên phòng thủ."	"không có giá trị"	-1		
+1017	"Tăng hiệu ứng của Skill khiên phòng thủ lên %d."	"Tăng hiệu ứng của Skill khiên phòng thủ lên %d."	0		
+1018	"Giảm thời gian hồi chiêu %d giây."	"Giảm thời gian hồi chiêu %d giây."	0		
+1019	"Xóa bỏ thời gian hồi chiêu."	"không có giá trị"	-1		
+1020	"Tăng (Max/Min)sát thương của vũ khí đang trang bị thêm %0.2f%%."	"Tăng (Max/Min)sát thương của vũ khí đang trang bị thêm %0.2f%%."	1		
+1021	"Tăng sát thương phép của vũ khí %0.2f%% khi tấn công kỹ năng."	"Tăng sát thương phép của vũ khí %0.2f%%."	1		
+1022	"Thêm hiệu ứng xuyên thấu vào kỹ năng."	"không có giá trị"	-1		
+1023	"Tăng số mũi tên vào các kỹ năng kết nối lên %d."	"Tăng số mũi tên vào các kỹ năng kết nối lên %d."	0		
+1024	"Khi tấn công bằng skill, %0.2f%% cơ hội tạo ra hiệu ứng vòng Độc.#(kéo dài 10 giây/hồi chiêu 20 giây)# #Gây ra hiệu ứng Độc(Rút máu) tăng đến 7 mục tiêu."	"Tăng cơ hội gây ra hiệu ứng Độc %0.2f%%."	1		
+1025	"Khi tấn công bằng skill, %0.2f%% cơ hội tạo ra hiệu ứng vòng Băng.#(kéo dài 10 giây/hồi chiêu 20 giây)# #Gây ra hiệu ứng đóng băng(làm chậm và giảm phòng thủ) tăng đến 7 mục tiêu."	"Tăng cơ hội gây ra hiệu ứng đóng băng %0.2f%%."	1		
+1026	"Khi tấn công bằng skill, %0.2f%% cơ hội tạo ra hiệu ứng vòng chảy máu.#(kéo dài 10 giây/hồi chiêu 20 giây)# #Gây ra chảy máu(tăng thêm sát thương) tăng đến 7 mục tiêu."	"Tăng cơ hội gây ra hiệu ứng chảy máu %0.2f%%."	1		
+1028	"Tăng thêm Độc tố rút máu %d."	"Thêm %d độc tố rút máu."	0		
+1029	"Tăng hiệu ứng giảm phòng thủ của Debuff băng thêm %d."	"Tăng hiệu ứng giảm phòng thủ của Debuff băng thêm %d."	0		
+1030	"Tăng hiệu ứng mất máu của Debuff chảy máu %d."	"Tăng thêm sát thương của Debuff chảy máu %d."	0		
+1032	"Tăng thời gian trúng độc %d giây."	"Tăng thời gian duy trì hiệu ứng vòng Độc %d giây."	0		
+1033	"Tăng thời gian đóng băng %d giây."	"Tăng thời gian duy trì hiệu ứng vòng Băng %d giây."	0		
+1034	"Tăng thời gian mất máu %d giây."	"Tăng thời gian duy trì hiệu ứng vòng chảy máu %d giây."	0		
+1036	"Tăng sát thương độc của Độc chết chóc thêm %d."	"Tăng sát thương độc của Độc chết chóc thêm %d."	0		
+1037	"Tăng hiệu ứng giảm tốc độ tấn công của đóng băng %0.2f%%."	"Tăng hiệu ứng giảm tốc độ tấn công của đóng băng %0.2f%%."	1		
+1038	"Tăng thêm mất máu của hiệu ứng Xuất huyết %d."	"Tăng thêm mất máu của hiệu ứng Xuất huyết %d."	0		
+1040	"Tăng cơ hội thành công của hiệu ứng Debuff Độc mỗi giây gây ra cho mục tiêu.# #Tăng X2 sát thương độc khi bị ảnh hưởng."	"Tăng cơ hội gây ra Debuff Độc lên %0.2f%%."	1		
+1041	"Tăng cơ hội thành công của hiệu ứng Debuff Băng mỗi giây gây ra cho mục tiêu.# #Tốc độ đánh bị giảm khi bị ảnh hưởng."	"Tăng cơ hội gây ra Debuff Băng lên %0.2f%%."	1		
+1042	"Tăng cơ hội thành công của hiệu ứng Debuff chảy máu mỗi giây gây ra cho mục tiêu.# #Tăng X2 sát thương chảy máu khi bị ảnh hưởng."	"Tăng cơ hội gây ra Debuff chảy máu lên %0.2f%%."	1		
+1046	"Tăng cơ hội tạo ra vòng Độc %0.2f%%."	"Cơ hội gây ra Debuff Độc %0.2f%%."	1		
+1047	"Tăng cơ hội tạo ra vòng Băng %0.2f%%."	"Cơ hội gây ra Debuff Băng %0.2f%%."	1		
+1048	"Tăng cơ hội tạo ra vòng Chảy máu %0.2f%%."	"Cơ hội gây ra Debuff Chảy máu %0.2f%%."	1		
+1050	"Tăng sát thương độc của Debuff Độc chết chóc thêm %d."	"Tăng sát thương độc của Debuff Độc chết chóc thêm %d."	0		
+1051	"Tăng hiệu ứng giảm phòng thủ của Debuff Đóng băng %d."	"Tăng hiệu ứng giảm phòng thủ của Debuff Đóng băng %d."	0		
+1052	"Tăng thêm mất máu của hiệu ứng Debuff Chảy máu %d."	"Tăng thêm mất máu của hiệu ứng Debuff Chảy máu %d."	0		
+1054	"Tăng thời gian duy trì vòng Độc %d giây."	"Tăng thời gian duy trì vòng Độc %d giây."	0		
+1055	"Tăng thời gian duy trì vòng Băng %d giây."	"Tăng thời gian duy trì vòng Băng %d giây."	0		
+1056	"Tăng thời gian duy trì vòng Chảy máu %d giây."	"Tăng thời gian duy trì vòng Chảy máu %d giây."	0		
+1058	"Tăng thêm Độc rút máu gây ra từ Debuff Độc chết chóc %d."	"Tăng thêm Độc rút máu gây ra từ Debuff Độc chết chóc %d."	0		
+1059	"Tăng thêm hiệu ứng giảm tốc đánh từ Debuff Băng %0.2f%%."	"Tăng thêm hiệu ứng giảm tốc đánh từ Debuff Băng %0.2f%%."	1		
+1060	"Tăng thêm hiệu ứng mất máu từ Debuff xuất huyết %d."	"Tăng thêm sát thương của Debuff Xuất huyết %d."	0		
+1062	"Tăng tỉ lệ tạo ra vòng Độc chết chóc %0.2f%%."	"Tăng cơ hội nâng lên hiệu ứng Độc chết chóc %0.2f%%."	1		
+1063	"Tăng tỉ lệ tạo ra vòng Đóng băng %0.2f%%."	"Tăng cơ hội nâng lên hiệu ứng Đóng băng %0.2f%%."	1		
+1064	"Tăng tỉ lệ tạo ra vòng Chảy máu %0.2f%%."	"Tăng cơ hội nâng lên hiệu ứng Chảy máu %0.2f%%."	1		
+1068	"Tăng sát thương của Chém băng thêm %d."	"Tăng sát thương của Chém băng thêm %d."	0		
+1069	"Tăng sát thương của Địa chấn thêm %d."	"Tăng sát thương của Địa chấn thêm %d."	0		
+1070	"Tăng sát thương của Vạn kiếm thêm %d."	"Tăng sát thương của Vạn kiếm thêm %d."	0		
+1071	"Tăng sát thương Đâm gió thêm %d."	"Tăng sát thương Đâm gió thêm %d."	0		
+1072	"Tăng sát thương Đâm lửa thêm %d."	"Tăng sát thương Đâm lửa thêm %d."	0		
+1073	"Tăng cường Gồng máu %d."	"Tăng cường Gồng máu %d."	0		
+1074	"Tăng sát thương Cột lửa thêm %d."	"Tăng sát thương Cột lửa thêm %d."	0		
+1075	"Tăng sát thương Mưa thiên thạch thêm %d."	"Tăng sát thương Thiên thạch thêm %d."	0		
+1076	"Tăng sát thương Bão thiên thạch thêm %d."	"Tăng sát thương Mưa thiên thạch thêm %d."	0		
+1077	"Tăng sát thương Bùng nổ năng lượng thêm %d."	"Tăng sát thương Bùng nổ năng lượng thêm %d."	0		
+1078	"Tăng sát thương Triệu tập linh hồn thêm %d."	"Tăng sát thương Triệu tập linh hồn thêm %d."	0		
+1079	"Tăng sát thương Săn linh hồn %d."	"Tăng sát thương Săn linh hồn %d."	0		
+1080	"Tăng thêm hiệu ứng giảm sát thương của Manashield thêm %d."	"Tăng thêm hiệu ứng giảm sát thương của Manashield thêm %d."	0		
+1081	"Tăng sát thương Mũi tên liên hoàn thêm %d."	"Tăng sát thương Mũi tên liên hoàn thêm %d."	0		
+1082	"Tăng sát thương Mũi tên độc thêm %d."	"Tăng sát thương Mũi tên độc thêm %d."	0		
+1083	"Tăng sát thương Ngũ tiễn thêm %d."	"Tăng sát thương Ngũ tiễn thêm %d."	0		
+1084	"Tăng sát thương Mũi tên băng thêm %d."	"Tăng sát thương Mũi tên băng thêm %d."	0		
+1085	"Tăng sát thương Mũi tên xuyên tâm thêm %d."	"Tăng sát thương Mũi tên xuyên tâm thêm %d."	0		
+1086	"Tăng sát thương Vòng tròn lửa thêm %d."	"Tăng sát thương Vòng tròn lửa thêm %d."	0		
+1087	"Tăng sát thương Bão điện thêm %d."	"Tăng sát thương Bão điện thêm %d."	0		
+1088	"Tăng sát thương Triệu tập linh hồn thêm %d."	"Tăng sát thương Triệu tập linh hồn thêm %d."	0		
+1089	"Tăng sát thương Mưa sao đen thêm %d."	"Tăng sát thương Mưa sao đen thêm %d."	0		
+1090	"Tăng sát thương Mưa thiên thạch thêm %d."	"Tăng sát thương Mưa thiên thạch thêm %d."	0		
+1091	"Tăng sát thương Sức mạnh cú chém thêm %d."	"Tăng sát thương Sức mạnh cú chém thêm %d."	0		
+1092	"Tăng sát thương Chém lửa thêm %d."	"Tăng sát thương Chém lửa thêm %d."	0		
+1093	"Tăng sát thương Kiếm lửa thêm %d."	"Tăng sát thương Kiếm lửa thêm %d."	0		
+1094	"Tăng sát thương Huyết tử thêm %d."	"Tăng sát thương Huyết tử thêm %d."	0		
+1095	"Tăng sát thương Băng tử thêm %d."	"Tăng sát thương Băng tử thêm %d."	0		
+1096	"Tăng sát thương của FireBurst thêm %d."	"Tăng sát thương Hỏa xích long thêm %d."	0		
+1097	"Tăng sát thương của Fire Scream thêm %d."	"Tăng sát thương Hỏa âm thêm %d."	0		
+1098	"Tăng sát thương của Chaotic Diseier thêm %d."	"Tăng sát thương Triệu hồi quạ thêm %d."	0		
+1099	"Tăng sát thương của Wind Soul thêm %d."	"Tăng sát thương Linh hồn thêm %d."	0		
+1100	"Tăng sát thương của Electric Spark thêm %d."	"Tăng sát thương Tập hợp năng lượng thêm  %d."	0		
+1101	"Tăng sát thương của của Drain Life thêm %d."	"Tăng sát thương Hút máu thêm %d."	0		
+1102	"Tăng sát thương của Fire Beast thêm %d."	"Tăng sát thương Hỏa quỷ %d."	0		
+1103	"Tăng sát thương của Lightning Shock thêm %d."	"Tăng sát thương Sốc điện thêm %d."	0		
+1104	"Tăng sát thương của Chain Lightning thêm %d."	"Tăng sát thương Giật sét thêm %d."	0		
+1105	"Tăng sát thương của Aqua Beast thêm %d."	"Tăng sát thương Băng quỷ %d."	0		
+1106	"Tăng sát thương boost của Berserker thêm additional %d."	"Tăng sát thương Cường công thêm %d."	0		
+1107	"Decreases the DEF reduction của Berserker thêm %d."	"Giảm hiệu ứng giảm phòng thủ khi Buff  %d."	0		
+1108	"Tăng sát thương của Dragon Slasher thêm %d."	"Tăng sát thương Hơi thở rồng thêm %d."	0		
+1109	"Tăng sát thương của Phoenix Shot thêm %d."	"Tăng sát thương Vuốt phượng hoàng thêm %d."	0		
+1110	"Tăng sát thương của Dark Phoenix Shot thêm %d."	"Tăng sát thương Vuốt rồng thêm %d."	0		
+1111	"Tăng sát thương của Dragon Roar thêm %d."	"Tăng sát thương Long quyền thêm %d."	0		
+1112	"Tăng sát thương của Chain Drive thêm %d."	"Tăng sát thương Vật ngã thêm %d."	0		
+1113	"Tăng sát thương của Dark Side thêm %d."	"Tăng sát thương Ảo ảnh liên hoàn thêm %d."	0		
+1114	"Tăng Health Boost thêm %d."	"Tăng hiệu ứng Buff thể lực thêm %d."	0		
+1115	"Tăng sát thương của Spin Step thêm %d."	"Tăng sát thương của Spin Step thêm %d."	0		
+1116	"Tăng sát thương của Harsh Strike thêm %d."	"Tăng sát thương của Harsh Strike thêm %d."	0		
+1117	"Tăng sát thương của Magic Pin thêm %d."	"Tăng sát thương của Magic Pin thêm %d."	0		
+1118	"Tăng sát thương của Breche thêm %d."	"Tăng sát thương của Breche thêm %d."	0		
+1119	"Tăng sát thương của Shining Peak thêm %d."	"Tăng sát thương của Shining Peak thêm %d."	0		
+1120	"Tăng sát thương của Wrath thêm %d."	"Tăng sát thương của Wrath thêm %d."	0		
+1121	"Giảm DEF giảm của Wrath thêm %d."	"Giảm DEF giảm của Wrath thêm %d."	0		
+1122	"Giảm tỉ lệ SD của mục tiêu khi tấn công %0.2f%%."	"Giảm tỉ lệ SD bằng %0.2f%%."	1		
+1123	"Tăng SD %d."	"Tăng SD %d."	0		
+1124	"Tăng khả năng giảm SD khi chịu sát thương."	"Tăng khả năng giảm SD khi chịu sát thương %d."	0		
+1125	"Khi kỹ năng Bão độc được sử dụng lên mục tiêu bị trúng độc, Sẽ gây ra 1 vụ nổ Độc. Nâng cấp tùy chọn bổ sung sẽ áp dụng cho kỹ năng."	"null"	-1		
+1126	"Skill Bão băng sử dụng lên mục tiêu đang bị làm chậm, sẽ gây ra môt vụ n0 băng, nâng cap tùy chọn bo sung sẽ áp dụng cho kỹ năng."	"null"	-1		
+1127	"Khi kỹ năng Đòn đánh đẫm máu được sử dụng lên mục tiêu đang bị xuất huyết, Sẽ gây ra 1 vụ nổ Máu nghiêm trọng. Nâng cấp tùy chọn bổ sung sẽ áp dụng cho kỹ năng."	"null"	-1		
+1129	"Tăng sát thương Bão độc thêm %d."	"Tăng sát thương Bão độc thêm %d."	0		
+1130	"Tăng sát thương Bão băng thêm %d."	"Tăng sát thương Bão băng thêm %d."	0		
+1131	"Tăng sát thương Đòn đẫm máu thêm %d."	"Tăng sát thương Đòn đẫm máu thêm %d."	0		
+1133	"Debuff lan sang %d địch xung quanh. Cấp debuff tăng 1 (Thường > Độc > Độc chết người)"	"null"	0		
+1134	"Debuff lan truyền thêm %d mục tiêu xung quanh. Debuff trên các mục tiêu bị ảnh hưởng thêm 1. (Thường > Đóng băng > Bỏng lạnh)"	"null"	0		
+1135	"Debuff lan truyền thêm %d mục tiêu xung quanh. Debuff trên các mục tiêu bị ảnh hưởng thêm 1. (Thường > Chảy máu > Xuất huyết)"	"null"	0		
+1137	"Tăng tối đa HP nhân vật thêm %d."	"Tăng tối đa HP nhân vật thêm %d."	0		
+1138	"Nhận %d điểm point khi tăng cường thêm cho cột tự chọn. (điểm biến đổi)"	"Nhận %d điểm point tăng cường."	0		
+1139	"Tăng phòng thủ cơ bản nhân vật thêm %d."	"Tăng phòng thủ cơ bản nhân vật thêm %d."	0		
+1140	"Tăng phòng thủ của Cánh %d Khi đeo Cánh Lv4."	"Tăng phòng thủ khi đeo Cánh %d Khi đeo Cánh Lv4."	0		
+1141	"Tăng sát thương nhân vật thêm %d."	"Tăng sát thương nhân vật thêm %d."	0		
+1142	"Tăng phép thuật nhân vật thêm %d."	"Tăng phép thuật nhân vật thêm %d."	0		
+1143	"Nhận %d điểm point khi tăng cường thêm cho cột tự chọn. (điểm biến đổi)"	"Nhận %d điểm point tăng cường."	0		
+1144	"Tăng sát thương kỹ năng %d."	"Tăng sát thương kỹ năng %d."	0		
+1145	"Tăng sát thương của Cánh %d khi đeo Cánh Lv4."	"Tăng sát thương của Cánh %d khi đeo Cánh Lv4."	0		
+1146	"Tăng sát thương và phép thuật thêm %d."	"Tăng sát thương và phép thuật thêm %d."	0		
+1147	"Tăng sát thương của Spirit Hook thêm %d."	"Tăng sát thương của Spirit Hook thêm %d."	0		
+1148	"Tăng sát thương của Magic Arrow thêm %d."	"Tăng sát thương của Maggic Arrow thêm %d."	0		
+1149	"Tăng sát thương của Plasma Ball thêm %d."	"Tăng sát thương của Plasma Ball thêm %d."	0		
+1150	"Tăng sát thương của Lightning Storm thêm %d."	"Tăng sát thương của Lightning Storm thêm %d."	0		
+1151	"Giảm tốc độ di chuyển và khoảng cách của Plasma Ball. #(Thời gian tồn tại của Plasma Ball vẫn giữ nguyên.)"	"null"	-1		
+1152	"Tăng tốc độ tấn công của Plasma Ball."	"null"	-1		
+1153	"Tăng diện tích sát thương của Splash thêm %d ô."	"null"	0		
+1154	"Tăng số mục tiêu chịu sát thương của Splash thêm %d."	"null"	0		
+1155	"Tăng sát thương của Death Scythe thêm %d."	"Tăng sát thương của Death Scythe thêm %d."	0		
+1156	"Tăng phép nguyền rủa của vũ khí thêm %0.2f%% khi tấn công bằng kỹ năng liên kết."	"Tăng phép nguyền rủa của vũ khí thêm %0.2f%%."	1		
+1157	"Tăng phép/nguyền rủa thêm %d."	"Tăng phép/nguyền rủa thêm %d."	0		
+1158	"Tăng sát thương của Sword Inertia thêm %d."	"Tăng sát thương của Sword Inertia thêm %d."	0		
+1159	"Tăng sát thương của Bat Flock thêm %d."	"Tăng sát thương của Bat Flock thêm %d."	0		
+1160	"Tăng sát thương của Pierce Attack thêm %d."	"Tăng sát thương của Pierce Attack thêm %d."	0		
+1166	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Độc thêm %d."	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Độc thêm 2."	0		
+1167	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Độc chết chóc thêm %d."	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Độc chết chóc thêm 2."	0		
+1168	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Chảy máu thêm %d."	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Chảy máu thêm 2."	0		
+1169	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Xuất huyết thêm %d."	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Xuất huyết thêm 2."	0		
+1170	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Băng thêm %d"	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Băng thêm 2."	0		
+1171	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Băng giá thêm %d."	"Tăng thêm số lượng mục tiêu bị ảnh hưởng trong Vòng Băng giá thêm 2."	0		
+1172	"Tăng tầm ảnh hưởng Vòng Độc thêm %d."	"Tăng tầm ảnh hưởng Vòng Độc thêm 2."	0		
+1174	"Tăng tầm ảnh hưởng Vòng Chảy máu %d."	"Tăng tầm ảnh hưởng Vòng Chảy máu 2."	0		
+1176	"Tăng tầm ảnh hưởng Vòng Băng %d."	"Tăng tầm ảnh hưởng Vòng Băng 2."	0		
+1178	"Tăng cơ hội thành công Debuff Độc thêm %d."	"Tăng cơ hội thành công Debuff Độc thêm %d."	0		
+1179	"Tăng cơ hội thành công Debuff Độc chết chóc thêm %d."	"Tăng cơ hội thành công Debuff Độc chết chóc thêm %d."	0		
+1180	"Tăng cơ hội thành công Debuff Chảy máu thêm %d."	"Tăng cơ hội thành công Debuff Chảy máu thêm %d."	0		
+1181	"Tăng cơ hội thành công Debuff Xuất huyết thêm %d."	"Tăng cơ hội thành công Debuff Xuất huyết thêm %d."	0		
+1182	"Tăng cơ hội thành công Debuff Băng thêm %d."	"Tăng cơ hội thành công Debuff Băng thêm %d."	0		
+1183	"Tăng cơ hội thành công Debuff Băng giá thêm %d."	"Tăng cơ hội thành công Debuff Băng giá thêm %d."	0		
+1184	"Tăng cơ hội thành công gây ra Debuff Độc %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Poisoning thêm %d."	0		
+1185	"Tăng cơ hội thành công gây ra Debuff Độc chết chóc %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Toxic thêm %d."	0		
+1186	"Tăng cơ hội thành công gây ra Debuff Chảy máu %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Bleeding thêm %d."	0		
+1187	"Tăng cơ hội thành công gây ra Debuff Xuất huyết %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Severe Bleeding thêm %d."	0		
+1188	"Tăng cơ hội thành công gây ra Debuff Băng %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Freeze thêm %d."	0		
+1189	"Tăng cơ hội thành công gây ra Debuff Băng giá %d."	"Tăng tỷ lệ thành công khi gây hiệu ứng Frostbite thêm %d."	0		
+1190	"Tăng số lượng mục tiêu bị ảnh hưởng bởi Vòng Độc %d."	"Tăng số lượng mục tiêu bị ảnh hưởng bởi hiệu ứng trong trường ma thuật Poisoning/Toxic thêm 2."	0		
+1191	"Tăng số lượng mục tiêu bị ảnh hưởng bởi Vòng Chảy máu %d."	"Tăng số lượng mục tiêu bị ảnh hưởng bởi hiệu ứng trong trường ma thuật Bleeding/Severe Bleeding thêm 2."	0		
+1192	"Tăng số lượng mục tiêu bị ảnh hưởng bởi Vòng Băng %d."	"Tăng số lượng mục tiêu bị ảnh hưởng bởi hiệu ứng trong trường ma thuật Freezing/Frostbite thêm 2."	0		
+1193	"Khi trang bị Wing 4, tăng phép thuật %d."	"Khi trang bị Wing 4, tăng phép thuật %d."	0		
+1194	"Khi trang bị Wing 4, tăng sát thương %d."	"Khi trang bị Wing 4, tăng sát thương %d."	0		
+1195	"Khi trang bị Wing 4, Tăng phép nguyền rủa %d."	"Khi trang bị Wing 4, Tăng phép nguyền rủa %d."	0		
+1196	"Tăng thêm sát thương Bão độc %d."	"Tăng thêm sát thương Bão độc %d."	0		
+1197	"Tăng thêm sát thương Bão băng %d."	"Tăng thêm sát thương Bão băng %d."	0		
+1198	"Tăng thêm sát thương Đòn đẫm máu  %d."	"Tăng thêm sát thương Đòn đẫm máu %d."	0		
+1199	"Tăng phạm vi ảnh hưởng Bão độc %d."	"Tăng phạm vi ảnh hưởng Bão độc 2."	0		
+1200	"Tăng phạm vi ảnh hưởng Bão băng %d."	"Tăng phạm vi ảnh hưởng Bão băng 2."	0		
+1201	"Tăng phạm vi ảnh hưởng Đòn đẫm máu %d."	"Tăng phạm vi ảnh hưởng Đòn đẫm máu 2."	0		
+1202	"Tăng ATK của kỹ năng Strike của Destruction thêm %d."	"Tăng ATK của kỹ năng Strike của Destruction thêm %d."	0		
+1203	"Tăng ATK của kỹ năng Sword Blow thêm %d."	"Tăng ATK của kỹ năng Sword Blow thêm %d."	0		
+1204	"Khi Buff Tăng cường ước nguyện, tăng phòng thủ thêm %d."	"tăng phòng thủ thêm %d."	0		
+1205	"Khi Buff Tăng cường ước nguyện, tăng max Hp thêm %d."	"tăng max Hp thêm %d."	0		
+1206	"Khi Buff Tăng cường ước nguyện, tăng sát thương/phép thuật cho nhóm %d."	"tăng sát thương/phép thuật cho nhóm %d."	0		
+1207	"Khi Buff Tăng cường ước nguyện, tăng tỉ lệ chuyển hóa HP %0.2f%%."	"tăng tỉ lệ chuyển hóa HP %0.2f%%."	1		
+1208	"Khi Buff Tăng cường ước nguyện, tăng tỉ lệ chuyển hóa sát thương %0.2f%%."	"tăng tỉ lệ chuyển hóa sát thương %0.2f%%."	1		
+1209	"Khi Buff Tăng cường ước nguyện, tăng phòng thủ cho nhóm %d."	"tăng phòng thủ cho nhóm %d."	0		
+1210	"Khi Buff Tăng cường ước nguyện, tăng phòng thủ khiên %d."	"tăng phòng thủ khiên %d."	0		
+1211	"Tăng sát thương của Dark Plasma thêm %d."	"Tăng sát thương của Dark Plasma thêm %d."	0		
+1212	"Tăng sát thương của Ice Blast thêm %d."	"Tăng sát thương của Ice Blast thêm %d."	0		
+1213	"Tăng sát thương của Bursting Flare thêm %d."	"Tăng sát thương của Bursting Flare thêm %d."	0		
+1214	"Tăng sát thương của Chaos Blade thêm %d."	"Tăng sát thương của Chaos Blade thêm %d."	0		
+1215	"Tăng sát thương của Havok Spear thêm %d."	"Tăng sát thương của Havok Spear thêm %d."	0		
+1216	"Tăng sát thương của Spear Storm thêm %d. "	"Tăng sát thương của Spear Storm thêm %d. "	0		
+1217	"Tăng sát thương của Marble Burst thêm %d."	"Tăng sát thương của Marble Burst thêm %d."	0		
+1218	"Tăng sát thương của Unleash Marble thêm %d."	"Tăng sát thương của Unleash Marble thêm %d."	0		
+1219	"Tăng sát thương của Ultimate Force thêm %d."	"Tăng sát thương của Ultimate Force thêm %d."	0		
+1220	"Tăng sát thương của Shining Bird thêm %d."	"Tăng sát thương của Shining Bird thêm %d."	0		
+1221	"Tăng sát thương của Violent Dragon thêm %d."	"Tăng sát thương của Violent Dragon thêm %d."	0		
+1222	"Tăng sức tấn công của Raining Arrow thêm %d."	"Tăng sức tấn công của Raining Arrow thêm %d."	0		
+1223	"Tăng sức tấn công của Holy Bolt thêm %d."	"Tăng sức tấn công của Holy Bolt thêm %d."	0		
+1224	"Tăng cường Buff tấn công thuộc tính thêm %d."	"Tăng cường Buff tấn công thuộc tính thêm %d."	0		
+1225	"Tăng cường Buff phòng thủ thuộc tính thêm %d."	"Tăng cường Buff phòng thủ thuộc tính thêm %d."	0		
+1226	"Tăng tốc độ buff hồi máu thêm %d."	"Tăng tốc độ buff hồi máu thêm %d."	0		
+1227	"Tăng tốc độ buff hồi máu nhóm thêm %d."	"Tăng tốc độ buff hồi máu nhóm thêm %d."	0		
+1228	"Tăng cường Buff tấn công thêm %d."	"Tăng cường Buff tấn công thêm %d."	0		
+1229	"Tăng cường Buff phòng thủ thêm %d."	"Tăng cường Buff phòng thủ thêm %d."	0		
+1230	"Tăng thêm điểm số của Buff ước nguyện thêm %d."	"Tăng thêm điểm số của Buff ước nguyện thêm %d."	0		
+1231	"Tăng sát thương của Charge Slash skill thêm %d."	"Tăng sát thương của Charge Slash skill thêm %d."	0		
+1232	"Tăng sát thương của Windglaive skill thêm %d."	"Tăng sát thương của Windglaive skill thêm %d."	0		
+1233	"Tăng sát thương của Bladestorm skill thêm %d."	"Tăng sát thương của Bladestorm skill thêm %d."	0		
+1235	"Tăng sát thương (DMG) của Oversting thêm %d."	"Tăng sát thương (DMG) của Oversting thêm %d."	0		
+1236	"Tăng sát thương (DMG) của Wildbreath thêm %d."	"Tăng sát thương (DMG) của Wildbreath thêm %d."	0		
+1237	"Tăng ATK của Synthesis: Angel Homunculus lên %d"	"Tăng ATK của Synthesis:Angel Homunculus lên %d"	0		
+1238	"Tăng ATK của Synthesis: Ignition Bomber lên %d"	"Tăng ATK của Synthesis:Ignition Bomber lên %d"	0		
+1239	"Tăng ATK của Synthesis: Countless Weapon lên %d"	"Tăng ATK của Synthesis:Countless Weapon lên %d"	0		
+1240	"Tăng sát thương (DMG) của Spirit Blast thêm %d."	"Tăng sát thương (DMG) của Spirit Blast thêm %d."	0		
+1241	"Nhận %d điểm thuộc tính khi nâng cấp, có thể dùng cho thuộc tính mong muốn. (Thuộc tính biến đổi)"	"Nhận %d điểm thuộc tính khi nâng cấp."	0		
+1242	"Nhận %d điểm thuộc tính khi nâng cấp, có thể dùng cho thuộc tính mong muốn. (Thuộc tính biến đổi)"	"Nhận %d điểm thuộc tính khi nâng cấp."	0		
+//S20.2-1					
+1504	"Sức tấn công của kỹ năng Rune Sphere tăng %d"	"Sức tấn công của kỹ năng Rune Sphere tăng %d"	0		
+1505	"Sức tấn công của kỹ năng Rune Praise tăng %d"	"Sức tấn công của kỹ năng Rune Praise tăng %d"	0		
+end					

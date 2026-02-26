@@ -1,0 +1,204 @@
+//==============================================================================================================================================//			
+//	MuDevs.com		
+//	Version: S20.1-1		
+//	Update: Sep/24/2024		
+//	Editor: OMEGA		
+//==============================================================================================================================================//			
+// (QuestStringIndex) (QuestString) (StringType) (GuideQuest.txt Index)			
+1   Những lữ khách của Lục Địa        1   -1
+2   Những nhà thám hiểm của Lục Địa   1   -1
+3   Sự trưởng thành của các Anh hùng  1   -1
+4   Sự thức tỉnh của các Anh hùng     1   -1
+5	Không xác định	1	-1
+6	Không xác định	1	-1
+7	Không xác định	1	-1
+8	Không xác định	1	-1
+9	Không xác định	1	-1
+10	Không xác định	1	-1
+11	Di chuyển đến Linh hồn thiên sứ	2	11
+12	Di chuyển đến Linh hồn thiên sứ	2	12
+13	Di chuyển đến Linh hồn thiên sứ	2	13
+14	Săn Lorencia Spider	2	14
+15	Săn Noria Spider	2	15
+16	Săn Elbeland Spider	2	16
+17	Săn Lorencia Bull Fighter	2	17
+18	Săn Noria Chain Scorpion	2	18
+19	Săn Elbeland Infected Butterfly	2	19
+20	Săn Lorencia Giant	2	20
+21	Săn Noria Beetle Monster	2	21
+22	Săn Elbeland Strange Rabbit	2	22
+23	Di chuyển đến Lorencia Equipment Merchant	2	23
+24	Di chuyển đến Noria Equipment Merchant	2	24
+25	Di chuyển đến Elbeland Equipment Merchant	2	25
+26	Nhặt- Lorencia -Apple	2	26
+27	Nhặt- Noria -Apple	2	27
+28	Nhặt- Elbeland- Apple	2	28
+29	Săn Lorencia Bull Fighter Captain	2	29
+30	Săn Noria Săner	2	30
+31	Săn Elbeland Strange Rabbit	2	31
+32	Săn Lorencia Hound	2	32
+33	Săn Noria Goblin Captain	2	33
+34	Săn Elbeland Hideous Rabbit	2	34
+35	Săn Lorencia Skeleton Warrior	2	35
+36	Săn Noria Forest Monster	2	36
+37	Săn Elbeland Hideous Rabbit	2	37
+38	Săn Lorencia Lich	2	38
+39	Săn Noria Agon	2	39
+40	Săn Elbeland Hideous Rabbit	2	40
+41	Di chuyển đến Lorencia Skill Merchant	2	41
+42	Di chuyển đến Noria Skill Merchant	2	42
+43	Di chuyển đến Elbeland Skill Merchant	2	43
+44	Di chuyển đến Elbeland Field	2	44
+45	Săn Elbeland Werewolf	2	45
+46	Săn Elbeland Cursed Lich	2	46
+47	Săn Elbeland Totem Golem	2	47
+48	Săn Elbeland Captain Grizzly	2	48
+49	Đạt đến Lv. 20	2	49
+50	Go to Devias Linh hồn thiên sứ	2	50
+51	Săn Devias Worm	2	51
+52	Săn Devias Hommerd (in small numbers)	2	52
+53	Săn Devias Ice Monster (in small numbers)	2	53
+54	Săn Devias Assassin	2	54
+55	Săn Devias Yeti	2	55
+56	Săn Devias Elite Yeti	2	56
+57	Săn Devias Yeti	2	57
+58	Săn Devias Hommerd	2	58
+59	Đạt đến Lv. 30	2	59
+60	Di chuyển đến Dungeon Field	2	60
+61	Săn Dungeon Skeleton Warrior	2	61
+62	Săn Dungeon Larva	2	62
+63	Săn Dungeon Cyclops	2	63
+64	Săn Dungeon Ghost	2	64
+65	Đạt đến Lv. 40	2	65
+66	Di chuyển đến Dungeon	2	66
+67	Săn Dungeon Hellhound	2	67
+68	Săn Dungeon Skeleton Archer	2	68
+69	Săn Dungeon Hell Spider	2	69
+70	Săn Dungeon Skeleton Warrior Captain	2	70
+71	Săn Dungeon Thunder Lich	2	71
+72	Săn Dungeon Poison Bull Fighter	2	72
+73	Săn Dungeon Dark Knight	2	73
+74	Đạt đến Lv. 50	2	74
+75	Go to Gens Duprian	2	75
+76	Go to Gens Vanert	2	76
+77	Di chuyển đến Lost Tower	2	77
+78	Săn Lost Tower Shadow	2	78
+79	Săn Lost Tower Poison Shadow	2	79
+80	Săn Lost Tower Cursed Mage	2	80
+81	Săn Lost Tower Death Cow	2	81
+82	Săn Lost Tower Devil	2	82
+83	Săn Lost Tower Death Knight	2	83
+84	Đạt đến Lv. 60	2	84
+85	Di chuyển đến Atlans	2	85
+86	Săn Atlans Bahamut	2	86
+87	Săn Atlans Vepar	2	87
+88	Săn Atlans Valkyrie (in small numbers)	2	88
+89	Đạt đến Lv. 70	2	89
+90	Atlans Field Recommendations 1	2	90
+91	Đạt đến Lv. 80	2	91
+92	Di chuyển đến Atlans 2	2	92
+93	Săn Atlans Great Bahamut	2	93
+94	Săn Atlans Silver Valkyrie	2	94
+95	Săn Atlans Lizard King	2	95
+96	Săn Lost Tower Death Gorgon	2	96
+97	Đạt đến Lv. 90	2	97
+98	Atlans Field Recommendations 2	2	98
+99	Đạt đến Lv. 100	2	99
+100	Linh hồn thiên sứ	2	100
+101	Atlans Field Recommendations 3	2	101
+102	Đạt đến Lv. 110	2	102
+103	Atlans Field Recommendations 4	2	103
+104	Đạt đến Lv. 120	2	104
+105	Atlans Field Recommendations 5	2	105
+106	Đạt đến Lv. 130	2	106
+107	Atlans Field Recommendations 6	2	107
+108	Đạt đến Lv. 140	2	108
+109	Di chuyển đến Tarkan	2	109
+110	Săn Tarkan Mutant	2	110
+111	Săn Tarkan Bloody Wolf	2	111
+112	Săn Tarkan Iron Wheel	2	112
+113	Săn Tarkan Tantalos	2	113
+114	Di chuyển đến Tarkan	2	114
+115	Săn Tarkan Beam Knight	2	115
+116	Săn Tarkan Death Beam Knight (in small numbers)	2	116
+117	Tarkan Field Recommendations	2	117
+118	Đạt đến Lv. 150	2	118
+119	Chuyển cấp lần 1	2	119
+120	Di chuyển đến Aida	2	120
+121	Săn Aida Death Tree	2	121
+122	Săn Aida Forest Orc	2	122
+123	Săn Aida Death Rider	2	123
+124	Săn Aida Blue Golem	2	124
+125	Aida Field Recommendations 1	2	125
+126	Đạt đến Lv. 160	2	126
+127	Di chuyển đến Kanturu Ruins 1	2	127
+128	Săn Kanturu Ruins Splinter Wolf	2	128
+129	Săn Kanturu Ruins Iron Rider	2	129
+130	Săn Kanturu Ruins Satyros	2	130
+131	Di chuyển đến Kanturu Ruins 2	2	131
+132	Săn Kanturu Ruins Blade Săner	2	132
+133	Săn Kanturu Ruins Berserker	2	133
+134	Săn Kanturu Ruins Kentauros	2	134
+135	Săn Kanturu Ruins Genocider	2	135
+136	Săn Kanturu Ruins Gigantis	2	136
+137	Kanturu Ruins Field Recommendations 1	2	137
+138	Đạt đến Lv. 170	2	138
+139	Kanturu Ruins Field Recommendations 2	2	139
+140	Đạt đến Lv. 180	2	140
+141	Kanturu Ruins Field Recommendations 3	2	141
+142	Đạt đến Lv. 190	2	142
+143	Kanturu Ruins Field Recommendations 4	2	143
+144	Đạt đến Lv. 200	2	144
+145	Kanturu Ruins Field Recommendations 5	2	145
+146	Đạt đến Lv. 210	2	146
+147	Kanturu Ruins Field Recommendations 6	2	147
+148	Đạt đến Lv. 220	2	148
+149	Chuyển cấp lần 2 - Đến tìm Devias Marlon 1	2	149
+150	Chuyển cấp lần 2 - Đến tìm Lorencia Marlon 2	2	150
+151	Chuyển cấp lần 2 - Đến tìm Noria Marlon 3	2	151
+152	Chuyển cấp lần 2 - Đến tìm Atlans Marlon 4	2	152
+153	Hoàn thành chuyển cấp lần 2	2	153
+154	Kanturu Ruins Field Recommendations 6	2	154
+155	Đạt đến Lv. 230	2	155
+156	Kanturu Ruins Field Recommendations 7	2	156
+157	Đạt đến Lv. 240	2	157
+158	Kanturu Ruins Field Recommendations 8	2	158
+159	Đạt đến Lv. 250	2	159
+160	Kanturu Ruins Field Recommendations 9	2	160
+161	Đạt đến Lv. 260	2	161
+162	Kanturu Ruins Field Recommendations 10	2	162
+163	Đạt đến Lv. 270	2	163
+164	Kanturu Ruins Field Recommendations 11	2	164
+165	Đạt đến Lv. 280	2	165
+166	Đến tìm Karutan	2	166
+167	Săn Venomous Chain Scorpion	2	167
+168	Săn Bone Scorpion	2	168
+169	Săn Orcus	2	169
+170	Săn Crypos	2	170
+171	Săn Crypta	2	171
+172	Kanturu Ruins Field Recommendations 12	2	172
+173	Đạt đến Lv. 290	2	173
+174	Kanturu Ruins Field Recommendations 13	2	174
+175	Đạt đến Lv. 300	2	175
+176	Đến tìm Acheron	2	176
+177	Acheron Săning Grounds Recommendations 1	2	177
+178	Đạt đến Lv. 320	2	178
+179	Acheron Săning Grounds Recommendations 2	2	179
+180	Đạt đến Lv. 340	2	180
+181	Acheron Săning Grounds Recommendations 3	2	181
+182	Đạt đến Lv. 360	2	182
+183	Acheron Săning Grounds Recommendations 4	2	183
+184	Đạt đến Lv. 380	2	184
+185	Đến tìm Raklion	2	185
+186	Săn ice Walker	2	186
+187	Săn Giant Mammoth	2	187
+188	Săn Ice Giant	2	188
+189	Săn Iron Knight	2	189
+190	Săn Coolutin	2	190
+191	Săn Dark Coolutin	2	191
+192	Săn Dark Mammoth	2	192
+193	Săn Dark Giant	2	193
+194	Săn Dark Iron Knight	2	194
+195	Đạt đến Lv. 400	2	195
+196	Hoàn thành chuyển cấp lần 3	2	196
+end			

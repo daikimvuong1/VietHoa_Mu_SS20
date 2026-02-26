@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////		
+//	[Script]	ArcaBattleScript.txt
+//	[ Text  Version ]	1.0.0.4
+//	[ 최종 작업자 ]	홍승욱
+//	[ 최종 작업일 ]	2012-03-21 12:12
+//	[ 작 업 내 용 ]	인덱스 4번 내용 수정 (점령시점까지 ==> 종료시점까지)
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////		
+// 아르카쟁내 진행 UI 메시지		
+//Index는 서버에서 전달 받는 진행 공지(메시지) 고유 번호이다.		
+//Type 은 공지의 성격에 따라 공지의 색을 달리한다. (0 :노란색(일반공지), 1:파란색(우리길드점령), 2: 빨간색(다른길드점령), 3:노란색(시간정보를 받아오는 메시지 %d가 있는 메시지))		
+//Text는 공지의 내용이다.		
+//아르카쟁 진행 UI 메시지와 관련해서 변경사항(메시지 추가/삭제)이 발생할 경우 서버와 먼저 상의한다.		
+
+//INDEX	Type	Text (ENG)																							
+0	0	"Tháp nguyên tố đã xuất hiện. Hãy chinh phục và giành chiến thắng Arca."
+1	2	"Đối thủ đang chiếm Bệ phòng thủ. Hãy ngăn cản lại."
+2	1	"Rào cản bị phá hủy. Hãy chiếm lấy Bệ phòng thủ."
+3	2	"Đối thủ đã chiếm Bệ phòng thủ. Bạn hãy tranh giành nó."
+4	1	"Chúc mừng. Bạn đã chiếm Bệ phòng thủ. Hãy bảo vệ nó."
+5	2	"Bệ phòng thủ đã bị chiếm lấy. Hãy giành lại nó."
+6	3	"Còn %d phút kết thúc Chiến trường Arca."
+7	3	"Còn %d giây kết thúc Chiến trường Arca."
+8	3	"Cuộc chiến Arca kết thúc. Bạn sẽ được di chuyển sau %d giây."
+9	3	"Còn %d phút nữa Chiến trường Arca sẽ đóng lại. Vui lòng di chuyển bản đồ khác."
+10	3	"Còn %d giây nữa Chiến trường Arca sẽ đóng lại. Vui lòng di chuyển bản đồ khác."
+11	3	"Còn %d phút nữa Chiến trường Arca bắt đầu. Bạn có thể thành lập nhóm."
+12	3	"Còn %d giây nữa Chiến trường Arca bắt đầu. Bạn có thể thành lập nhóm."

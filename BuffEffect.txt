@@ -1,0 +1,441 @@
+//==============================================================================================================================================//									
+//	MuDevs.com								
+//	Version: S20.2-3								
+//	Update: May/29/2025								
+//	Editor: OMEGA								
+//	UTF-8								
+//==============================================================================================================================================//									
+//[Index]	[ViewportID]	[ItemType]	[ItemIndex]	[Name]	[Type]	[notice]	[Cleartype]	[Explanation]	[BuffOutputValue]
+0									
+1	1	255	255	"Tăng sức tấn công"	0	1	1	"Sức tấn công tăng."	0
+2	2	255	255	"Tăng phòng thủ"	0	1	1	"Phòng thủ tăng."	0
+3	3	255	255	"Hiệu ứng Shadow Phantom"	0	1	1	"Sức tấn công và Phòng thủ tăng"	0
+4	4	255	255	"Soul Barrier"	0	1	1	"Mana hấp thụ sát thương."	0
+5	5	255	255	"Lord of Dignity"	0	1	1	"Tăng tỉ lệ sát thương Chí mạng và Hoàn hảo cho bạn và thành viên tổ đội."	0
+6	6	255	255	"Infinity Arrow"	0	0	1	"Mũi tên không bị tiêu hao."	0
+7	7	255	255	"Tăng tốc độ hồi AG"	0	0	1	""	0
+8	8	255	255	"Swell Life"	0	1	1	"Chỉ số HP tăng lên mức tối đa."	0
+9	9	255	255	"Swell Mana"	0	0	1	"Chỉ số Mana tăng lên mức tối đa."	0
+10	10	255	255	"Potion of Blessing"	0	0	1	"Sức tấn công tăng +20%"	0
+11	11	255	255	"Potion of Soul"	0	0	1	"Tăng tốc độ hồi AG +8 / Tăng kháng Sét và Băng / Tăng tốc độ tấn công +20"	0
+12	12	255	255	"Hủy bỏ phép thuật"	0	0	1	""	0
+13	13	255	255	"Trạng thái Mở/Đóng Cổng"	0	1	1	""	0
+14	14	255	255	"Tháp canh"	0	1	1	"Đang canh giữ lâu đài."	0
+15	14	255	255	"Bang hội Công thành 1"	0	1	1	"Đang trong quá trình tấn công lâu đài"	0
+16	14	255	255	"Bang hội Công thành 2"	0	1	1	"Đang trong quá trình tấn công lâu đài"	0
+17	14	255	255	"Bang hội Công thành 3"	0	1	1	"Đang trong quá trình tấn công lâu đài"	0
+18	15	255	255	"Tàng hình"	0	1	1	"Trạng thái trong suốt"	0
+19	16	255	255	"Kỹ năng chiến đấu Dark Rod"	0	0	1	""	0
+20	17	255	255	"Trạng thái đăng ký Vương miện"	0	1	1	""	0
+21	18	255	255	"Bàn thờ Sói cho phép giao ước"	0	1	1	""	0
+22	18	255	255	"Bàn thờ Sói hủy giao ước"	0	1	1	""	0
+23	18	255	255	"Trạng thái giao ước Bàn thờ Sói"	0	1	1	""	0
+24	18	255	255	"Thử giao ước Bàn thờ Sói"	0	1	1	""	0
+25	18	255	255	"Trạng thái công thành Bàn thờ Sói"	0	1	1	""	0
+26	18	255	255	"Trạng thái giao ước anh hùng Bàn thờ Sói"	0	1	1	""	0
+27	19	255	255	"Độ trong suốt NPC Cry Wolf"	0	1	1	""	0
+28	20	255	255	"GM"	0	1	1	""	0
+29	60	13	43	"Seal of Ascension"	0	0	1	"Tăng EXP nhận được 50%"	0
+30	61	13	44	"Seal of Wealth"	0	0	1	"Tăng EXP nhận được 100% / Tăng tỉ lệ rơi vật phẩm 150%"	0
+31	62	13	45	"Seal of Sustenance"	0	0	1	"Ngừng nhận EXP"	0
+32	22	255	255	"Đền thờ - Phép Tăng Tốc"	0	0	1	""	0
+33	22	255	255	"Đền thờ - Phép Thăng Hoa"	0	0	1	""	0
+34	22	255	255	"Phép Bảo Hộ"	0	1	1	"Hấp thụ sát thương 100%."	0
+35	246	14	46	"[Boost] Phước lành Jack O'Lantern"	0	0	1	"Tốc độ tấn công +10"	0
+36	247	14	47	"[Reinforce] Cơn thịnh nộ Jack O'Lantern"	0	0	1	"Tăng Tấn công / Phép thuật / Nguyền rủa +40"	0
+37	247	14	48	"[Reinforce] Tiếng khóc Jack O'Lantern"	0	0	1	"Phòng thủ +100"	0
+38	246	14	49	"[Boost] Thức ăn Jack O'Lantern"	0	0	1	"HP tối đa +700"	0
+39	246	14	50	"[Boost] Đồ uống Jack O'Lantern"	0	0	1	"MP tối đa +700"	0
+40	60	13	43	"Seal of Ascension"	0	1	1	"Tăng EXP nhận được 50%"	0
+41	61	13	44	"Seal of Wealth"	0	1	1	"Tăng EXP nhận được 100% / Tăng tỉ lệ rơi vật phẩm 150%"	0
+42	65	13	45	"Seal of Sustenance"	0	1	1	"Ngừng nhận EXP"	0
+43	57	13	59	"Seal of Mobility"	0	1	1	"Kích hoạt khả năng di chuyển"	0
+44	67	14	72	"Scroll of Quickness"	0	1	1	"Tăng tốc độ tấn công +15"	0
+45	68	14	73	"Scroll of Defense"	0	1	1	"Tăng phòng thủ +60"	0
+46	69	14	74	"Scroll of Wrath"	0	1	1	"Tăng sức tấn công +30"	0
+47	70	14	75	"Scroll of Wizardry"	0	1	1	"Tăng Phép thuật / Nguyền rủa +30"	0
+48	71	14	76	"Scroll of Health"	0	1	1	"Tăng HP +200"	0
+49	72	14	77	"Scroll of Mana"	0	1	1	"Tăng Mana +300"	0
+50	26	14	78	"Elixir of Strength"	0	1	1	"Chỉ số Sức mạnh +50"	0
+51	26	14	79	"Elixir of Agility"	0	1	1	"Chỉ số Nhanh nhẹn +50"	0
+52	26	14	80	"Elixir of Health"	0	1	1	"Chỉ số Thể lực +50"	0
+53	26	14	81	"Elixir of Energy"	0	1	1	"Chỉ số Năng lượng +50"	0
+54	26	14	82	"Elixir of Control"	0	1	1	"Chỉ số Điều khiển +50"	0
+55	27	255	255	"Độc"	1	1	1	"Trạng thái bị Nhiễm độc"	0
+56	28	255	255	"Băng"	1	1	1	"Tốc độ di chuyển giảm."	0
+57	29	255	255	"Mũi tên Băng"	1	1	1	"Vô hiệu hóa di chuyển"	0
+58	30	255	255	"Giảm phòng thủ"	1	1	1	"Giảm ngẫu nhiên phòng thủ 10%."	0
+59	31	255	255	"Giảm sức tấn công"	1	0	1	""	0
+60	32	255	255	"Giảm gia tăng pháp thuật"	1	0	1	""	0
+61	33	255	255	"Choáng"	1	1	1	"Vô hiệu hóa di chuyển"	0
+62	34	255	255	"Phòng thủ Phép thuật"	1	0	1	""	0
+63	35	255	255	"Kháng tấn công Phép thuật của Quái"	1	1	1	""	0
+64	36	255	255	"Kháng tấn công Hóa học của Quái"	1	1	1	""	0
+65	37	255	255	"Phép Hạn Chế"	1	1	1	"Vô hiệu hóa di chuyển"	0
+66	38	255	255	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0	1	1	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0
+67	38	255	255	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0	1	1	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0
+68	38	255	255	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0	1	1	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0
+69	38	255	255	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0	1	1	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0
+70	38	255	255	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0	1	1	"Trạng thái Bảo hộ Thần thánh Cry Wolf"	0
+71	39	255	255	"Phản sát thương"	0	1	1	"Phản xạ một phần sát thương."	0
+72	40	255	255	"Ngủ"	1	1	1	"Ngủ trong thời gian ngắn"	0
+73	40	255	255	"Mù"	1	1	1	"Tầm nhìn bị thu hẹp và độ chính xác tấn công giảm."	0
+74	41	255	255	"Requiem"	1	1	1	"Đòn tấn công của Summoner Neil"	0
+75	42	255	255	"Vụ nổ"	1	1	1	"Đòn tấn công của Summoner Shamut"	0
+76	43	255	255	"Suy yếu"	1	1	1	"Giảm sức tấn công"	0
+77	43	255	255	"Đổi mới"	1	1	1	"Giảm phòng thủ"	0
+78	246	14	85	"[Boost] Rượu Hoa Anh Đào"	0	0	1	"MP tối đa +700"	0
+79	246	14	86	"[Boost] Bánh Gạo Hoa Anh Đào"	0	0	1	"HP tối đa +700"	0
+80	247	14	87	"[Upgrade] Cánh Hoa Anh Đào"	0	0	1	"Tấn công / Phép thuật / Nguyền rủa +40"	0
+81	288	255	255	"Berserker"	0	1	1	"Tăng Phép thuật / Tốc độ tấn công, giảm Phòng thủ / HP tối đa"	0
+// Buff Até level 400									
+82	45	255	255	"Gia tăng Pháp lực"	0	1	1	"Tăng pháp thuật tối thiểu."	0
+83	46	255	255	"Flame Strike"	1	1	1	""	0
+84	47	255	255	"Gigantic Storm"	1	1	1	""	0
+85	48	255	255	"Lightning Shock"	1	1	1	""	0
+86	49	255	255	"Lạnh"	1	1	1	"Hiệu ứng lạnh gây bất lợi làm giảm tốc độ di chuyển."	0
+87	13	13	62	"Seal of Healing"	0	0	1	"Tăng 50% EXP / Tự động hồi HP 5%"	0
+88	13	13	63	"Seal of Divinity"	0	0	1	"Tăng 150% tỉ lệ rơi vật phẩm / Tự động hồi Mana 5%"	0
+89	55	14	97	"Scroll of Battle"	0	1	1	"Tăng 20% sát thương chí mạng"	0
+90	56	14	98	"Scroll of Strength"	0	1	1	"Tăng 20% sát thương hoàn hảo"	0
+91	23	255	255	"Phước lành Giáng Sinh"	0	1	1	"Tăng Tấn công / Pháp thuật / Nguyền rủa / Phòng thủ"	0
+92	23	255	255	"Santa Hồi phục"	0	1	1	"Tăng Sinh lực tối đa +500"	0
+93	23	255	255	"Santa Bảo hộ"	0	1	1	"Tăng Mana tối đa +500"	0
+94	23	255	255	"Santa Cường hóa"	0	1	1	"Tăng Tấn công / Pháp thuật / Nguyền rủa +30"	0
+95	23	255	255	"Santa Phòng thủ"	0	1	1	"Phòng thủ +100"	0
+96	23	255	255	"Santa Tăng tốc"	0	1	1	"Tốc độ tấn công +15"	0
+97	23	255	255	"Santa May mắn"	0	1	1	"Tăng tốc độ hồi AG +10"	0
+98	50	255	255	"Quan sát"	0	0	1	"Bạn có thể vào và theo dõi đấu tay đôi tại Đấu Trường."	0
+99	52	13	81	"Bùa Hộ mệnh"	0	0	1	"Không bị phạt khi tử vong../Không có hiệu lực khi đang ở trạng thái Outlaw."	0
+100	53	13	82	"Bùa Bảo vệ Vật phẩm"	0	0	1	"Giữ độ bền vật phẩm"	0
+101	60	13	93	"Master Seal of Ascension"	0	0	1	"Tăng 50% EXP"	0
+102	61	13	94	"Master Seal of Wealth"	0	0	1	"Tăng 50% EXP / Tăng 150% tỉ lệ rơi vật phẩm"	0
+103	51	13	95	"Danh dự Gladiator"	0	0	1	"Tăng EXP 20% / Tăng tỉ lệ rơi vật phẩm hiếm / Chỉ dùng tại Vulcanus."	0
+104	21	13	96	"Seal of Strength"	0	0	1	"Tăng Tỉ lệ Tấn công và Tỉ lệ Phòng thủ"	0
+105	54	255	255	"Thăng hoa"	0	0	1	""	0
+106	55	255	255	"Hình phạt PK"	1	0	1	"Hạn chế truy cập cửa sổ Lệnh Dịch Chuyển trong 5 phút."	0
+107	56	255	255	"Bạn cảm thấy mệt mỏi."	1	0	1	"Tăng 50% EXP / Tăng 50% tỉ lệ rơi vật phẩm"	0
+108	56	255	255	"Bạn cảm thấy kiệt sức."	1	0	1	"Tăng 50% EXP / 0% tỉ lệ rơi vật phẩm"	0
+112	24	13	103	"Vật phẩm thưởng EXP Tổ đội"	0	1	1	"Tăng tối đa 30% EXP, tùy theo số lượng thành viên trong tổ đội."	0
+113	58	13	104	"Hào quang Tăng AG Tối đa"	0	1	1	"Tăng AG tối đa."	0
+114	58	13	105	"Hào quang Tăng SD Tối đa"	0	1	1	"Tăng SD tối đa."	0
+115	56	13	117	"Sinh lực Tối thiểu"	0	0	1	"Tăng 100% EXP / 100% tỉ lệ rơi vật phẩm / Không giảm thể lực trong thời gian nhất định."	0
+116	56	13	118	"Sinh lực Thấp"	0	0	1	"Tăng 100% EXP / 100% tỉ lệ rơi vật phẩm / Không giảm thể lực trong thời gian nhất định."	0
+117	56	13	119	"Sinh lực Trung bình"	0	0	1	"Tăng 100% EXP / 100% tỉ lệ rơi vật phẩm / Không giảm thể lực trong thời gian nhất định."	0
+118	56	13	120	"Sinh lực Cao"	0	0	1	"Tăng 100% EXP / 100% tỉ lệ rơi vật phẩm / Không giảm thể lực trong thời gian nhất định."	0
+119	66	13	116	"Seal of Wealth"	0	0	1	"Tăng tỉ lệ rơi vật phẩm lên 150%."	0
+120	59	255	255	"Hình phạt do sử dụng phần mềm trái phép"	1	0	1	"Tăng 50% EXP / 0% tỉ lệ rơi vật phẩm"	0
+121	75	14	140	"Scroll of Healing"	0	1	1	"+3% hồi HP / +100 HP"	0
+122	76	13	128	"Tượng Diều hâu"	0	1	1	"Sát thương chí mạng +10%"	0
+123	76	13	129	"Tượng Dê"	0	1	1	"Sát thương hoàn hảo +10%"	0
+124	77	13	130	"Bùa Sồi"	0	1	1	"Sinh lực tối đa +50"	0
+125	77	13	131	"Bùa Phong"	0	1	1	"Mana tối đa +50"	0
+126	77	13	132	"Bùa Sồi Vàng"	0	1	1	"Sinh lực tối đa +150 / SD tối đa +500"	0
+127	77	13	133	"Bùa Phong Vàng"	0	1	1	"Mana tối đa +150 / AG tối đa +50"	0
+128	78	13	134	"Móng ngựa Cũ"	0	1	1	"Tăng tỉ lệ rơi vật phẩm"	0
+129	79	255	255	"Bỏ qua Phòng thủ của Kẻ địch"	0	1	1	"Tăng tỉ lệ bỏ qua phòng thủ của kẻ địch và gây sát thương."	0
+130	80	255	255	"Tăng Sinh lực"	0	1	1	"Tăng chỉ số Sinh lực."	0
+131	81	255	255	"Tăng Tỉ lệ Phòng thủ"	0	1	1	"Tăng tỉ lệ phòng thủ tối đa."	0
+132	82	255	255	"Giảm tỉ lệ phòng thủ thành công"	1	0	1	"Giảm tỉ lệ phòng thủ thành công."	0
+133	83	255	255	"Bất tử"	0	1	1	"Bất tử"	0
+134	84	255	255	"Phòng thủ Sắt"	0	1	1	"Tăng mạnh phòng thủ và HP."	0
+135	8	255	255	"Thành thạo Swell Life"	0	1	1	"Tăng Sinh lực và Mana tối đa."	0
+136	8	255	255	"Tinh thông Swell Life"	0	1	1	"Tăng Sinh lực, Mana và AG tối đa."	0
+137	85	255	255	"Chảy máu"	1	1	1	"HP giảm liên tục."	0
+//Mastery 1									
+138	45	255	255	"Gia tăng Pháp thuật"	0	1	1	"Tăng Pháp thuật tối thiểu và Pháp thuật tối đa."	0
+//Mastery 2									
+139	45	255	255	"Mở rộng Pháp lực"	0	1	1	"Tăng Wizardry tối thiểu, Wizardry tối đa và tỉ lệ sát thương chí mạng."	0
+140	4	255	255	"Soul Barrier"	0	1	1	"Sử dụng Mana để hấp thụ sát thương và tăng Mana tối đa."	0
+141	86	255	255	"Giảm tốc độ tấn công"	1	1	1	"Giảm tốc độ tấn công."	0
+142	87	255	255	"Bless"	0	1	1	"Tăng tất cả chỉ số."	2
+143	6	255	255	"Infinity Arrow"	0	0	1	"Không tiêu hao mũi tên và tăng sát thương."	0
+144	88	255	255	"Mù"	0	1	1	"Bị mù./Giảm tỉ lệ đánh trúng."	0
+145	89	255	255	"Hút máu"	1	1	1	"HP bị hút mỗi giây và chuyển sang mục tiêu."	0
+146	90	255	255	"Đóng băng"	1	1	1	"Bị cố định khi bị đóng băng."	0
+147	91	255	255	"Trói đất"	1	1	1	"Trói Đất"	0
+148	5	255	255	"Tăng cường Lord of Dignity"	0	1	1	"Tăng tỉ lệ sát thương Chí mạng và Xuất sắc cho bạn và các thành viên trong party."	0
+149	5	255	255	"Tăng sát thương chí mạng"	0	1	1	"Tăng sát thương chí mạng và tỉ lệ chí mạng,/ đồng thời tăng tỉ lệ sát thương xuất sắc."	0
+150	288	255	255	"Berserker"	0	1	1	"Tăng Wizardry/Tốc độ tấn công, giảm Phòng thủ/HP tối đa."	0
+151	288	255	255	"Berserker"	0	1	1	"Không sử dụng"	0
+152	288	255	255	"Berserker"	0	1	1	"Tăng Wizardry/Tốc độ tấn công"	0
+153	81	255	255	"Tăng tỉ lệ phòng thủ thành công"	0	1	1	"Tăng tỉ lệ phòng thủ thành công."	0
+154	81	255	255	"Tăng tỉ lệ phòng thủ thành công"	0	1	1	"Tăng phòng thủ tối đa và tỉ lệ phòng thủ thành công."	0
+155	80	255	255	"Tăng HP"	0	1	1	"Tăng HP."	0
+156	79	255	255	"Bỏ qua phòng thủ của kẻ địch"	0	1	1	"Tăng tỉ lệ bỏ qua phòng thủ. Khi thành công, có cơ hội bỏ qua phòng thủ tăng thêm."	0
+157	92	255	255	"Lửa"	1	1	1	"HP bị giảm mỗi giây do sát thương Lửa."	0
+158	93	255	255	"Băng giá"	1	1	1	"HP bị giảm mỗi giây do sát thương Băng."	0
+159	94	255	255	"Độc"	1	1	1	"HP bị giảm mỗi giây do sát thương Độc."	0
+160	94	255	255	"Độc"	1	1	1	"HP bị giảm mỗi giây do sát thương Độc."	0
+162	43	255	255	"Suy yếu"	1	1	1	"Giảm tỉ lệ tấn công."	0
+163	44	255	255	"Đổi mới"	1	1	1	"Giảm tỉ lệ phòng thủ."	0
+164	30	255	255	"Giảm phòng thủ"	1	1	1	"Giảm khả năng phòng thủ."	0
+165	84	255	255	"Phòng thủ Sắt"	0	1	1	"Tăng mạnh tỉ lệ phòng thủ và HP."	0
+166	95	255	255	"Huyết Gào"	0	1	1	"HP bị giảm mỗi giây."	0
+167	95	255	255	"Tinh thông Huyết Gào"	0	1	1	"HP bị giảm mỗi giây."	0
+169	96	255	255	"Xuyên giáp"	1	1	1	"Giảm phòng thủ và tỉ lệ phòng thủ thành công."	0
+170	109	14	172	"Túi Ma thuật 1"	0	1	1	"Túi Ma Pháp 1"	0
+171	110	14	173	"Túi Ma thuật 2"	0	1	1	"Túi Ma Pháp 2"	0
+172	111	14	174	"Túi Ma thuật 3"	0	1	1	"Túi Ma Pháp 3"	0
+173	112	14	175	"Túi Ma thuật 4"	0	1	1	"Túi Ma Pháp 4"	0
+174	98	255	255	"Lửa"	1	0	1	"Tổng lượng SD giảm còn một nửa."	0
+175	99	255	255	"Băng giá"	1	0	1	"Tổng lượng MP giảm còn một nửa."	0
+176	100	255	255	"Lốc xoáy"	1	0	1	"Tốc độ tấn công giảm còn một nửa."	0
+177	101	255	255	"Trói"	1	0	1	"Tổng lượng HP giảm còn một nửa."	0
+178	102	255	255	"Bóng tối"	1	0	1	"Bạn không thể làm gì khi bị choáng."	0
+179	103	255	255	"Tháp Lửa"	0	0	1	"ATK+25/EXP+20%/khi trang bị Lửa ATK&DEF+5%/tỉ lệ rơi set item (không bao gồm Debenter)"	0
+180	104	255	255	"Tháp Nước"	0	0	1	"DEF+50/EXP+20%/khi trang bị Nước ATK&DEF+5%/tỉ lệ rơi set item (không bao gồm Debenter)"	0
+181	105	255	255	"Tháp Đất"	0	0	1	"CRIT+5%/EXP+20%/khi trang bị Đất ATK&DEF+5%/tỉ lệ rơi set item (không bao gồm Debenter)"	0
+182	106	255	255	"Tháp Gió"	0	0	1	"ATK+30/EXP+20%/khi trang bị Gió ATK&DEF+5%/tỉ lệ rơi set item (không bao gồm Debenter)"	0
+183	107	255	255	"Tháp Bóng tối"	0	0	1	"Giảm sát thương nhận -10%/EXP+20%/khi trang bị Bóng tối ATK&DEF+5%/tỉ lệ rơi set item (không bao gồm Debenter)"	0
+184	108	255	255	"Phạt Hồi sinh"	1	0	1	"Tốc độ di chuyển giảm trong một khoảng thời gian nhất định."	0
+185	97	14	163	"Mở rộng Kho"	0	1	1	"Mở rộng Kho"	0
+186	109	255	255	"Hỗn loạn"	1	0	1	"Tốc độ di chuyển giảm khi trúng đòn này."	0
+187	255	255	255	"Thưởng EXP"	1	0	1	"EXP tăng 20%/có khả năng rơi set item."	0
+190	115	13	177	"Bùa Thăng Cấp I"	0	0	1	"Nhận thêm 50% EXP"	0
+191	115	13	178	"Bùa Thăng Cấp II"	0	0	1	"Nhận thêm 100% EXP"	0
+192	115	13	179	"Bùa Thăng Cấp III"	0	0	1	"Nhận thêm 200% EXP"	0
+193	60	13	180	"Seal of Ascension II"	0	0	1	"Nhận thêm 100% EXP"	0
+194	60	13	181	"Master Seal of Ascension II"	0	0	1	"Nhận thêm 100% EXP (Dành cho Master Level)"	0
+195	116	14	224	"Phước Ánh Sáng (Cao cấp)"	0	0	1	"Nhận thêm 200% EXP sau khi được ban phước nhanh"	0
+196	68	14	225	"Cuộn Thầy Phòng Thủ"	0	0	1	"Phòng thủ +300"	0
+197	70	14	226	"Cuộn Thầy Pháp Thuật"	0	0	1	"Tăng Wizardry/Nguyền rủa +150"	0
+198	71	14	227	"Cuộn Thầy Sinh Lực"	0	0	1	"HP +1000"	0
+199	72	14	228	"Cuộn Thầy Mana"	0	0	1	"MP +1500"	0
+200	69	14	229	"Cuộn Thầy Thịnh Nộ"	0	0	1	"Sức tấn công +100"	0
+201	75	14	230	"Cuộn Thầy Hồi Phục"	0	0	1	"Tự động hồi HP +4%, HP +500"	0
+202	55	14	231	"Cuộn Thầy Chiến Đấu"	0	0	1	"Sát thương chí mạng +30%"	0
+203	56	14	232	"Cuộn Thầy Tăng Cường"	0	0	1	"Sát thương xuất sắc +30%"	0
+204	67	14	235	"Cuộn Thầy Tăng Tốc"	0	0	1	"Tăng tốc độ tấn công +20"	0
+205	117	13	2	"Kèn Uniria"	0	1	1	"Triệu hồi Uniria để cưỡi."	0
+206	117	13	3	"Kèn Dinorant"	0	1	1	"Triệu hồi Dinorant để cưỡi."	0
+207	117	13	4	"Kèn Dark Horse"	0	1	1	"Triệu hồi Dark Horse để cưỡi."	0
+208	117	13	37	"Kèn Fenrir"	0	1	1	"Triệu hồi Fenrir để cưỡi."	0
+209	118	255	255	"Tê liệt"	1	1	1	"Giảm tốc độ di chuyển 50% do làm tê liệt chân."	0
+210	118	255	255	"Tê liệt"	1	1	1	"Giảm tốc độ di chuyển 50% do làm tê liệt chân và gây sát thương liên tục."	0
+211	119	255	255	"Quán Internet"	0	0	1	"EXP thêm/Chaos Castle tại PC Cafe/Truy cập Kalima/Cộng dồn điểm Goblin."	0
+212	116	14	263	"Phước Ánh Sáng (Thấp)"	0	0	1	"Nhận phước lành trong thời gian ngắn, nhận thêm 50% EXP cơ bản."	0
+213	116	14	264	"Phước Ánh Sáng (Trung)"	0	0	1	"Nhận phước lành trong thời gian ngắn, nhận thêm 100% EXP cơ bản."	0
+214	120	255	255	"Né tránh"	0	1	1	"Tăng tỉ lệ đỡ đòn và miễn nhiễm hiệu ứng cố định."	0
+215	119	255	255	"Quán Internet"	0	0	1	"EXP thêm/Chaos Castle tại PC Cafe/Truy cập Kalima/Cộng dồn điểm Goblin/Hệ thống Stamina bị vô hiệu."	0
+216	121	255	255	"Khiên Tròn"	0	1	1	"Có cơ hội giảm AG của đối thủ 10."	0
+217	122	255	255	"Hắc Diện Thạch"	0	1	1	"Tăng sát thương kỹ năng +%d"	1
+218	123	255	255	"Thịnh Nộ"	0	1	1	"Giảm phòng thủ 30%, tăng sát thương 50%"	0
+219	124	255	255	"Bộc Phát"	0	1	1	"Tăng tỉ lệ sát thương Thật"	0
+220	122	255	255	"Tăng lực Hắc Diện Thạch"	0	1	1	"Tăng sát thương kỹ năng +%d"	1
+221	121	255	255	"Tăng lực Khiên Tròn"	0	1	1	"Có cơ hội tăng hiệu ứng giảm AG thêm %d khi trúng đòn."	1
+222	121	255	255	"Tinh thông Khiên Tròn"	0	1	1	"Có cơ hội tăng hiệu ứng giảm AG thêm %d khi trúng đòn."	1
+223	123	255	255	"Tăng lực Thịnh Nộ"	0	1	1	"Giảm phòng thủ 30%, tăng sát thương 50%"	0
+224	123	255	255	"Thành thạo Thịnh Nộ"	0	1	1	"Giảm phòng thủ 30%, tăng sát thương 50%"	0
+225	123	255	255	"Tinh thông Thịnh Nộ"	0	1	1	"Tăng sát thương 50%"	0
+226	226	255	255	"Tăng lực Bộc Phát"	0	1	1	"Tăng tỉ lệ sát thương Thật"	0
+227	125	255	255	"Hiệu ứng Thành công Thức tỉnh"	0	0	1	"Đây là hiệu ứng Thành công Thức tỉnh Evomon."	0
+228	126	255	255	"Hiệu ứng Thất bại Thức tỉnh"	0	0	1	"Đây là hiệu ứng Thất bại Thức tỉnh Evomon"	0
+229	227	255	255	"Berserker"	0	1	1	"Tăng sát thương."	0
+230	228	255	255	"Phân thân"	0	1	1	"Triệu hồi một bản sao."	0
+231	229	255	255	"Xoay"	1	1	1	"Làm mục tiêu xoay vòng."	0
+232	230	13	5	"Dark Raven"	0	0	1	"Triệu hồi Dark Raven."	0
+237	115	13	476	"Hye Sung"	0	0	1	"hyesung"	0
+238	235	255	255	"Pháo đài"	0	1	1	"Sát thương Nguyên Tố -90%."	0
+239	236	255	255	"Xuất huyết"	1	1	1	"Gây sát thương Chảy máu mỗi giây."	0
+240	237	255	255	"Tê liệt"	1	1	1	"Tốc độ di chuyển và hiệu ứng hồi phục bị giảm./ (giảm hiệu quả của Potion)"	0
+241	238	255	255	"Trói buộc"	1	1	1	"Không thể di chuyển khi Sức mạnh Đất giữ chặt chân mục tiêu."	0
+242	239	255	255	"Mù lòa"	1	1	1	"Làm mù mục tiêu và giảm tỉ lệ đánh trúng %d%."	1
+243	240	255	255	"Miễn nhiễm I"	0	1	1	"Miễn nhiễm sát thương Nguyên Tố."	0
+244	240	255	255	"Miễn nhiễm II"	0	1	1	"Miễn nhiễm mọi hiệu ứng Debuff."	0
+245	241	255	255	"Mở rộng I"	0	1	1	"Tạm thời tăng mạnh sát thương Nguyên Tố và tỉ lệ tấn công Nguyên Tố."	0
+246	242	255	255	"Ý chí của Archangel"	0	1	1	"Tăng sát thương tấn công và sát thương kỹ năng."	0
+247	243	255	255	"Buff EXP Party Ferea"	0	1	1	"Tối đa thêm 10% EXP trên EXP cơ bản / 5% EXP bổ sung cho mỗi thành viên tổ đội."	0
+248	244	255	255	"Phước lành của Lunedil"	0	0	1	"Tăng EXP Cấp 1: 5%"	0
+249	244	255	255	"Phước lành của Lunedil"	0	0	1	"Tăng EXP Cấp 2: 10%"	0
+250	244	255	255	"Phước lành của Lunedil"	0	0	1	"Tăng EXP Cấp 3: 15%"	0
+251	244	255	255	"Phước lành của Lunedil"	0	0	1	"Tăng EXP Cấp 4: 25%"	0
+252	244	255	255	"Phước lành của Lunedil"	0	0	1	"Tăng EXP Cấp 5: 35%"	0
+253	116	14	371	"Phước lành Ánh sáng Ràng buộc (Cao cấp)"	0	0	1	"Nhận thêm 200% EXP sau khi được ban phước nhanh"	0
+254	116	14	372	"Phước lành Ánh sáng Ràng buộc (Trung cấp)"	0	0	1	"Trong thời gian ngắn nhận phước lành, bạn nhận thêm 100% EXP cơ bản."	0
+255	116	14	373	"Phước lành Ánh sáng Ràng buộc (Thấp cấp)"	0	0	1	"Trong thời gian ngắn nhận phước lành, bạn nhận thêm 50% EXP cơ bản."	0
+256	246	14	432	"[Boost] Bí pháp Sinh lực"	0	0	1	"HP tối đa +700"	0
+257	246	14	433	"[Boost] Bí pháp Năng lượng"	0	0	1	"MP tối đa +700"	0
+258	246	14	434	"[Boost] Bí pháp Tốc độ"	0	0	1	"Tốc độ tấn công +10"	0
+259	247	14	435	"[Reinforce] Bí pháp Cuồng nộ"	0	0	1	"Tấn công +40"	0
+260	247	14	436	"[Reinforce] Bí pháp Pháp thuật"	0	0	1	"Tăng Pháp thuật / Nguyền rủa +40"	0
+261	247	14	437	"[Reinforce] Bí pháp Phòng thủ"	0	0	1	"Phòng thủ +100"	0
+262	247	14	438	"[Reinforce] Bí pháp Chiến đấu"	0	0	1	"Sát thương Chí mạng +85"	0
+263	247	14	439	"[Reinforce] Bí pháp Sức mạnh"	0	0	1	"Sát thương Excellent +85"	0
+264	256	255	255	"Tăng cường hiệu ứng tăng HP Greater Fortitude"	0	0	1	"Tăng cường hiệu ứng tăng HP của Greater Fortitude"	0
+265	257	255	255	"Tăng khả năng giảm sát thương của Soul Barrier"	0	0	1	"Tăng khả năng giảm sát thương của Soul Barrier"	0
+266	258	255	255	"Tăng cường hiệu ứng tăng sát thương Berserker"	0	0	1	"Tăng hiệu ứng gia tăng sát thương Berserker"	0
+267	259	255	255	"Loại bỏ hiệu ứng giảm DEF của Berserker"	0	0	1	"Loại bỏ hiệu ứng giảm DEF của Berserker"	0
+268	260	255	255	"Tăng cường hiệu ứng kỹ năng tăng HP"	0	0	1	"Tăng hiệu ứng kỹ năng tăng HP"	0
+269	261	255	255	"Tăng cường Wrath"	0	0	1	"Tăng cường Wrath"	0
+270	262	255	255	"Giảm hiệu ứng giảm DEF của Wrath"	0	0	1	"Giảm hiệu ứng giảm DEF của Wrath"	0
+271	263	255	255	"Giảm tỉ lệ SD"	0	0	1	"Giảm tỷ lệ SD"	0
+272	264	255	255	"Tăng SD"	0	0	1	"Tăng SD"	0
+273	265	255	255	"Trúng độc"	1	0	1	"Trúng Độc"	0
+274	266	255	255	"Lạnh buốt"	1	0	1	"Lạnh cóng"	0
+275	267	255	255	"Chảy máu"	1	0	1	"Chảy máu"	0
+276	268	255	255	"Sốc"	1	0	1	"Sốc"	0
+277	269	255	255	"Độc chết người"	1	0	1	"Độc chết người"	0
+278	270	255	255	"Đóng băng"	1	0	1	"Đóng băng"	0
+279	271	255	255	"Xuất huyết"	1	0	1	"Xuất huyết"	0
+280	272	255	255	"Choáng"	1	0	1	"Choáng"	0
+281	273	255	255	"Tăng khả năng giảm SD"	0	0	1	"Tăng giảm sát thương lên SD"	0
+282	274	255	255	"Tăng HP tối đa"	0	0	1	"Tăng HP tối đa"	0
+283	275	255	255	"Chỉ số thứ 4"	0	0	1	"Chỉ số thứ 4"	0
+284	276	255	255	"Tăng DEF cơ bản"	0	0	1	"Tăng DEF cơ bản"	0
+285	277	255	255	"Tăng sát thương Cánh cấp 4"	0	0	1	"Tăng sát thương Cánh cấp 4"	0
+286	278	255	255	"Tăng sát thương"	0	0	1	"Tăng sát thương"	0
+287	279	255	255	"Tăng pháp thuật"	0	0	1	"Tăng Pháp thuật"	0
+288	280	255	255	"Chỉ số thứ 4"	0	0	1	"Chỉ số thứ 4"	0
+289	281	255	255	"Tăng sát thương kỹ năng"	0	0	1	"Tăng sát thương kỹ năng"	0
+290	282	255	255	"Tăng sát thương Cánh cấp 4"	0	0	1	"Tăng sát thương Cánh cấp 4"	0
+291	283	255	255	"Tăng sát thương / Pháp thuật"	0	0	1	"Tăng Sát thương / Pháp thuật"	0
+292	284	14	453	"Cuộn Chuyển đổi"	0	0	1	"Nhấn CTRL+F để sử dụng Chế độ Chuyển đổi."	0
+293	285	255	255	"Bộc phát"	0	1	1	"Tăng sát thương kỹ năng và tiêu hao MP"	0
+294	286	255	255	"Gia tốc"	0	1	1	"Tăng tốc độ tấn công và tiêu hao AG"	0
+295	285	255	255	"Tăng cường Bộc phát"	0	1	1	"Tăng sát thương kỹ năng và tiêu hao MP"	0
+296	285	255	255	"Tinh thông Bộc phát"	0	1	1	"Tăng sát thương kỹ năng và tiêu hao MP"	0
+298	286	255	255	"Tăng cường Gia tốc"	0	1	1	"Tăng tốc độ tấn công và tiêu hao AG"	0
+299	286	255	255	"Tinh thông Gia tốc"	0	1	1	"Tăng tốc độ tấn công và tiêu hao AG"	0
+301	288	255	255	"Bóng tối"	0	1	1	"Tăng Nguyền rủa / Phòng thủ, giảm HP tối đa"	0
+302	288	255	255	"Bóng tối"	0	1	1	"Tăng Nguyền rủa / Phòng thủ, giảm HP tối đa"	0
+303	288	255	255	"Bóng tối"	0	1	1	"Tăng Nguyền rủa / Phòng thủ"	0
+304	43	255	255	"Tinh thông Suy yếu"	0	1	1	"Hiệu ứng Weakness ảnh hưởng đến Sức mạnh Nguyên tố của mục tiêu"	0
+305	43	255	255	"Tinh thông Kích thích"	0	1	1	"Hiệu ứng Weakness ảnh hưởng đến Phòng thủ Nguyên tố của mục tiêu."	0
+306	289	255	255	"Lưỡi hái Tử thần"	0	0	1	"Lưỡi hái Tử thần tấn công kẻ địch cùng với nhân vật."	0
+307	290	12	471	"Chiến mã Hộ vệ Huyễn ảnh"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+308	291	255	255	"Tăng tốc độ di chuyển"	0	0	1	"Kỹ năng Thú cưỡi Hộ vệ độc quyền"	0
+309	292	255	255	"Quái Tinh anh - Chảy máu"	1	0	1	"Quái Tinh anh - Chảy máu"	0
+310	293	255	255	"Quái Tinh anh - Trúng độc"	1	0	1	"Quái Tinh anh - Trúng Độc"	0
+311	294	255	255	"Quái Tinh anh - Giảm tấn công"	1	0	1	"Quái Tinh anh - Giảm Tấn công"	0
+312	295	255	255	"Quái Tinh anh - Giảm tốc độ tấn công"	1	0	1	"Quái Tinh anh - Giảm Tốc độ Tấn công"	0
+313	296	255	255	"Quái Tinh anh - Giảm phòng thủ"	1	0	1	"Quái Tinh anh - Giảm Phòng thủ"	0
+314	283	255	255	"Tăng Pháp thuật / Nguyền rủa"	1	0	1	"Tăng Pháp thuật / Nguyền rủa"	0
+315	297	255	255	"Bầy Dơi"	1	0	1	"Nhận sát thương từ đàn dơi mỗi giây."	0
+316	298	255	255	"Phát hiện"	0	0	1	"Tạm thời phát hiện sinh vật sống xung quanh./(Kết quả kéo dài 1 phút.)"	0
+317	299	255	255	"Phá hủy"	0	1	1	"Khi tấn công, bỏ qua %d Phòng thủ của kẻ địch."	1
+318	298	255	255	"Tăng cường Phát hiện"	0	0	1	"Tạm thời xác định vị trí sinh vật sống trong khu vực./(Kết quả duy trì trong 1 phút.)"	0
+319	299	255	255	"Tăng cường Phá hủy"	0	1	1	"Khi tấn công, bỏ qua %d Phòng thủ của kẻ địch."	1
+320	299	255	255	"Tinh thông Phá hủy"	0	1	1	"Khi tấn công, bỏ qua %d Phòng thủ của kẻ địch."	1
+321	300	255	255	"Phá hủy - Giảm sức mạnh kỹ năng"	1	0	1	""	1
+322	290	12	483	"Rồng Băng"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+323	290	12	484	"Rồng Băng (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+324	301	255	255	"Cuồng nộ của Kiếm"	0	1	1	"Biến thành Fury Knight. Tăng tầm đánh và phạm vi sát thương của các kỹ năng tấn công dạng Đánh mạnh."	0
+325	302	255	255	"Niềm tin Kiên định"	0	1	1	"Biến thành Belief Knight. Hiệu quả chỉ số thay đổi và có thể sử dụng kỹ năng Strong Blessing."	0
+326	303	255	255	"Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+327	301	255	255	"Tăng cường Cuồng nộ của Kiếm"	0	1	1	"Biến thành Fury Knight. Tăng tầm đánh và phạm vi sát thương của các kỹ năng tấn công dạng Đánh mạnh."	0
+328	301	255	255	"Tinh thông Cuồng nộ của Kiếm"	0	1	1	"Biến thành Fury Knight. Tăng tầm đánh và phạm vi sát thương của các kỹ năng tấn công dạng Đánh mạnh."	0
+329	303	255	255	"Tăng cường Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+330	303	255	255	"Thành thạo Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+331	303	255	255	"Tinh thông Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+332	303	255	255	"Tinh thông Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+333	304	255	255	"Hiệu ứng Phước lành Mạnh mẽ"	0	1	1	"Hiệu ứng Chúc phúc của Dark Knight"	0
+334	302	255	255	"Tăng cường kỹ năng Niềm tin Kiên định"	0	1	1	"Biến thành Belief Knight. Hiệu quả chỉ số thay đổi và có thể sử dụng kỹ năng Strong Blessing."	0
+335	303	255	255	"Tăng cường kỹ năng Phước lành Mạnh mẽ"	0	1	1	"Tăng ATK và Pháp thuật cho thành viên tổ đội, hấp thụ HP của thành viên và gánh một phần sát thương thay họ."	0
+336	302	255	255	"Tăng cường Niềm tin Kiên định"	0	1	1	"Biến thành Belief Knight. Hiệu quả chỉ số thay đổi và có thể sử dụng kỹ năng Strong Blessing."	0
+339	310	255	255	"Liên kết - Không hoạt động"	0	1	1	"Buff Liên kết hiện đang không hoạt động./Nếu bạn lập tổ đội với Kundun và Lemuria, bạn sẽ hình thành liên kết và Buff Liên kết sẽ được kích hoạt."	0
+340	310	255	255	"Liên kết"	0	1	1	"Kundun và Lemuria đã hình thành liên kết khiến sát thương tăng lên."	0
+341	310	255	255	"Liên kết - Thành viên Party"	0	1	1	"Kundun và Lemuria đã hình thành liên kết khiến sát thương tăng lên./(Mức tăng sát thương cho thành viên không phải Kundun/Lemuria sẽ khác.)"	0
+342	311	255	255	"Dây Liên kết"	0	1	1	"Một Dây Liên Kết được tạo ra do Liên kết của Kundun và Lemuria./(Quái vật chạm vào dây sẽ nhận sát thương.)"	0
+343	39	255	255	"Khiên Phản chiếu"	0	1	1	"50% tỉ lệ tạo lá chắn phản xạ khi nhận sát thương sốc, chặn và phản lại một phần sát thương."	0
+345	39	255	255	"Khiên Phản chiếu"	0	1	1	"50% tỉ lệ tạo lá chắn phản xạ khi nhận sát thương sốc, chặn và phản lại một phần sát thương / tăng MP tối đa."	0
+346	1	255	255	"Tăng cường Tấn công Cơ bản"	0	1	1	"Tăng Tấn công"	0
+347	2	255	255	"Tăng cường Phòng thủ Cơ bản"	0	1	1	"Tăng Phòng thủ"	0
+348	87	255	255	"Phước lành Cơ bản"	0	1	1	"Tất cả chỉ số tăng."	2
+349	306	255	255	"Sự kiện Kỷ niệm 20 năm - Cấp 0"	0	1	1	"EXP tăng 5%"	0
+350	306	255	255	"Sự kiện Kỷ niệm 20 năm - Cấp 1"	0	1	1	"EXP tăng 5%"	0
+351	306	255	255	"Sự kiện Kỷ niệm 20 năm - Cấp 2"	0	1	1	"EXP tăng 5%"	0
+352	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 3"	0	1	1	"EXP tăng 10%"	0
+353	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 4"	0	1	1	"EXP tăng 10%"	0
+354	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 5"	0	1	1	"EXP tăng 10%"	0
+355	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 6"	0	1	1	"EXP tăng 15%"	0
+356	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 7"	0	1	1	"EXP tăng 15%"	0
+357	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 8"	0	1	1	"EXP tăng 15%"	0
+358	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 9"	0	1	1	"EXP tăng 20%"	0
+359	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 10"	0	1	1	"EXP tăng 20%"	0
+360	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 11"	0	1	1	"EXP tăng 20%"	0
+361	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 12"	0	1	1	"EXP tăng 20%"	0
+362	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 13"	0	1	1	"EXP tăng 20%"	0
+363	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 14"	0	1	1	"EXP tăng 20%"	0
+364	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 15"	0	1	1	"EXP tăng 20%"	0
+365	307	255	255	"Spiral Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Hai Tay. /Tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Fire Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+366	307	255	255	"Crusher Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Một Tay. /Tốc độ tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Ice Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+367	307	255	255	"Elemental Charge"	0	1	1	"Chuyển sang Magic Gladiator hệ Pháp sư. /Pháp thuật và Phòng thủ tăng. /Tầm đánh kỹ năng Havok Spear tăng, đòn đánh thứ 3 kích hoạt Nova."	0
+368	307	255	255	"Tăng cường Spiral Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Hai Tay. /Tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Fire Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+369	307	255	255	"Tinh thông Spiral Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Hai Tay. /Tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Fire Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+370	307	255	255	"Tăng cường Crusher Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Một Tay. /Tốc độ tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Ice Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+371	307	255	255	"Tinh thông Crusher Charge"	0	1	1	"Chuyển sang Magic Gladiator dùng Kiếm Một Tay. /Tốc độ tấn công và Phòng thủ tăng. /Tầm đánh kỹ năng Chaos Blade và Ice Blood tăng, đòn đánh thứ 3 kích hoạt bạo kiếm."	0
+372	307	255	255	"Tăng cường Elemental Charge"	0	1	1	"Chuyển sang Magic Gladiator hệ Pháp sư. /Pháp thuật và Phòng thủ tăng. /Tầm đánh kỹ năng Havok Spear tăng, đòn đánh thứ 3 kích hoạt Nova."	0
+373	307	255	255	"Tinh thông Elemental Charge"	0	1	1	"Chuyển sang Magic Gladiator hệ Pháp sư. /Pháp thuật và Phòng thủ tăng. /Tầm đánh kỹ năng Havok Spear tăng, đòn đánh thứ 3 kích hoạt Nova."	0
+374	290	12	75	"Trang bị Sư Tử Dữ"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+375	290	12	76	"Trang bị Sư Tử Dữ (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+376	313	255	255	"Hiệu ứng bổ sung cho trang bị độc quyền - Pentagram"	0	1	1	"Trang bị vật phẩm độc quyền của nhân vật và tăng chỉ số trang bị."	0
+377	316	255	255	"Phúc lành Kinh nghiệm"	0	1	1	"Nhận Phúc lành Kinh nghiệm / nhận thêm 35% EXP Cơ bản."	0
+378	308	255	255	"Chaos Blade"	1	1	1	""	0
+379	308	255	255	"Havok Spear"	1	1	1	""	0
+380	309	255	255	"Fixed Fire"	0	1	1	"Hiệu ứng chỉ số Pháp thuật, Tốc độ tấn công và Phòng thủ được thay đổi. (Chuột phải để hủy buff)"	0
+381	309	255	255	"Tăng cường Fixed Fire"	0	1	1	"Hiệu ứng chỉ số Pháp thuật, Tốc độ tấn công và Phòng thủ được thay đổi. (Chuột phải để hủy buff)"	0
+382	309	255	255	"Tinh thông Fixed Fire"	0	1	1	"Hiệu ứng chỉ số Pháp thuật, Tốc độ tấn công và Phòng thủ được thay đổi. (Chuột phải để hủy buff)"	0
+383	317	255	255	"Hàng rào Phản xạ (Tường Phản Chiếu)"	0	1	1	"Hiệu ứng Tường Phản Chiếu – Hàng rào phản xạ"	0
+384	318	255	255	"Hiệu ứng bổ sung cho trang bị độc quyền - Vũ khí"	0	1	1	"Trang bị vật phẩm độc quyền của nhân vật và tăng chỉ số trang bị."	0
+385	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 16"	0	1	1	"EXP tăng 20%"	0
+386	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 17"	0	1	1	"EXP tăng 20%"	0
+387	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 18"	0	1	1	"EXP tăng 20%"	0
+388	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 19"	0	1	1	"EXP tăng 20%"	0
+389	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 20"	0	1	1	"EXP tăng 20%"	0
+390	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 21"	0	1	1	"EXP tăng 20%"	0
+391	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 22"	0	1	1	"EXP tăng 20%"	0
+392	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 23"	0	1	1	"EXP tăng 20%"	0
+393	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 24"	0	1	1	"EXP tăng 20%"	0
+394	306	255	255	"Sự kiện Kỷ niệm 20 năm Cấp 25"	0	1	1	"EXP tăng 20%"	0
+395	319	255	255	"Dex Booster"	0	1	1	"Tăng tốc độ di chuyển, tốc độ tấn công và tỷ lệ đánh trúng"	0
+396	320	255	255	"Cường hóa Tấn công Nguyên tố"	0	1	1	"Tăng ATK Nguyên Tố./(Chỉ có hiệu lực khi trang bị Pentagram.)"	0
+397	321	255	255	"Cường hóa Phòng thủ Nguyên tố"	0	1	1	"Tăng DEF Nguyên Tố./(Chỉ có hiệu lực khi trang bị Pentagram.)"	0
+398	320	255	255	"Kỹ năng tăng cường Cường hóa Tấn công Nguyên tố"	0	1	1	"Tăng ATK Nguyên Tố./(Chỉ có hiệu lực khi trang bị Pentagram.)"	0
+399	321	255	255	"Kỹ năng tăng cường Cường hóa Phòng thủ Nguyên tố"	0	1	1	"Tăng DEF Nguyên Tố./(Chỉ có hiệu lực khi trang bị Pentagram.)"	0
+400	1	255	255	"Kỹ năng tăng cường Cường hóa Tấn công"	0	1	1	"Tăng Tấn công"	0
+401	2	255	255	"Kỹ năng tăng cường Cường hóa Phòng thủ"	0	1	1	"Tăng Phòng thủ"	0
+402	87	255	255	"Kỹ năng tăng cường Bless"	0	1	1	"Tất cả chỉ số tăng."	2
+403	322	12	83	"Trang bị Đuôi Sáng"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+404	322	12	84	"Trang bị Đuôi Sáng (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+405	323	255	255	"Illusion Blade"	0	1	1	"Triệu hồi Illusion Blade, tăng ATK nhân vật."	0
+406	323	255	255	"Tăng cường Illusion Blade"	0	1	1	"Triệu hồi Illusion Blade, tăng ATK và Sức mạnh kỹ năng."	0
+407	323	255	255	"Thành thạo Illusion Blade"	0	1	1	"Triệu hồi Illusion Blade, tăng ATK, Sức mạnh kỹ năng và Tốc độ tấn công."	0
+408	323	255	255	"Tinh thông Illusion Blade"	0	1	1	"Triệu hồi Illusion Blade, tăng ATK, Sức mạnh kỹ năng và Tốc độ tấn công. / Khi tấn công kẻ địch, sát thương kẻ địch phải chịu tăng 5%."	0
+409	324	255	255	"Illusion Avatar"	0	0	1	"Tạo hình ảnh Illusion Knight tấn công quái vật xung quanh."	0
+410	325	255	255	"Tăng DMG"	1	1	1	"Khi Illusion Knight tấn công quái, toàn bộ sát thương quái nhận vào tăng 5%."	0
+411	326	255	255	"Season Pass - Tăng HP tối đa"	0	0	1	"Tăng HP Tối đa thêm %d."	2
+412	327	255	255	"Season Pass - Tăng EXP cơ bản"	0	0	1	"Tăng EXP Cơ bản thêm %0.1f%%."	2
+413	328	255	255	"Season Pass - Tăng hệ số Tempest Muun"	0	0	1	"Tăng hiệu ứng Hệ số Tempest Muun thêm %d lần."	2
+414	329	255	255	"Season Pass - [G] Mastery Soul Crystal"	0	0	1	"Có thể rơi 'Mastery Soul Crystal' khi tiêu diệt quái, với tỷ lệ %0.3f%%."	2
+415	330	255	255	"Season Pass - [P] Mastery Soul Crystal"	0	0	1	"Có thể rơi 'Mastery Soul Crystal' khi tiêu diệt quái, với tỷ lệ %0.3f%%."	2
+418	331	12	93	"Thú cưỡi Ullr"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+419	332	12	94	"Thú cưỡi Ullr (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+420	333	14	366	"Một Miếng Pizza"	0	0	1	"Nhận thêm 50% EXP Cơ bản / Tốc độ tấn công tăng 10."	0
+421	334	255	255	"Sát thương Nuke bổ sung"	0	0	1	"Có thể gây thêm sát thương Nuke khi tấn công."	0
+422	335	255	255	"Sát thương Bolt bổ sung"	0	0	1	"Có thể gây thêm sát thương Bolt khi tấn công."	0
+423	336	255	255	"Sát thương Diện rộng bổ sung"	0	0	1	"Có thể gây thêm sát thương Wide khi tấn công."	0
+424	123	255	255	"Wrath"	0	1	1	"ATK và Lực chiến tăng. DEF giảm."	0
+425	123	255	255	"Tăng cường Wrath"	0	1	1	"ATK và Lực chiến tăng. DEF giảm."	0
+426	116	14	69	"[PC Room] Bless of Light (Cao cấp)"	0	0	1	"Nhận phúc lành trong thời gian ngắn / nhận thêm 200% EXP Cơ bản."	0
+427	87	255	255	"Crown Force"	0	1	1	"Tất cả chỉ số tăng."	0
+428	337	255	255	"Divine Force"	0	1	1	"Tăng mạnh các thuộc tính cần thiết để tấn công trong 3 giây."	0
+429	337	255	255	"Divine Aura"	0	1	1	"Tăng mạnh phòng thủ trong 3 giây."	0
+430	117	20	247	"Ngựa Thần Thánh"	0	0	1	"Triệu hồi và cưỡi Thần Mã"	0
+431	230	20	248	"Tinh linh Thần Thánh Lửa"	0	0	1	"Triệu hồi Linh Thần Lửa."	0
+432	230	20	249	"Tinh linh Thần Thánh Băng"	0	0	1	"Triệu hồi Linh Thần Băng."	0
+433	230	20	250	"Tinh linh Thần Thánh Thánh"	0	0	1	"Triệu hồi Linh Thần Thánh."	0
+434	338	12	51	"Trang bị Leviathan"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+435	338	12	52	"Trang bị Leviathan (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+436	337	255	255	"Battle Glory"	0	1	1	"ATK và Lực chiến của bạn tăng."	0
+437	337	255	255	"Tăng cường Battle Glory"	0	1	1	"ATK và Lực chiến của bạn tăng."	0
+442	230	20	256	"[Ràng buộc] Tinh linh Thần Thánh Lửa"	0	0	1	"Triệu hồi Linh Thần Lửa [Bị ràng buộc]."	0
+443	339	255	255	"Đá Hỗn loạn"	0	0	1	""	0
+//S20.2-3									
+444	338	12	53	"Trang bị Tauros"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+445	338	12	54	"Trang bị Tauros (Hiếm)"	0	0	1	"Vật phẩm Thú cưỡi Hộ vệ"	0
+//S20.2-1									
+446	340	255	255	"Lời ca ngợi đặc biệt"	1	0	1	"Phòng thủ bị giảm."	0
+//S20.2-2									
+447	341	19	17	"Phúc lành của Eunice"	2	0	1	"Nhân vật cấp 5 nhận thêm 50% kinh nghiệm"	0
+end									

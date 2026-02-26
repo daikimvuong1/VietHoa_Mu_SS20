@@ -1,0 +1,40 @@
+//==============================================================================================================================================//		
+//	MuDevs.com	
+//	Version: S20.1-1	
+//	Update: Sep/24/2024	
+//	Editor: OMEGA	
+//==============================================================================================================================================//		
+//SetOptionIndex	SetOptionName	Operator
+0	"Tăng Sức Mạnh (Strength)"	1
+1	"Tăng Nhanh Nhẹn (Agility)"	1
+2	"Tăng Năng Lượng (Energy)"	1
+3	"Tăng Thể Lực (Vitality)"	1
+4	"Tăng Command"	1
+5	"Tăng Sát Thương Tối Thiểu"	1
+6	"Tăng Sát Thương Tối Đa"	1
+7	"Tăng Sức Mạnh Phép Thuật"	2
+8	"Tăng Sát Thương"	2
+9	"Tăng Tốc Độ Đánh"	1
+10	"Tăng Phòng Thủ"	1
+11	"Tăng Máu Tối Đa"	1
+12	"Tăng Mana Tối Đa"	1
+13	"Tăng Tốc Độ Hồi AG Tự Động"	1
+14	"Tăng Khả Năng Hồi AG Tự Động"	1
+15	"Tăng Tỷ Lệ Sát Thương Chí Mạng"	2
+16	"Tăng Sát Thương Chí Mạng"	1
+17	"Tăng Tỷ Lệ Sát Thương Hoàn Hảo (Excellent)"	2
+18	"Tăng Sát Thương Hoàn Hảo (Excellent)"	1
+19	"Tăng Sát Thương Kỹ Năng"	1
+20	"Tăng Tỷ Lệ Gây Sát Thương Gấp Đôi"	2
+21	"Bỏ Qua Phòng Thủ Đối Phương"	2
+22	"Tăng Phòng Thủ Khi Trang Bị Khiên"	2
+23	"ATK / HP"	1
+24	"Tăng Tất Cả Chỉ Số"	1
+25	"phòng thủ cơ bản"	1
+26	"Tăng Sát Thương"	1
+27	"Tăng Sức Mạnh Phép Thuật"	1
+28	"Tăng Sát Thương & Phép Thuật Mastery"	1
+29	"Tăng Sát Thương Excellent Mastery"	1
+30	"Tăng Sát Thương Chí Mạng Mastery"	1
+31	"Tăng Sát Thương Mastery"	1
+end		

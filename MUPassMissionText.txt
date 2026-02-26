@@ -1,0 +1,34 @@
+//==============================================================================================================================================//
+//	MuDevs.com
+//	Version: S20.1-1
+//	Update: Sep/24/2024
+//	Editor: OMEGA
+//==============================================================================================================================================//
+0			
+0	"Sử dụng MuHelper trong %s giây"	1	6259
+1	"Tiêu diệt %s quái vật tại bãi săn"	1	6264
+2	"Sử dụng tổng cộng %s MP khi dùng kỹ năng"	1	6263
+3	"Sử dụng %s vật phẩm Potion"	1	6261
+4	"Sử dụng %s vật phẩm Buff"	1	6261
+5	"Sửa chữa Tempest Muun %s lần"	1	6262
+6	"Sửa chữa Guardian %s lần"	1	6262
+7	"Sửa chữa trang bị %s lần"	1	6262
+8	"Mua %s vật phẩm từ Cửa hàng Cá nhân"	1	6263
+9	"Gửi yêu cầu và kết bạn thêm %s người bạn"	1	6262
+10	"Gửi %s thư cho bạn bè"	1	6262
+11	"Tăng cấp nhân vật thêm %s cấp"	1	6260
+12	"Phân rã vật phẩm %s lần"	1	6261
+13	"Kết hợp thành công Soul Potion %s lần"	1	6261
+14	"Hoàn thành sự kiện Varca"	0	6265
+15	"Đạt 1 triệu sát thương trong sự kiện Boss Battle Together"	0	6265
+16	"Tham gia Chaos Castle %s lần"	1	6262
+17	"Tham gia Blood Castle %s lần"	1	6262
+18	"Tham gia Devil's Square %s lần"	1	6262
+19	"Tìm và tiêu diệt White Mage"	0	6265
+20	"Tham gia và chiến thắng Battle of CryWolf"	0	6265
+21	"Tham gia Battle of CryWolf"	0	6265
+22	"Sử dụng Three Vacancy Box %s lần"	1	6262
+23	"Sử dụng Pandora Pick %s lần"	1	6262
+24	"Nhận được %s Jewel of Bless từ rơi đồ"	1	6261
+
+end

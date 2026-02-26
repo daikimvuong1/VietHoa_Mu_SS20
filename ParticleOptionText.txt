@@ -1,0 +1,107 @@
+//==============================================================================================================================================//
+//	MuDevs.com
+//	Version: S20.1-1
+//	Update: Sep/24/2024
+//	Editor: OMEGA
+//==============================================================================================================================================//
+//StaticOptionIndex	
+0
+0	"Tăng Số Lần Tấn Công"	-1
+1	"Tăng Tốc Độ Tấn Công"	-1
+2	"Tăng Tầm Đánh"	-1
+3	"Thêm Sát Thương Lan (Splash)"	-1
+4	"Giảm Phòng Thủ Mục Tiêu"	-1
+65	"Tăng HP"	0
+66	"Tăng MP"	0
+67	"Tăng AG"	0
+end
+
+1
+0	"Tăng Phòng Thủ"	0
+1	"Tăng Phòng Thủ Khiên"	0
+2	"Tăng Phòng Thủ Cánh Cấp 5"	0
+3	"Tăng Phòng Thủ Phụ Trội"	0
+4	"Tăng Phòng Thủ Nguyên Tố"	0
+5	"Tăng Phòng Thủ Nguyên Tố Lửa"	0
+6	"Tăng Phòng Thủ Nguyên Tố Nước"	0
+7	"Tăng Phòng Thủ Nguyên Tố Đất"	0
+8	"Tăng Phòng Thủ Nguyên Tố Gió"	0
+9	"Tăng Phòng Thủ Nguyên Tố Bóng Tối"	0
+10	"Tăng Phòng Thủ Pentagram"	0
+11	"Tăng Tỷ Lệ Đánh Trúng"	0
+12	"Tăng Tỷ Lệ Phòng Thủ Thành Công"	0
+13	"Tăng Tỷ Lệ Đánh Trúng Nguyên Tố"	0
+14	"Tăng Tỷ Lệ Phòng Thủ Nguyên Tố"	0
+15	"Tăng Chỉ Số Strength (biến đổi)"	0
+16	"Tăng Chỉ Số Agility (biến đổi)"	0
+17	"Tăng Chỉ Số Vitality (biến đổi)"	0
+18	"Tăng Chỉ Số Energy (biến đổi)"	0
+19	"Tăng Sát Thương Tối Thiểu"	0
+20	"Tăng Sức Mạnh Phép Thuật Tối Thiểu"	0
+21	"Tăng Sức Mạnh Lời Nguyền Tối Thiểu"	0
+22	"Tăng Sát Thương Tối Đa"	0
+23	"Tăng Sức Mạnh Phép Thuật Tối Đa"	0
+24	"Tăng Sức Mạnh Lời Nguyền Tối Đa"	0
+25	"Tăng Sát Thương Mastery"	0
+26	"Tăng Sức Mạnh Phép Thuật Mastery"	0
+27	"Tăng Sức Mạnh Lời Nguyền Mastery"	0
+28	"Tăng Sát Thương Mỗi 20 Cấp"	0
+29	"Tăng Sát Thương Nuke"	0
+30	"Tăng Sát Thương Bolt"	0
+31	"Tăng Sát Thương Diện Rộng"	0
+32	"Tăng Sát Thương Phụ Trội"	0
+33	"Tăng Sát Thương Chí Mạng"	0
+34	"Tăng Sát Thương Excellent"	0
+35	"Tăng Sát Thương Gấp Đôi"	0
+36	"Tăng Sát Thương Cánh Cấp 5"	0
+37	"Tăng Sát Thương Chảy Máu"	0
+38	"Tăng Sát Thương Chảy Máu Nặng"	0
+39	"Tăng Sát Thương Độc Chết Người"	0
+40	"Tăng Sát Thương Độc"	0
+41	"Tăng Sát Thương Kỹ Năng"	0
+42	"Tăng Sát Thương Nguyên Tố Lửa"	0
+43	"Tăng Sát Thương Nguyên Tố Nước"	0
+44	"Tăng Sát Thương Nguyên Tố Đất"	0
+45	"Tăng Sát Thương Nguyên Tố Gió"	0
+46	"Tăng Sát Thương Nguyên Tố Bóng Tối"	0
+47	"Tăng Sát Thương Pentagram"	0
+48	"Tăng Sát Thương Nguyên Tố"	0
+49	"Tăng Tỷ Lệ Chí Mạng Phụ Trội"	1
+50	"Tỷ Lệ Sát Thương Chí Mạng"	1
+51	"Tăng Sát Thương Kỹ Năng 1 Slot"	0
+52	"Tỷ Lệ Hồi Đầy HP"	1
+53	"Tỷ Lệ Gây Sát Thương Gấp Đôi"	1
+54	"Tăng Tỷ Lệ Excellent Phụ Trội"	1
+55	"Tỷ Lệ Sát Thương Excellent"	1
+56	"Tăng Sát Thương Kỹ Năng 2 Slot"	0
+57	"Tỷ Lệ Hồi Đầy MP"	1
+58	"Tỷ Lệ Bỏ Qua Phòng Thủ Đối Phương"	1
+59	"Tăng Tỷ Lệ Gấp Đôi Phụ Trội"	1
+60	"Tỷ Lệ Sát Thương Gấp Ba"	1
+61	"Tăng Sát Thương Kỹ Năng 3 Slot"	0
+62	"Tăng Lượng Hồi AG"	0
+63	"(Kỹ năng cường hóa, kỹ năng năng lực) Tỷ lệ sát thương cộng thêm"	1
+64	"Tăng Tỷ Lệ Kháng Choáng (PvM)"	0
+65	"Tăng HP"	0
+66	"Tăng MP"	0
+67	"Tăng AG"	0
+68	"Tỷ Lệ Chí Mạng Nuke"	1
+69	"Tỷ Lệ Chí Mạng Bolt"	1
+70	"Tỷ Lệ Chí Mạng Diện Rộng"	1
+71	"Tỷ Lệ Excellent Nuke"	1
+72	"Tỷ Lệ Excellent Bolt"	1
+73	"Tỷ Lệ Excellent Diện Rộng"	1
+74	"Tỷ Lệ Gấp Đôi Nuke"	1
+75	"Tỷ Lệ Gấp Đôi Bolt"	1
+76	"Tỷ Lệ Gấp Đôi Diện Rộng"	1
+77	"Tỷ Lệ Gấp Ba Nuke"	1
+78	"Tỷ Lệ Gấp Ba Bolt"	1
+79	"Tỷ Lệ Gấp Ba Diện Rộng"	1
+80	"[Sát Thương Phụ] Nuke"	0
+81	"[Sát Thương Phụ] Bolt"	0
+82	"[Sát Thương Phụ] Diện Rộng"	0
+83	"Tăng Phép Thuật Cánh Cấp 5"	0
+84	"Tăng Lời Nguyền Cánh Cấp 5"	0
+85	"Tăng Phép Thuật Mỗi 20 Cấp"	0
+86	"Tăng Lời Nguyền Mỗi 20 Cấp"	0
+end		

@@ -1,0 +1,1994 @@
+//==============================================================================================================================================//			
+//	MuDevs.com		
+//	Version: S20.2-3		
+//	Update: May/29/2025		
+//	Editor: OMEGA		
+//==============================================================================================================================================//			
+1	Đang bảo trì hệ thống (disabled)	1	1
+2	Chào mừng đến thế giới MU.	1	2
+3	Mình là Olga, cùng Shadow Phantom Guardians phục vụ Nữ hoàng Erin Gustiv.	2	2
+4	Chúng tôi cần anh hùng để kết thúc hỗn loạn do Kundun gây ra.	2	2
+5	Nhận hướng dẫn cơ bản về điều khiển và săn quái.	2	2
+6	Tìm Shadow Phantom Soldier ở thị trấn để bắt đầu.	2	2
+7	Hoàn thành, nhận thưởng.	4	2
+8	Nghe hướng dẫn của Shadow Phantom Soldier.	5	2
+9	Hướng dẫn - Nhấn C	1	3
+10	Đóng quest và mở Character Stats (C) xem thông tin nhân vật.	2	3
+11	Tăng EXP để lên cấp. Kiểm tra điểm còn thiếu qua Character Stats hoặc thanh EXP.	2	3
+12	Character Stats hiển thị tên, server, class, kênh kết nối.	2	3
+13	Có 11 class cơ bản: Elf, Dark Knight, Dark Wizard, Summoner, Rune Mage, Slayer, Guncrasher, White Mage, Mage, Illusion Knight, Alchemist. Lên 150 mở Rage Fighter, 200 Glow Lancer, 220 Magic Gladiator, 250 Dark Lord.	2	3
+//S20.1-1			
+14	11 class cơ bản: Elf, Dark Knight, Dark Wizard, Summoner, Rune Mage, Slayer, Guncrasher, White Mage, Mage, Illusion Knight, Alchemist. Lên cấp mở class cao hơn.	2	3
+15	Đây là phần thưởng của bạn.	4	3
+16	Nghe hướng dẫn chơi MU từ Shadow Phantom Soldier.	5	3
+17	Hướng dẫn - Nhấn I	1	4
+18	Lên cấp nhận điểm nâng Strength, Agility, Stamina, Energy, ảnh hưởng Damage, Defense, HP, MP. Dùng cẩn thận.	2	4
+19	Nhấn I hoặc V mở Inventory.	2	4
+20	Inventory hiển thị vật phẩm và trang bị. Click để di chuyển, right-click để dùng consumable.	2	4
+21	Đây là phần thưởng của bạn.	4	4
+22	Nghe hướng dẫn chơi MU từ Shadow Phantom Soldier.	5	4
+23	Mang Táo	1	5
+24	Thử thêm vật phẩm vào inventory. Dùng Zen mua 5 táo từ merchant.	2	5
+25	Táo mua ở potion merchant: Lorencia (Amy 128,85), Elveland (Silvia 45,227), Noria (Elf Lala 172,124).	2	5
+26	Toạ độ nhân vật hiển thị góc trái trên màn hình, thay đổi khi di chuyển.	2	5
+27	Tìm merchant và mang về 5 táo. NPC sáng màu xanh, con trỏ thành răng khi hover.	3	5
+28	Đây là phần thưởng của bạn.	4	5
+29	Có thể dùng táo từ săn quái để hoàn thành quest.	5	5
+30	Săn Noria Chain Scorpion	1	6
+31	Săn 3 Chain Scorpion ngoài tường Noria. Nhấn Q hồi HP nếu cần.	2	6
+32	Dùng Town Portal Scroll nếu xa thị trấn hoặc bị dồn.	2	6
+33	Town Portal Scroll mua từ potion merchant, dùng 1 lần, đưa về thị trấn gần nhất.	2	6
+34	Đóng quest, click lại chọn 'Nhận buff tăng Damage & Defense' dưới level 220. Xem icon, hiệu ứng xanh, kéo dài 1 giờ.	2	6
+35	Hoàn thành săn quái, nhận thưởng.	3	6
+36	Hoàn thành. Đây là phần thưởng của bạn.	4	6
+37	Săn Noria Chain Scorpion, quay lại. Nhấn Move đến vị trí quái tự động.	5	6
+38	Săn Lorencia Budge Dragon	1	7
+39	Săn 3 Budge Dragon ngoài tường Lorencia. Nhấn Q hồi HP nếu cần.	2	7
+40	Tương tự Town Portal Scroll khi xa hoặc bị dồn.	2	7
+41	Mua Town Portal Scroll từ potion merchant, dùng 1 lần.	2	7
+42	Đóng quest, click lại, nhận buff tăng Damage & Defense dưới level 220.	2	7
+43	Hoàn thành săn quái, nhận thưởng.	3	7
+44	Hoàn thành. Đây là phần thưởng của bạn.	4	7
+45	Săn Lorencia Budge Dragon, quay lại. Nhấn Move đến quái tự động.	5	7
+46	Săn Elveland Strange Rabbit	1	8
+47	Săn 3 Strange Rabbit ngoài tường Elveland, dùng Q khi cần.	2	8
+48	Sử dụng Town Portal Scroll nếu cần.	2	8
+49	Mua Town Portal Scroll từ potion merchant.	2	8
+50	Đóng quest, click lại, nhận buff tăng Damage & Defense dưới level 220.	2	8
+51	Hoàn thành săn quái, nhận thưởng.	3	8
+52	Hoàn thành. Đây là phần thưởng của bạn.	4	8
+53	Săn Elveland Strange Rabbit, quay lại. Nhấn Move để đến quái tự động.	5	8
+54	Săn Noria Beetle Monster	1	9
+55	Săn 30 Beetle Monster ngoài tường Noria.	2	9
+56	Đóng quest, click lại, nhận buff tăng Damage & Defense.	2	9
+57	Hoàn thành săn quái, nhận thưởng.	3	9
+58	Hoàn thành. Đây là phần thưởng của bạn.	4	9
+59	Săn Noria Beetle Monster, quay lại. Nhấn Move đến quái tự động.	5	9
+60	Săn Lorencia Hound	1	10
+61	Săn 30 Hound ngoài tường Lorencia.	2	10
+62	Đóng quest, click lại, nhận buff tăng Damage & Defense.	2	10
+63	Hoàn thành săn quái, nhận thưởng.	3	10
+64	Hoàn thành. Đây là phần thưởng của bạn.	4	10
+65	Săn Lorencia Hound, quay lại. Nhấn Move đến quái tự động.	5	10
+66	Săn Elveland Polluted Butterfly	1	11
+67	Săn 30 Polluted Butterfly ngoài tường Elveland.	2	11
+68	Đóng quest, click lại, nhận buff tăng Damage & Defense.	2	11
+69	Hoàn thành săn quái, nhận thưởng.	3	11
+70	Hoàn thành. Đây là phần thưởng của bạn.	4	11
+71	Săn Elveland Polluted Butterfly, quay lại. Nhấn Move đến quái tự động.	5	11
+72	Hướng dẫn - Học Skill [Elf]	1	12
+73	Sau khi biết săn quái, click left để tấn công thường, right để dùng skill.	2	12
+74	Elf Agility ưu tiên phòng thủ, trang bị vũ khí dùng skill; Elf Energy ưu tiên pháp thuật, mua orbs học skill.	2	12
+75	Elf mua orbs từ Elf Lala (173,124) hoặc vũ khí từ Eo the Craftsman (195,123) để học thêm skill.	2	12
+76	Mình tặng vũ khí để bạn thực hành.	2	12
+77	Hoàn thành. Đây là phần thưởng của bạn.	4	12
+78	Nghe kiến thức cơ bản.	5	12
+79	Hướng dẫn - Học Skill [Dark Knight]	1	13
+80	Sau khi biết săn quái, click left để tấn công thường, right để dùng skill.	2	13
+81	Dark Knight mạnh về kiếm, dùng vũ khí & orbs.	2	13
+82	Mua orbs từ Pasi the Mage (119,112) để học skill, right-click để dùng.	2	13
+83	Mình tặng vũ khí để bạn thực hành.	2	13
+84	Hoàn thành. Đây là phần thưởng của bạn.	4	13
+85	Nghe kiến thức cơ bản.	5	13
+86	Hướng dẫn - Học Skill [Dark Wizard]	1	14
+87	Sau khi biết săn quái, click left để tấn công thường, right để dùng skill.	2	14
+88	Dark Wizard dùng scroll & parchments học phép.	2	14
+89	Mua scroll từ Pasi the Mage (119,112) hoặc vũ khí từ Hanzo the Blacksmith (116,142) để học thêm skill.	2	14
+90	Mình tặng scroll để bạn thực hành.	2	14
+91	Hoàn thành. Đây là phần thưởng của bạn.	4	14
+92	Nghe kiến thức cơ bản.	5	14
+93	Hướng dẫn - Học Skill [Summoner]	1	15
+94	Sau khi biết săn quái, click left để tấn công thường, right để dùng skill.	2	15
+95	Summoner dùng scroll & parchments học phép.	2	15
+96	Mua scroll từ Marce (36,218) để học skill, right-click để dùng.	2	15
+97	Mình tặng scroll để bạn thực hành.	2	15
+98	Hoàn thành. Đây là phần thưởng của bạn.	4	15
+99	Nghe kiến thức cơ bản.	5	15
+100	Lên Lv. 25 và gặp Shadow Phantom Soldier	1	16
+101	Kết thúc tutorial, có skill hãy tiếp tục tích lũy kinh nghiệm. Lên Lv.25 nhận Uniria.	2	16
+102	Uniria là mount, gắn vào góc Inventory để di chuyển nhanh.	2	16
+103	Lên Lv.25 quay lại, nhận Uniria làm quà.	2	16
+104	Hoàn thành, nhận thưởng.	3	16
+105	Hoàn thành. Đây là phần thưởng của bạn.	4	16
+106	Lên Lv.25 và quay lại Shadow Phantom Soldier.	5	16
+107	Hướng dẫn - Học Skill [All]	1	17
+108	Bạn đã trở thành chiến binh giỏi. Nữ hoàng sẽ tự hào.	2	17
+109	Mình tặng thêm kiến thức cơ bản và phần thưởng của nữ hoàng.	2	17
+110	Nhấn D để mở lệnh Trade, Party, Buy, Follow. Sử dụng hiệu quả.	2	17
+111	Để nhắn tin cho bạn bè bằng ID hoặc gửi tin riêng, dùng Tab trong cửa sổ Chat.	2	17
+112	Từ Lv.1, dùng Repair trong inventory để sửa đồ, nhưng đắt hơn NPC.	2	17
+113	Dùng M để di chuyển nhanh nếu đủ Lv. và tiền. Khám phá vùng phù hợp Lv. cũng thú vị.	2	17
+114	Lần sau gặp nhau, mong thấy bạn mạnh mẽ hơn. Đi tích lũy kinh nghiệm và sức mạnh, giải phóng thế giới khỏi Kundun! (Hoàn thành tutorial)	2	17
+115	Hoàn thành. Đây là phần thưởng của bạn.	4	17
+116	Nghe kiến thức cơ bản.	5	17
+117	Nhiệm vụ từ Lorencia Shadow Phantom Soldier	1	18
+118	Lên Lv.50 và quay lại gặp Shadow Phantom Soldier.	5	18
+119	Nghe giải thích quest Chaos Castle.	1	19
+120	Muốn thử sức tại Chaos Castle, đấu trường của các vị thần? Nghe hướng dẫn rồi quyết định.	2	19
+121	Chaos Castle do Lugard và Secrarium tạo ra để cân bằng thiện - ác. Nhưng người chơi đi về bên Lugard, phá cân bằng.	2	19
+122	Secrarium đề xuất quy định mới: tất cả mặc Armor of Guardsman. Lugard đồng ý.	2	19
+123	Secrarium dự đoán lòng người tối sẽ gây xung đột. Lugard tin người chơi, nhưng cuối cùng Chaos Castle vẫn hỗn loạn.	2	19
+124	Để vào Chaos Castle, right-click Armor of Guardsman vào giờ quy định (12,14,16,18,20,22h). Một số địa điểm như PC cafe dễ vào hơn.	2	19
+125	Chờ 1 phút trước khi vào. Khi bắt đầu, người chơi và guardsmen chiến đấu tự do.	2	19
+126	Cẩn thận khi giết guardsman, họ sẽ nổ và có thể đẩy bạn ra ngoài, dẫn đến disqualify.	2	19
+127	Di chuột lên Armor of Guardsman để biết giờ vào. Right-click tại giờ quy định để vào. Nhận quest để có vật phẩm cần thiết.	2	19
+128	Hiểu hết, nhận phần thưởng.	4	19
+129	Nghe giải thích Chaos Castle.	5	19
+130	Lấy vật phẩm cho Chaos Castle.	1	20
+131	Quay lại sớm. Mình sẽ cho quest để nhận vật phẩm vào event.	2	20
+132	Hạ 40 Larvae trong Dungeon, nhận 2 trong 3 phần thưởng: 10 Healing, 10 Mana, 1 Small SD. Cần ít nhất 20 slot trống.	2	20
+133	Hạ Larvae và quay lại.	3	20
+134	Hoàn thành. Đây là vật phẩm.	4	20
+135	Hạ Larvae và nhận vật phẩm.	5	20
+136	Hạ 1 quái trong Chaos Castle!	1	21
+137	Thử thách Chaos Castle là kiểm tra giới hạn bản thân.	2	21
+138	Chaos Castle Lv.1: hạ 1 Guardsman, nhận 100,000 Zen.	2	21
+139	Đi Event Map, săn quái x1 và quay lại.	3	21
+140	Hoàn thành.	4	21
+141	Săn quái x1 và quay lại.	5	21
+142	Clear Chaos Castle 1 lần!	1	22
+143	Survive Chaos Castle là bằng chứng sức mạnh.	2	22
+144	Chaos Castle Lv.1: survive, nhận 100,000 EXP + 200,000 Zen.	2	22
+145	Clear và quay lại.	3	22
+146	Hoàn thành.	4	22
+147	Clear Chaos Castle 1 lần và quay lại.	5	22
+148	Nghe giải thích Chaos Castle.	1	23
+149	Muốn thử sức tại Chaos Castle, đấu trường của các vị thần? Nghe hướng dẫn rồi quyết định.	2	23
+150	Chaos Castle do Lugard & Secrarium tạo ra. Người chơi đi về Lugard, phá cân bằng.	2	23
+151	Secrarium đề xuất quy định: mặc Armor of Guardsman. Lugard đồng ý.	2	23
+152	Secrarium dự đoán xung đột, Chaos Castle trở nên hỗn loạn.	2	23
+153	Right-click Armor of Guardsman giờ quy định để vào. Một số địa điểm dễ vào hơn.	2	23
+154	Chờ 1 phút trước khi vào. Người chơi và guardsmen chiến đấu tự do.	2	23
+155	Cẩn thận khi giết guardsman, họ sẽ nổ, có thể đẩy bạn ra ngoài.	2	23
+156	Di chuột lên Armor of Guardsman để biết giờ. Right-click để vào. Nhận quest để có vật phẩm cần thiết.	2	23
+157	Hiểu hết, nhận phần thưởng.	4	23
+158	Nghe giải thích Chaos Castle.	5	23
+159	Lấy vật phẩm cho Chaos Castle.	1	24
+160	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm vào event.	2	24
+161	Hạ 60 Hell Spiders trong Dungeon, nhận Invisibility Cloak +1. Nên săn party vì nguy hiểm.	2	24
+162	Hạ Hell Spiders và quay lại.	3	24
+163	Hoàn thành. Đây là vật phẩm.	4	24
+164	Hạ Hell Spiders và nhận vật phẩm.	5	24
+165	Hạ 3 quái trong Chaos Castle!	1	25
+166	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	25
+167	Chaos Castle Lv.2: hạ 3 Guardsman, nhận 200,000 Zen.	2	25
+168	Đi Event Map, săn x3 và quay lại.	3	25
+169	Hoàn thành.	4	25
+170	Săn x3 và quay lại.	5	25
+171	Clear Chaos Castle 1 lần!	1	26
+172	Survive Chaos Castle là bằng chứng sức mạnh.	2	26
+173	Chaos Castle Lv.2: survive, nhận 400,000 EXP + 300,000 Zen.	2	26
+174	Clear và quay lại.	3	26
+175	Hoàn thành.	4	26
+176	Clear Chaos Castle 1 lần và quay lại.	5	26
+177	Lấy vật phẩm cho Chaos Castle.	1	27
+178	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	27
+179	Hạ 80 Dark Knights ở Dungeon Lv.3, nhận 2 trong 3 phần thưởng: 10 Large Healing, 10 Large Mana, 5 Small Complex. Cần ít nhất 20 slot trống.	2	27
+180	Hạ Dark Knights và quay lại.	3	27
+181	Hoàn thành. Đây là vật phẩm.	4	27
+182	Hạ Dark Knights và nhận vật phẩm.	5	27
+183	Hạ 5 quái trong Chaos Castle!	1	28
+184	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	28
+185	Chaos Castle Lv.3: hạ 5 Guardsman, nhận 800,000 EXP + 500,000 Zen.	2	28
+186	Đi Event Map, săn x5 và quay lại.	3	28
+187	Hoàn thành.	4	28
+188	Săn x5 và quay lại.	5	28
+189	Clear Chaos Castle 1 lần!	1	29
+190	Survive Chaos Castle là bằng chứng sức mạnh.	2	29
+191	Chaos Castle Lv.3: survive, nhận 1,000,000 EXP + 1 Jewel of Chaos.	2	29
+192	Clear và quay lại.	3	29
+193	Hoàn thành.	4	29
+194	Clear Chaos Castle 1 lần và quay lại.	5	29
+195	Lấy vật phẩm cho Chaos Castle.	1	30
+196	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	30
+197	Hạ 100 Devils trong Lost Tower Lv.4-6, nhận 5 SD hoặc 5 Complex. Cần ít nhất 15 slot trống.	2	30
+198	Hạ Devils và quay lại.	3	30
+199	Hoàn thành. Đây là vật phẩm.	4	30
+200	Hạ Devils và nhận vật phẩm.	5	30
+201	Hạ 1 player trong Chaos Castle!	1	31
+202	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	31
+203	Chaos Castle Lv.4: hạ 1 traveler Armor of Guardsman, nhận 300,000 Zen + 1 Jewel of Chaos.	2	31
+204	Đi Event Map, hạ player x1 và quay lại.	3	31
+205	Hoàn thành.	4	31
+206	Hạ player x1 và quay lại.	5	31
+207	Clear Chaos Castle 1 lần!	1	32
+208	Survive Chaos Castle là bằng chứng sức mạnh.	2	32
+209	Chaos Castle Lv.4: survive, nhận 1 Jewel of Soul.	2	32
+210	Clear và quay lại.	3	32
+211	Hoàn thành.	4	32
+212	Clear Chaos Castle 1 lần và quay lại.	5	32
+213	Lấy vật phẩm cho Chaos Castle.	1	33
+214	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	33
+215	Hạ 100 Queen Rainiers ở Icarus, nhận 3 Large SD hoặc 10 Complex. Cần ít nhất 10 slot trống.	2	33
+216	Hạ Queen Rainiers và quay lại.	3	33
+217	Hoàn thành. Đây là vật phẩm.	4	33
+218	Hạ Queen Rainiers và nhận vật phẩm.	5	33
+219	Hạ 3 players trong Chaos Castle!	1	34
+220	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	34
+221	Chaos Castle Lv.5: hạ 3 travelers Armor of Guardsman, nhận 1 Jewel of Soul.	2	34
+222	Đi Event Map, hạ player x3 và quay lại.	3	34
+223	Hoàn thành.	4	34
+224	Hạ player x3 và quay lại.	5	34
+225	Clear Chaos Castle 1 lần!	1	35
+226	Survive Chaos Castle là bằng chứng sức mạnh.	2	35
+227	Chaos Castle Lv.5: survive, nhận 1 Jewel of Bless.	2	35
+228	Clear và quay lại.	3	35
+229	Hoàn thành.	4	35
+230	Clear Chaos Castle 1 lần và quay lại.	5	35
+231	Lấy vật phẩm cho Chaos Castle.	1	36
+232	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	36
+233	Hạ 100 Beam Knights ở Tarkan Lv.2, nhận 7 Large SD hoặc 10 Complex. Cần ít nhất 20 slot trống.	2	36
+234	Hạ Beam Knights và quay lại.	3	36
+235	Hoàn thành. Đây là vật phẩm.	4	36
+236	Hạ Beam Knights và nhận vật phẩm.	5	36
+237	Hạ 5 players trong Chaos Castle!	1	37
+238	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	37
+239	Chaos Castle Lv.6: hạ 5 travelers Armor of Guardsman, nhận 1 Jewel of Harmony.	2	37
+240	Đi Event Map, hạ player x5 và quay lại.	3	37
+241	Hoàn thành.	4	37
+242	Hạ player x5 và quay lại.	5	37
+243	Clear Chaos Castle 1 lần!	1	38
+244	Survive Chaos Castle là bằng chứng sức mạnh.	2	38
+245	Chaos Castle Lv.6: survive, nhận 1 Jewel of Life.	2	38
+246	Clear và quay lại.	3	38
+247	Hoàn thành.	4	38
+248	Clear Chaos Castle 1 lần và quay lại.	5	38
+249	Lấy vật phẩm cho Chaos Castle.	1	39
+250	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	39
+251	Hạ 100 Shadow Pawns ở Swamp of Peace, nhận 10 Large SD + 15 Large Complex. Cần ít nhất 30 slot trống.	2	39
+252	Hạ Shadow Pawns và quay lại.	3	39
+253	Hoàn thành. Đây là vật phẩm.	4	39
+254	Hạ Shadow Pawns và nhận vật phẩm.	5	39
+255	Hạ 7 players trong Chaos Castle!	1	40
+256	Thử thách Chaos Castle kiểm tra giới hạn bản thân.	2	40
+257	Chaos Castle Lv.7: hạ 10 travelers Armor of Guardsman, nhận 2 Jewels of Soul.	2	40
+258	Đi Event Map, hạ player x7 và quay lại.	3	40
+259	Hoàn thành.	4	40
+260	Hạ player x7 và quay lại.	5	40
+261	Clear Chaos Castle 1 lần!	1	41
+262	Survive Chaos Castle là bằng chứng sức mạnh.	2	41
+263	Chaos Castle Lv.7: survive, nhận 2 Jewels of Bless.	2	41
+264	Clear và quay lại.	3	41
+265	Hoàn thành.	4	41
+266	Clear Chaos Castle 1 lần và quay lại.	5	41
+267	Nghe giải thích Blood Castle.	1	42
+268	Muốn nghe Archangel nhờ giúp bảo vệ barrier Blood Castle?	2	42
+269	Devildom royal guards đe dọa, Twelve Saints tạo barrier quanh Blood Castle.	2	42
+270	Kundun loại Twelve Saints, Archangel hy sinh bảo vệ barrier.	2	42
+//S20.2-3			
+//271		2	42
+271	Tham gia Blood Castle dễ. Mỗi 2h từ 00:30. 5 phút trước event, mang Invisibility Cloak, đến 'Messenger of Archangel' để apply, sau đó được đưa vào Blood Castle.	2	42
+272	Chờ 1 phút trước khi vào. Bên trong, hạ 40 quái Red Skull để mua thời gian.	2	42
+273	Vượt cổng, hạ 2 Red Skull, phá casket lấy Absolute Weapon, trả lại Archangel để hoàn thành quest.	2	42
+//S20.2-3			
+//274		2	42
+274	Để biết giờ vào, nhấn F1. Mang Cloak và đi Messenger of Archangel trước giờ, nhận quest để lấy Cloak vào Blood Castle.	2	42
+275	Hiểu hết, nhận phần thưởng.	4	42
+276	Nghe giải thích Blood Castle.	5	42
+277	Lấy vật phẩm cho Blood Castle.	1	43
+278	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	43
+//S20.2-3			
+//279		2	43
+279	Hạ 40 Hell Hounds trong Dungeon, nhận Invisibility Cloak +1. Nên săn party.	2	43
+280	Hạ Hell Hounds và quay lại.	3	43
+281	Hoàn thành. Đây là vật phẩm.	4	43
+282	Hạ Hell Hounds và nhận vật phẩm.	5	43
+283	Phá cổng Blood Castle!	1	44
+284	Thử thách Blood Castle kiểm tra giới hạn bản thân.	2	44
+285	Blood Castle Lv.1: phá cổng, nhận 100,000 Zen.	2	44
+286	Vào Blood Castle phá cổng và quay lại.	3	44
+287	Hoàn thành.	4	44
+288	Phá cổng 1 lần và quay lại.	5	44
+289	Clear Blood Castle!	1	45
+290	Survive Blood Castle là bằng chứng sức mạnh.	2	45
+291	Blood Castle Lv.1: hoàn thành quest Archangel, nhận 100,000 EXP + 200,000 Zen.	2	45
+292	Clear và quay lại.	3	45
+293	Hoàn thành.	4	45
+294	Clear 1 lần và quay lại.	5	45
+295	Nghe giải thích Blood Castle.	1	46
+296	Muốn nghe Archangel nhờ giúp bảo vệ barrier Blood Castle?	2	46
+297	Devildom royal guards đe dọa, Twelve Saints tạo barrier.	2	46
+298	Kundun loại Twelve Saints, Archangel hy sinh bảo vệ barrier.	2	46
+//S20.2-3			
+//299		2	46
+299	Tham gia Blood Castle dễ, 2h 1 lần từ 00:30. 5 phút trước event, mang Cloak, đi Messenger of Archangel để apply.	2	46
+300	Chờ 1 phút trước khi vào. Bên trong, hạ 40 Red Skull để mua thời gian.	2	46
+301	Vượt cổng, hạ 2 Red Skull, phá casket, trả Absolute Weapon cho Archangel.	2	46
+//S20.2-3			
+//302		2	46
+302	Nhấn F1 để biết giờ vào, mang Cloak đến Messenger of Archangel, nhận quest để lấy Cloak.	2	46
+303	Hiểu hết, nhận phần thưởng.	4	46
+304	Nghe giải thích Blood Castle.	5	46
+305	Lấy vật phẩm cho Blood Castle.	1	47
+306	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	47
+//S20.2-3			
+//307		2	47
+307	Hạ 40 Poison Bull Fighters, nhận Invisibility Cloak +2. Nên săn party.	2	47
+308	Hạ Poison Bull Fighters và quay lại.	3	47
+309	Hoàn thành. Đây là vật phẩm.	4	47
+310	Hạ Poison Bull Fighters và nhận vật phẩm.	5	47
+311	Phá cổng Blood Castle!	1	48
+312	Thử thách Blood Castle kiểm tra giới hạn bản thân.	2	48
+313	Blood Castle Lv.2: phá cổng, nhận 200,000 Zen.	2	48
+314	Vào Blood Castle phá cổng và quay lại.	3	48
+315	Hoàn thành.	4	48
+316	Phá cổng 1 lần và quay lại.	5	48
+317	Clear Blood Castle!	1	49
+318	Survive Blood Castle là bằng chứng sức mạnh.	2	49
+319	Blood Castle Lv.2: hoàn thành quest Archangel, nhận 400,000 EXP + 300,000 Zen.	2	49
+320	Clear và quay lại.	3	49
+321	Hoàn thành.	4	49
+322	Clear 1 lần và quay lại.	5	49
+323	Lấy vật phẩm cho Blood Castle.	1	50
+324	Quay lại sớm. Mình sẽ cho quest nhận vật phẩm.	2	50
+//S20.2-3			
+//325		2	50
+325	Death Knights ở Lost Tower 5-7 đang quấy nhiễu khách du lịch. Đi săn 80 Death Knights. Quay lại nhận Invisibility Cloak. Nên săn theo nhóm.	2	50
+326	Săn Death Knights ở Lost Tower 5-7 và quay lại.	3	50
+327	Hoàn thành. Đây là vật phẩm.	4	50
+328	Săn Death Knights và nhận vật phẩm.	5	50
+329	Phá cổng Blood Castle!	1	51
+330	Tham gia Blood Castle là thử thách giới hạn bản thân.	2	51
+331	Thử Blood Castle 3 và hoàn thành nhiệm vụ Archangel. Quay lại nhận 800,000 EXP & 500,000 Zen. Chỉ áp dụng Blood Castle 3.	2	51
+332	Vào Blood Castle, phá cổng và quay lại.	3	51
+333	Hoàn thành.	4	51
+334	Phá cổng Blood Castle 1 lần và quay lại.	5	51
+335	Xóa sạch Blood Castle!	1	52
+336	Qua Blood Castle chứng tỏ bạn đã rèn luyện tốt.	2	52
+337	Thử Blood Castle 3, hoàn thành Archangel, nhận 1 Jewel of Chaos & quay lại. Chỉ Blood Castle 3.	2	52
+338	Xóa sạch Blood Castle và quay lại.	3	52
+339	Hoàn thành.	4	52
+340	Xóa sạch Blood Castle 1 lần và quay lại.	5	52
+341	Lấy vật phẩm cho Blood Castle	1	53
+342	Quay lại sớm, tôi có nhiệm vụ để nhận vật phẩm vào event.	2	53
+//S20.2-3			
+//343		2	53
+343	Mega Crusts ở Icarus gây nguy hiểm. Săn 80 Mega Crusts, quay lại nhận Invisibility Cloak. Săn theo nhóm.	2	53
+344	Săn Mega Crusts ở Icarus và quay lại.	3	53
+345	Hoàn thành. Đây là vật phẩm.	4	53
+346	Săn Mega Crusts và nhận vật phẩm.	5	53
+347	Phá cổng Blood Castle!	1	54
+348	Tham gia Blood Castle là thử thách giới hạn bản thân.	2	54
+349	Thử Blood Castle 4, phá cổng, nhận 1 Jewel of Chaos & 500,000 Zen. Chỉ Blood Castle 4.	2	54
+350	Vào Blood Castle, phá cổng và quay lại.	3	54
+351	Hoàn thành.	4	54
+352	Phá cổng 1 lần và quay lại.	5	54
+353	Xóa sạch Blood Castle!	1	55
+354	Qua Blood Castle chứng tỏ bạn đã rèn luyện tốt.	2	55
+355	Thử Blood Castle 4, hoàn thành Archangel, nhận 1 Jewel of Soul. Chỉ Blood Castle 4.	2	55
+356	Xóa sạch Blood Castle và quay lại.	3	55
+357	Hoàn thành.	4	55
+358	Xóa sạch Blood Castle 1 lần và quay lại.	5	55
+359	Lấy vật phẩm cho Blood Castle	1	56
+360	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	56
+//S20.2-3			
+//361		2	56
+361	Tantaloses ở Tarkan 2 gây nguy hiểm. Săn 100 Tantaloses, nhận Invisibility Cloak. Săn theo nhóm.	2	56
+362	Săn Tantaloses ở Tarkan 2 và quay lại.	3	56
+363	Hoàn thành. Đây là vật phẩm.	4	56
+364	Săn Tantaloses và nhận vật phẩm.	5	56
+365	Phá cổng Blood Castle!	1	57
+366	Tham gia Blood Castle là thử thách giới hạn bản thân.	2	57
+367	Thử Blood Castle 5, phá cổng, nhận 1 Jewel of Soul. Chỉ Blood Castle 5.	2	57
+368	Vào Blood Castle, phá cổng và quay lại.	3	57
+369	Hoàn thành.	4	57
+370	Phá cổng 1 lần và quay lại.	5	57
+371	Xóa sạch Blood Castle!	1	58
+372	Qua Blood Castle chứng tỏ bạn đã rèn luyện tốt.	2	58
+373	Thử Blood Castle 5, hoàn thành Archangel, nhận 1 Jewel of Bless. Chỉ Blood Castle 5.	2	58
+374	Xóa sạch Blood Castle và quay lại.	3	58
+375	Hoàn thành.	4	58
+376	Xóa sạch Blood Castle 1 lần và quay lại.	5	58
+377	Lấy vật phẩm cho Blood Castle	1	59
+378	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	59
+//S20.2-3			
+//379		2	59
+379	Phantom Knights ở Icarus gây nguy hiểm. Săn 100 Phantom Knights, nhận Invisibility Cloak. Săn theo nhóm.	2	59
+380	Săn Phantom Knights ở Icarus và quay lại.	3	59
+381	Hoàn thành. Đây là vật phẩm.	4	59
+382	Săn Phantom Knights và nhận vật phẩm.	5	59
+383	Phá cổng Blood Castle!	1	60
+384	Tham gia Blood Castle là thử thách giới hạn bản thân.	2	60
+385	Thử Blood Castle 6, phá cổng, nhận 1 Jewel of Bless. Chỉ Blood Castle 6.	2	60
+386	Vào Blood Castle, phá cổng và quay lại.	3	60
+387	Hoàn thành.	4	60
+388	Phá cổng 1 lần và quay lại.	5	60
+389	Xóa sạch Blood Castle!	1	61
+390	Qua Blood Castle chứng tỏ bạn đã rèn luyện tốt.	2	61
+391	Thử Blood Castle 6, hoàn thành Archangel, nhận 1 Jewel of Life. Chỉ Blood Castle 6.	2	61
+392	Xóa sạch Blood Castle và quay lại.	3	61
+393	Hoàn thành.	4	61
+394	Xóa sạch Blood Castle 1 lần và quay lại.	5	61
+395	Lấy vật phẩm cho Blood Castle	1	62
+396	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	62
+//S20.2-3			
+//397		2	62
+397	Twin Tails ở Kanturu Relics gây nguy hiểm. Săn 100 Twin Tails, nhận Invisibility Cloak. Săn theo nhóm.	2	62
+398	Săn Twin Tails ở Kanturu Ruins và quay lại.	3	62
+399	Hoàn thành. Đây là vật phẩm.	4	62
+400	Săn Twin Tails và nhận vật phẩm.	5	62
+401	Phá cổng Blood Castle!	1	63
+402	Tham gia Blood Castle là thử thách giới hạn bản thân.	2	63
+403	Thử Blood Castle 7, phá cổng, nhận 2 Jewels of Soul. Chỉ Blood Castle 7.	2	63
+404	Vào Blood Castle, phá cổng và quay lại.	3	63
+405	Hoàn thành.	4	63
+406	Phá cổng 1 lần và quay lại.	5	63
+407	Xóa sạch Blood Castle!	1	64
+408	Qua Blood Castle chứng tỏ bạn đã rèn luyện tốt.	2	64
+409	Thử Blood Castle 7, hoàn thành Archangel, nhận 2 Jewels of Bless. Chỉ Blood Castle 7.	2	64
+410	Xóa sạch Blood Castle và quay lại.	3	64
+411	Hoàn thành.	4	64
+412	Xóa sạch Blood Castle 1 lần và quay lại.	5	64
+413	Nghe giải thích nhiệm vụ Devil Square.	1	65
+414	Devil Square là nơi luyện tập ẩn, tốt cho phát triển skill.	2	65
+415	Devil Square là nơi Elf Tree từng đứng. Elf Tree sinh Elf, bị Secrarium biến thành Immoral Tree.	2	65
+416	Immoral Tree sinh quái nhiều, các vương quốc MU gộp lực khóa lại.	2	65
+417	Quái vẫn sinh đều đặn, nữ hoàng Elf biến nơi này thành training area.	2	65
+//S20.2-3			
+//418		2	65
+418	Vào Devil Square dễ dàng, mỗi 4 giờ từ 3:00 AM. Trước 5 phút, đưa Devil's Invitation cho Charon ở Noria để vào.	2	65
+419	Chờ 1 phút trước khi vào, quái xuất hiện 10 phút, giết quái nhận điểm, điểm cao có thưởng.	2	65
+420	Devil Square có quái mạnh, nên lập party trước khi vào để sống sót.	2	65
+421	Cảm ơn, đây là phần thưởng.	4	65
+422	Nghe giải thích Devil Square.	5	65
+423	Lấy vật phẩm cho Devil Square	1	66
+424	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	66
+//S20.2-3			
+//425		2	66
+425	Cursed Liches ở Elveland quấy nhiễu dân. Săn 40, nhận Devil's Invitation. Nên hợp tác săn.	2	66
+426	Săn Cursed Liches ở Elveland và quay lại.	3	66
+427	Hoàn thành. Đây là vật phẩm.	4	66
+428	Săn Cursed Liches và nhận vật phẩm.	5	66
+429	Đạt 50 điểm Devil Square!	1	67
+430	Tham gia Devil Square là thử thách giới hạn bản thân.	2	67
+431	Vào Devil Square 1, đạt 50 điểm, nhận 100,000 Zen. Mỗi quái 2 điểm.	2	67
+432	Vào Devil Square đạt 50 điểm và quay lại.	3	67
+433	Hoàn thành.	4	67
+434	Đạt 50 điểm Devil Square và quay lại.	5	67
+435	Xóa sạch Devil Square!	1	68
+436	Qua Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	68
+437	Vào Devil Square 1, đánh quái, sống sót, nhận 100,000 EXP & 200,000 Zen. Chỉ Level 1.	2	68
+438	Xóa sạch Devil Square và quay lại.	3	68
+439	Hoàn thành.	4	68
+440	Xóa sạch Devil Square 1 lần và quay lại.	5	68
+441	Nghe giải thích Devil Square.	1	69
+442	Devil Square là nơi luyện tập ẩn, tốt cho phát triển skill.	2	69
+443	Devil Square từng là Elf Tree, bị Secrarium biến thành Immoral Tree.	2	69
+444	Immoral Tree sinh quái nhiều, MU khóa lại.	2	69
+445	Quái vẫn sinh, nữ hoàng Elf biến thành training area.	2	69
+//S20.2-3			
+//446		2	69
+446	Vào Devil Square dễ dàng, mỗi 4 giờ từ 3:00 AM. Trước 5 phút, đưa Devil's Invitation cho Charon để vào.	2	69
+447	Chờ 1 phút trước khi quái xuất hiện, giết quái nhận điểm, điểm cao có thưởng.	2	69
+448	Devil Square có quái mạnh, nên lập party trước khi vào.	2	69
+449	Cảm ơn, đây là phần thưởng.	4	69
+450	Nghe giải thích Devil Square.	5	69
+451	Lấy vật phẩm cho Devil Square	1	70
+452	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	70
+//S20.2-3			
+//453		2	70
+453	Death Cows bị năng lượng xấu quấy nhiễu Lost Tower. Săn 60 Death Cows, nhận Devil's Invitation. Nên săn nhóm.	2	70
+454	Săn Death Cows ở Lost Tower và quay lại.	3	70
+455	Hoàn thành. Đây là vật phẩm.	4	70
+456	Săn Death Cows và nhận vật phẩm.	5	70
+457	Đạt 100 điểm Devil Square!	1	71
+458	Tham gia Devil Square là thử thách giới hạn bản thân.	2	71
+459	Vào Devil Square 2, đạt 100 điểm, nhận 200,000 Zen. Mỗi quái 2 điểm.	2	71
+460	Vào Devil Square 2 đạt 100 điểm và quay lại.	3	71
+461	Hoàn thành.	4	71
+462	Đạt 100 điểm Devil Square và quay lại.	5	71
+463	Xóa sạch Devil Square!	1	72
+464	Qua Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	72
+465	Vào Devil Square 2, đánh quái, sống sót, nhận 400,000 EXP & 300,000 Zen. Chỉ Level 2.	2	72
+466	Xóa sạch Devil Square và quay lại.	3	72
+467	Hoàn thành.	4	72
+468	Xóa sạch Devil Square 1 lần và quay lại.	5	72
+469	Lấy vật phẩm cho Devil Square	1	73
+470	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	73
+//S20.2-3			
+//471		2	73
+471	Alquamoses ở Icarus tăng số lượng. Săn 80 Alquamoses, nhận Devil's Invitation. Nên săn nhóm.	2	73
+472	Săn Alquamoses ở Icarus và quay lại.	3	73
+473	Hoàn thành. Đây là vật phẩm.	4	73
+474	Săn Alquamoses và nhận vật phẩm.	5	73
+475	Đạt 130 điểm Devil Square!	1	74
+476	Tham gia Devil Square là thử thách giới hạn bản thân.	2	74
+477	Vào Devil Square 3, đạt 130 điểm, nhận 800,000 EXP & 500,000 Zen. Mỗi quái 2 điểm.	2	74
+478	Vào Devil Square 3 đạt 130 điểm và quay lại.	3	74
+479	Hoàn thành.	4	74
+480	Đạt 130 điểm Devil Square và quay lại.	5	74
+481	Xóa sạch Devil Square!	1	75
+482	Qua Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	75
+483	Vào Devil Square 3, đánh quái, sống sót, nhận 1,000,000 EXP & 1 Jewel of Chaos. Chỉ Level 3.	2	75
+484	Xóa sạch Devil Square và quay lại.	3	75
+485	Hoàn thành.	4	75
+486	Xóa sạch Devil Square 1 lần và quay lại.	5	75
+487	Lấy vật phẩm cho Devil Square	1	76
+488	Quay lại sớm, có nhiệm vụ nhận vật phẩm event.	2	76
+//S20.2-3			
+//489	Tarkan có nhiều Iron Wheels tấn công người đi đường. Đi Tarkan tiêu diệt 100 Iron Wheels, quay lại nhận Devil's Invitation. Chúng rất mạnh, nên đi cùng người khác.	2	76
+489	Tấn công Iron Wheels ở Tarkan. Đánh 100 Iron Wheels, trở về nhận Devil's Invitation.	2	76
+490	Tiêu diệt Iron Wheels ở Tarkan và quay lại.	3	76
+491	Tốt lắm. Đây là vật phẩm.	4	76
+492	Đi săn Iron Wheels ở Tarkan và nhận vật phẩm.	5	76
+493	Nhận 160 điểm ở Devil Square!	1	77
+494	Tham gia Devil Square là thử giới hạn bản thân.	2	77
+495	Nhiệm vụ: vào Devil Square Level 4, đạt 160 điểm để nhận 1 Jewel of Chaos + 500,000 Zens. Mỗi quái tiêu diệt được 2 điểm.	2	77
+496	Vào Devil Square, đạt 160 điểm và quay lại.	3	77
+497	Tốt lắm.	4	77
+498	Đạt 160 điểm ở Devil Square và quay lại.	5	77
+499	Clear Devil Square!	1	78
+500	Sống sót Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	78
+501	Vào Devil Square Level 4, tiêu diệt quái và sống sót, nhận 1 Jewel of Soul. Chỉ áp dụng Level 4.	2	78
+502	Clear Devil Square và quay lại.	3	78
+503	Tốt lắm.	4	78
+504	Clear Devil Square 1 lần và quay lại.	5	78
+505	Nhận vật phẩm Devil Square	1	79
+506	Bạn quay lại nhanh hơn tôi nghĩ. Tôi sẽ giao nhiệm vụ để nhận vật phẩm vào event.	2	79
+//S20.2-3			
+//507	Beam Knights có hoạt động lạ ở Tarkan. Đi Tarkan level 2, tiêu diệt 100 Beam Knights, quay lại nhận Devil's Invitation. Chúng rất mạnh, nên đi cùng người khác.	2	79
+507	Tấn công Beam Knights ở Tarkan 2. Đánh 100 Beam Knights, trở về nhận Devil's Invitation.	2	79
+508	Tiêu diệt Beam Knights ở Tarkan và quay lại.	3	79
+509	Tốt lắm. Đây là vật phẩm.	4	79
+510	Đi săn Beam Knights ở Tarkan và nhận vật phẩm.	5	79
+511	Nhận 190 điểm ở Devil Square!	1	80
+512	Tham gia Devil Square là thử giới hạn bản thân.	2	80
+513	Nhiệm vụ: vào Devil Square Level 5, đạt 190 điểm để nhận 1 Jewel of Soul. Mỗi quái tiêu diệt được 2 điểm.	2	80
+514	Vào Devil Square, đạt 190 điểm và quay lại.	3	80
+515	Tốt lắm.	4	80
+516	Đạt 190 điểm ở Devil Square và quay lại.	5	80
+517	Clear Devil Square!	1	81
+518	Sống sót Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	81
+519	Vào Devil Square Level 5, tiêu diệt quái và sống sót, nhận 1 Jewel of Bless. Chỉ áp dụng Level 5.	2	81
+520	Clear Devil Square và quay lại.	3	81
+521	Tốt lắm.	4	81
+522	Clear Devil Square 1 lần và quay lại.	5	81
+523	Nhận vật phẩm Devil Square	1	82
+524	Bạn quay lại nhanh hơn tôi nghĩ. Tôi sẽ giao nhiệm vụ để nhận vật phẩm vào event.	2	82
+//S20.2-3			
+//525	Ice Walkers đang tấn công Raklion, phá hàng rào chia Raklion và Devias. Đi Raklion tiêu diệt 120 Ice Walkers, quay lại nhận Devil's Invitation. Chúng rất mạnh, nên đi cùng người khác.	2	82
+525	Tấn công Ice Walkers ở Raklion. Đánh 120 Ice Walkers, trở về nhận Devil's Invitation.	2	82
+526	Tiêu diệt Ice Walkers ở Raklion và quay lại.	3	82
+527	Tốt lắm. Đây là vật phẩm.	4	82
+528	Đi săn Ice Walkers ở Raklion và nhận vật phẩm.	5	82
+529	Nhận 210 điểm ở Devil Square!	1	83
+530	Tham gia Devil Square là thử giới hạn bản thân.	2	83
+531	Nhiệm vụ: vào Devil Square Level 6, đạt 210 điểm để nhận 1 Jewel of Bless. Mỗi quái tiêu diệt được 2 điểm.	2	83
+532	Vào Devil Square, đạt 210 điểm và quay lại.	3	83
+533	Tốt lắm.	4	83
+534	Đạt 210 điểm ở Devil Square và quay lại.	5	83
+535	Clear Devil Square!	1	84
+536	Sống sót Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	84
+537	Vào Devil Square Level 6, tiêu diệt quái và sống sót, nhận 1 Jewel of Life. Chỉ áp dụng Level 6.	2	84
+538	Clear Devil Square và quay lại.	3	84
+539	Tốt lắm.	4	84
+540	Clear Devil Square 1 lần và quay lại.	5	84
+541	Nhận vật phẩm Devil Square	1	85
+542	Bạn quay lại nhanh hơn tôi nghĩ. Tôi sẽ giao nhiệm vụ để nhận vật phẩm vào event.	2	85
+//S20.2-3			
+//543	Nhiều người biến mất ở Swamp of Peace vì Shadow Knights. Đi Swamp of Peace tiêu diệt 140 Shadow Knights, quay lại nhận Devil's Invitation. Chúng rất mạnh, nên đi cùng người khác.	2	85
+543	Tấn công Shadow Knights ở Swamp of Peace. Đánh 140 Shadow Knights, trở về nhận Devil's Invitation.	2	85
+544	Tiêu diệt Shadow Knights ở Swamp of Peace và quay lại.	3	85
+545	Tốt lắm. Đây là vật phẩm.	4	85
+546	Đi săn Shadow Knights ở Swamp of Peace và nhận vật phẩm.	5	85
+547	Nhận 240 điểm ở Devil Square!	1	86
+548	Tham gia Devil Square là thử giới hạn bản thân.	2	86
+549	Nhiệm vụ: vào Devil Square Level 7, đạt 240 điểm để nhận 2 Jewels of Soul. Mỗi quái tiêu diệt được 2 điểm.	2	86
+550	Vào Devil Square, đạt 240 điểm và quay lại.	3	86
+551	Tốt lắm.	4	86
+552	Đạt 240 điểm ở Devil Square và quay lại.	5	86
+553	Clear Devil Square!	1	87
+554	Sống sót Devil Square chứng tỏ bạn đã rèn luyện tốt.	2	87
+555	Vào Devil Square Level 7, tiêu diệt quái và sống sót, nhận 2 Jewels of Bless. Chỉ áp dụng Level 7.	2	87
+556	Clear Devil Square và quay lại.	3	87
+557	Tốt lắm.	4	87
+558	Clear Devil Square 1 lần và quay lại.	5	87
+559	Lời gọi từ Acheron	1	88
+560	Nói chuyện với Deruvish ở Acheron.	5	88
+561	Người sống sót duy nhất	1	89
+562	Không thể nào! Làm sao bạn tới đây? Ẩn ở đây trước. Tôi là Deruvish, theo Vanert tìm Secromicon Fragment. Tôi là người sống sót duy nhất.	2	89
+563	Vừa đến đảo, quái vật nguyên tố tấn công. Nhiều người chết, những người còn sống đi theo Vanert. Tôi và vài người ở lại cứu các thành viên khác.	2	89
+564	Tôi đoán đảo này trước kia yên bình với linh hồn. Có gì đó biến linh hồn thành quái vật. Chúng vẫn giữ sức mạnh cũ, vẫn nguy hiểm.	2	89
+565	Cảm ơn đã lắng nghe.	4	89
+566	Lắng nghe Người sống sót duy nhất	5	89
+567	Sức mạnh bí ẩn của Acheron, Nguyên tố	1	90
+568	Tôi không biết sao chúng biến thành quái. Khi gặp quái, bạn cần Pentagram để đánh. Muốn tiếp tục, hãy tìm Muren's Book of Magic để nhận Pentagram. Đi Atlans và Acheron Alkmar, Ubaid để tìm.	2	90
+569	Không có Pentagram, không thể chiến quái nguyên tố. Xem xét lại.	2	90
+570	Cần Pentagram để chiến quái nguyên tố.	3	90
+571	Tốt lắm.	4	90
+572	Nhận Pentagram	5	90
+573	Vật phẩm Errtel	1	91
+574	Bạn có Pentagram? Giờ chiến quái nguyên tố tốt hơn. Tôi giải thích nguyên tố và Pentagram. Kiểm tra Pentagram bạn có, phải có nguyên tố.	2	91
+575	Có 5 nguyên tố: Lửa, Nước, Đất, Gió, Bóng tối. Nguyên tố có mạnh/yếu lẫn nhau. Lửa yếu nước, mạnh bóng tối, v.v. Khi có Pentagram, thêm sát thương theo nguyên tố.	2	91
+576	Bạn có thể dùng sức mạnh linh hồn. Tiêu diệt 20 Devil Fairies.	2	91
+577	Tiêu diệt 20 Devil Fairies và quay lại.	3	91
+578	Tốt lắm.	4	91
+579	Tiêu diệt 20 Devil Fairies	5	91
+580	Tạo Errtels	1	92
+581	Có thể nâng Pentagram bằng Errtel, tăng sức mạnh nguyên tố. Dùng Errtel còn tăng thêm tùy chọn.	2	92
+582	Alt + Right-click Pentagram chưa trang bị, mở cửa sổ thuộc tính. Dùng Errtel vào ô trống. Có hạn loại ngọc.	2	92
+583	Ong 1: Anger, 2: Blessing, 3: Integrity, 4: Divinity, 5: Radiance. Có thể tháo ngọc, nhưng đôi khi mất.	2	92
+584	Tạo Errtel bằng Mithril + Jewel of Bless. Mang Mithril, tôi dạy làm Errtel.	2	92
+585	Đi săn lấy Mithril.	3	92
+586	Tốt lắm.	4	92
+587	Lấy Mithril	5	92
+588	Linh hồn sống sót Adniel	1	93
+589	Khi thu 50 Elemental Powder, tự tạo Elemental Capsule. Lấy powder từ Set Item hoặc Errtel. Từ Capsule nhận nhiều vật phẩm nguyên tố.	2	93
+590	Khi đủ nguyên liệu, tạo Errtel với Spirit Adniel. Cô ấy là linh hồn chưa biến thành quái.	2	93
+591	Cần powder để tạo capsule.	3	93
+592	Tốt lắm.	4	93
+593	Lấy elemental powder	5	93
+594	Bí mật quái Acheron	1	94
+595	Tôi giải thích nâng Errtel. Level up và Rank up. Level up cần Elemental Rune. Rank up cần 2 Errtel cùng Rank +7.	2	94
+596	Level up tăng rank hiện tại. Rank up thêm tùy chọn. Level tối đa 10, Rank tối đa 3.	2	94
+597	Errtel of Anger hiện tại chỉ thêm sát thương. Rank 2 thêm tùy chọn, Rank 3 tối đa 3 tùy chọn. Nếu thu thập tùy chọn giống, có Set Effect. Giết 20 Elemental Beasts, tôi sẽ chỉ bạn Errtel thứ 2.	2	94
+598	Tiêu diệt 20 Elemental Beasts và quay lại.	2	94
+599	Tốt lắm.	3	94
+600	Tiêu diệt 20 Elemental Beasts.	4	94
+601	Thay đổi đảo Acheron	5	94
+602	Tất cả quái ở Acheron trước là linh hồn. Có lý do biến đổi. Nếu không tìm ra, đảo sẽ toàn quái. Hãy điều tra Devilfairies ít biến đổi nhất.	1	95
+603	Cần tìm bí mật đảo để lấy Secromicon. Tiêu diệt 30 Devilfairies.	2	95
+604	Tiêu diệt 30 Devil Fairies và quay lại.	2	95
+605	Tốt lắm.	3	95
+606	Tiêu diệt 30 Devil Fairies.	4	95
+607	Người gác cổng Ubaid	5	95
+608	Tôi tìm nhiều nơi ở Acheron. Đảo có 2 mặt: đẹp và đáng sợ. Mặt đẹp chưa biến đổi, mặt đáng sợ đã biến đổi. Elemental Beasts là mối nguy. Để thoát an toàn, tiêu diệt 30 Elemental Beasts.	1	96
+609	Cần loại bỏ quái để khám phá đảo an toàn.	2	96
+610	Tốt lắm.	3	96
+611	Tiêu diệt 30 Elemental Beasts.	4	96
+612	Khám phá manh mối mới	5	96
+613	Bạn đã quen với nguyên tố chưa? Sang bên phải đảo, Ubaid có Elemental Knights. Chúng khác quái linh hồn khác. Giết 30 Elemental Knights.	1	97
+614	Cần loại bỏ quái để khám phá đảo an toàn.	2	97
+615	Tốt lắm.	3	97
+616	Tiêu diệt 30 Elemental Knights.	4	97
+617	Trình tự tiêu diệt Devil Fairy (lặp lại)	5	97
+618	Quái Ubaid di chuyển sang Alkmar, mạnh hơn. Giết 50 Devilfairies và quay lại nhận thưởng.	1	98
+619	Tiêu diệt 50 Devil Fairies và quay lại.	2	98
+620	Tốt lắm.	2	98
+621	Tiêu diệt 50 Devil Fairies.	3	98
+622	Trình tự tiêu diệt Elemental Beast (lặp lại)	4	98
+623	Quái Acheron tăng, tấn công trại. Giết 50 Elemental Beasts và quay lại nhận thưởng.	5	98
+624	Tiêu diệt 50 Elemental Beasts.	1	99
+625	Tốt lắm.	2	99
+626	Tiêu diệt 50 Elemental Beasts.	3	99
+627	Trình tự tiêu diệt Elemental Knight (lặp lại)	4	99
+628	Để khám phá đảo, bảo vệ trại. Giết 50 Elemental Knights.	5	99
+629	Tốt lắm.	1	100
+630	Tiêu diệt 50 Elemental Knights.	2	100
+631	Loại bỏ Ubaid Devil Fairy	3	100
+632	Ubaid quái mạnh hơn Alkmar. Tìm hiểu nguyên nhân, giết 30 Ubaid Devilfairies.	4	100
+633	Tốt lắm.	5	100
+634	Tiêu diệt 30 Ubaid Devil Fairies.	1	101
+635	Loại bỏ Ubaid Elemental Beasts	2	101
+636	Trên đường về, bị Ubaid Elemental Beasts theo dõi. Giết 30 Ubaid Elemental Beasts.	3	101
+637	Tốt lắm.	4	101
+638	Tiêu diệt 30 Ubaid Elemental Beasts.	5	101
+639	Tấn công Ubaid Elemental Knights	1	102
+640	Quái Ubaid sang Alkmar, mạnh hơn. Giết 30 Ubaid Elemental Knights.	2	102
+641	Tốt lắm.	3	102
+642	Tiêu diệt 30 Ubaid Elemental Knights.	4	102
+643	Trình tự tiêu diệt Ubaid Devil Fairy (lặp lại)	5	102
+644	Giết 50 Ubaid Devilfairies, quay lại nhận thưởng.	1	103
+645	Tiêu diệt 50 Ubaid Devil Fairies và quay lại.	2	103
+646	Tốt lắm.	3	103
+647	Tiêu diệt 50 Ubaid Devil Fairies.	4	103
+648	Trình tự tiêu diệt Ubaid Elemental Beast (lặp lại)	5	103
+649	Giết 50 Ubaid Elemental Beasts, quay lại nhận thưởng.	1	104
+650	Tiêu diệt 50 Ubaid Elemental Beasts và quay lại.	2	104
+651	Tốt lắm.	3	104
+652	Tiêu diệt 50 Ubaid Elemental Beasts.	4	104
+653	Trình tự tiêu diệt Ubaid Elemental Knight (lặp lại)	5	104
+654	Giết 50 Ubaid Elemental Knights, quay lại nhận thưởng.	1	105
+655	Tiêu diệt 50 Ubaid Elemental Knights và quay lại.	2	105
+656	Tốt lắm.	3	105
+657	Tiêu diệt 50 Ubaid Elemental Knights.	4	105
+658	Tay buôn Zyro (1)	5	105
+659	Tìm Zyro ở Lorencia.	1	106
+660	Tay buôn Zyro (2)	2	106
+661	Tìm Zyro ở Noria.	3	106
+662	Tay buôn Zyro (3)	4	106
+663	Tìm Zyro ở Elbeland.	5	106
+664	Tay buôn Zyro (4)	1	200
+665	Tìm Zyro ở Devias.	5	200
+666	Mở rộng kinh doanh với Merchant Guild	1	201
+667	Quản lý kho luôn quan trọng. Trả lương Safety Guardian, vận chuyển, kho bỏ hoang... Tôi cần kho mới! Tôi đã có giải pháp.	5	201
+668	Lợi dụng người giàu, đá không giá trị với dân thường nhưng có giá trị nghệ thuật với họ. Giúp tôi, tôi giúp bạn dùng kho.	1	202
+669	Nếu mang Ancient Statue, tôi sẽ tặng kho mới (Level 50+).	5	202
+670	Có thể lấy Ancient Statue từ Death Knight trên đỉnh Lost Tower. Mang tới nhận kho mới.	1	203
+671	Có thể tìm Death Knight trên đỉnh Lost Tower.	5	203
+672	Mở rộng kho với Merchant Guild	1	204
+673	Quản lý kho luôn quan trọng. Cần kho mới! Mình đã có giải pháp.	2	204
+674	Dùng lợi thế của người giàu. Họ coi đá là vật nghệ thuật, giá trị cho họ! Giúp mình, mình giúp bạn dùng kho.	2	204
+675	Đem Ancient Statue đến để nhận kho mới. (Lv. 50+)	2	204
+676	Có thể lấy Ancient Statue từ Death Knight ở Lost Tower.	2	204
+677	Death Knight ở đỉnh Lost Tower.	3	204
+678	Cảm ơn. Kho mới sẽ có sau khi reconnect.	4	204
+679	Lấy Tượng Cổ từ Death Knight trên Lost Tower.	5	204
+680	Vải Ma thuật	1	205
+681	Balo của bạn làm từ Vải Ma thuật, chịu được nhiều trang bị nặng. Đây là vật quý.	2	205
+682	Nếu bạn mang Vải Ma thuật, mình sẽ dùng để mở rộng balo, mang được nhiều đồ hơn.	2	205
+683	Bạn có thể mang Vải Ma thuật cho mình không? (Lv.150+)	2	205
+684	Khó nhưng đáng giá để có balo mạnh hơn. Mang Vải Ma thuật.	2	205
+685	Có thể lấy Vải Ma thuật từ Silver Valkyries ở Atlans 3.	3	205
+686	Kiểm tra balo mới sau khi reconnect.	4	205
+687	Lấy Vải Ma thuật từ Silver Valkyries ở Atlans 3.	5	205
+688	Vải Rune	1	206
+689	Muốn mở rộng balo ma thuật? Không dễ, nhưng dùng Vải Rune sẽ giúp.	2	206
+690	Nếu mang Vải Rune, mình sẽ thử mở rộng balo.	2	206
+691	Tại Icarus, lấy Vải Không Gian từ Alquamos.	3	206
+692	Xem balo mở rộng sau khi reconnect.	4	206
+693	Lấy Vải Không Gian từ Alquamos ở Icarus.	5	206
+694	Xóa Ký ức, lần 1	1	207
+695	Máu Berserker Warrior ở Kanturu Ruins có sức mạnh đặc biệt. Dùng cẩn thận để xóa ký ức cơ bắp. Lấy 10 Mực Xanh từ máu Berserker Warrior.	2	207
+696	Lấy 10 Mực Xanh từ Berserker Warrior tại Kanturu Ruins.	2	207
+697	Bạn chưa hoàn thành quest.	3	207
+698	Đây là phần thưởng của bạn.	4	207
+699	Lấy 10 Mực Xanh từ Berserker Warrior tại Kanturu Ruins.	5	207
+700	Xóa Ký ức, lần 1 (2)	1	208
+701	Cùng với Mực Xanh, cần 1 Parchment of Soul từ Dark Mammoths ở Raklion để xóa ký ức.	2	208
+702	Lấy 1 Parchment of Soul từ Dark Mammoths ở Raklion.	2	208
+703	Bạn chưa hoàn thành quest.	3	208
+704	Đây là phần thưởng của bạn.	4	208
+705	Lấy 1 Parchment of Soul từ Dark Mammoths ở Raklion.	5	208
+706	Xóa Ký ức, lần 2 (1)	1	209
+707	Lấy 10 Mực Xanh từ Sapi Queen ở Swamp of Peace.	2	209
+708	Bạn chưa hoàn thành quest.	2	209
+709	Đây là phần thưởng của bạn.	3	209
+710	Lấy 10 Mực Xanh từ Sapi Queen.	4	209
+711	Xóa Ký ức, lần 2 (2)	5	209
+712	Lấy Parchment of Soul từ Dark Mammoths ở Raklion để xóa ký ức.	1	210
+713	Bạn chưa hoàn thành quest.	2	210
+714	Đây là phần thưởng của bạn.	2	210
+715	Lấy 1 Parchment of Soul từ Dark Mammoths.	3	210
+716	Xóa Ký ức, lần 3 (1)	4	210
+717	Lấy 10 Mực Đỏ từ Bloody Orcs ở Aida.	5	210
+718	Bạn chưa hoàn thành quest.	1	211
+719	Đây là phần thưởng của bạn.	2	211
+720	Lấy 10 Mực Đỏ từ Bloody Orcs.	2	211
+721	Xóa Ký ức, lần 3 (2)	3	211
+722	Lấy Parchment of Soul từ Dark Mammoths ở Raklion để xóa ký ức.	4	211
+723	Bạn chưa hoàn thành quest.	5	211
+724	Đây là phần thưởng của bạn.	1	212
+725	Lấy 1 Parchment of Soul từ Dark Mammoths.	2	212
+726	Cơ hội cuối 1	2	212
+727	Suy nghĩ kỹ trước khi dùng cơ hội cuối. Mình có thể xóa tất cả ký ức Master Skill.	3	212
+728	Lấy 20 Mực Xanh từ Berserker Warrior.	4	212
+729	Bạn chưa hoàn thành quest.	5	212
+730	Đây là phần thưởng của bạn.	1	213
+731	Lấy 20 Mực Xanh từ Berserker Warrior.	2	213
+732	Cơ hội cuối 2	2	213
+733	Lấy 20 Mực Xanh từ Sapi Queen.	3	213
+734	Bạn chưa hoàn thành quest.	4	213
+735	Đây là phần thưởng của bạn.	5	213
+736	Lấy 20 Mực Xanh từ Sapi Queen.	1	214
+737	Cơ hội cuối 3	2	214
+738	Lấy 20 Mực Đỏ từ Bloody Orcs.	2	214
+739	Bạn chưa hoàn thành quest.	3	214
+740	Đây là phần thưởng của bạn.	4	214
+741	Lấy 20 Mực Đỏ từ Bloody Orcs.	5	214
+742	Cơ hội cuối 4	1	215
+743	Lấy 5 Parchments of Soul từ Dark Mammoths.	2	215
+744	Bạn chưa hoàn thành quest.	2	215
+745	Đây là phần thưởng của bạn.	3	215
+746	Lấy 5 Parchments of Soul từ Dark Mammoths.	4	215
+747	Yêu cầu từ Shadow Phantom Soldier	5	215
+748	Lên Lv.91 và gặp Shadow Phantom Soldier	1	216
+749	Bắt đầu nhiệm vụ!	2	216
+750	Tìm kiếm vùng săn quái khó hơn. Nhận quest từ Shadow Phantom Soldier để nhận trang bị quý.	2	216
+751	Quest đầu tiên: xóa quái Dungeon.	3	216
+752	Từ giờ, mình sẽ gửi quest tự động.	4	216
+753	Kiểm tra quest thưởng trong Quest Window.	5	216
+754	Nhận quest từ Shadow Phantom Soldier.	1	217
+755	Chinh phục Dungeon (1)	5	217
+756	Săn 80 quái trong Dungeon.	1	218
+757	Chinh phục Dungeon (2)	2	218
+758	Săn 80 quái trong Dungeon.	2	218
+759	Chinh phục Dungeon (3)	2	218
+760	Săn 80 quái trong Dungeon.	4	218
+761	Chinh phục Dungeon (4)	5	218
+762	Săn 80 quái trong Dungeon.	1	219
+763	Chinh phục Dungeon (5)	5	219
+764	Săn 80 quái trong Dungeon.	1	220
+765	Chinh phục Dungeon (6)	5	220
+766	Săn 80 quái trong Dungeon.	1	221
+767	Nhiệm vụ Đoàn Trinh sát (1)	5	221
+768	Săn 80 quái trong Lost Tower.	1	222
+769	Nhiệm vụ Đoàn Trinh sát (2)	5	222
+770	Săn 80 quái trong Lost Tower.	1	223
+771	Nhiệm vụ Đoàn Trinh sát (3)	5	223
+772	Săn 80 quái trong Lost Tower.	1	224
+773	Nhiệm vụ Đoàn Trinh sát (4)	5	224
+774	Săn 80 quái trong Lost Tower.	1	225
+775	Chinh phục Atlans (1)	5	225
+776	Săn 80 quái trong Atlans.	1	226
+777	Chinh phục Atlans (2)	5	226
+778	Săn 80 quái trong Atlans.	1	227
+779	Chinh phục Atlans (3)	5	227
+780	Săn 80 quái trong Atlans.	1	228
+781	Chinh phục Atlans (4)	5	228
+782	Săn 80 quái trong Atlans.	1	229
+783	Chinh phục Atlans (5)	5	229
+784	Săn 80 quái trong Atlans.	1	230
+785	Săn 80 quái trong Dungeon	5	230
+786	Chinh phục Dungeon (4)	1	231
+787	Săn 80 quái trong Dungeon	5	231
+788	Chinh phục Dungeon (4)	1	232
+789	Săn 80 quái trong Dungeon	5	232
+790	Chinh phục Dungeon (4)	1	233
+791	Săn 80 quái trong Dungeon	5	233
+792	Chinh phục Dungeon (4)	1	234
+793	Săn 80 quái trong Dungeon	5	234
+794	Chinh phục Dungeon (5)	1	235
+795	Săn 80 quái trong Dungeon	5	235
+796	Chinh phục Dungeon (5)	1	236
+797	Săn 80 quái trong Dungeon	5	236
+798	Chinh phục Dungeon (5)	1	237
+799	Săn 80 quái trong Dungeon	5	237
+800	Chinh phục Dungeon (5)	1	238
+801	Săn 80 quái trong Dungeon	5	238
+802	Chinh phục Dungeon (6)	1	239
+803	Săn 80 quái trong Dungeon	5	239
+804	Chinh phục Dungeon (6)	1	240
+805	Săn 80 quái trong Dungeon	5	240
+806	Chinh phục Dungeon (6)	1	241
+807	Săn 80 quái trong Dungeon	5	241
+808	Chinh phục Dungeon (6)	1	242
+809	Săn 80 quái trong Dungeon	5	242
+810	Nhiệm vụ Đoàn Trinh sát (1)	1	243
+811	Săn 80 quái trong Lost Tower	5	243
+812	Nhiệm vụ Đoàn Trinh sát (1)	1	244
+813	Săn 80 quái trong Lost Tower	5	244
+814	Nhiệm vụ Đoàn Trinh sát (1)	1	245
+815	Săn 80 quái trong Lost Tower	5	245
+816	Nhiệm vụ Đoàn Trinh sát (1)	1	246
+817	Săn 80 quái trong Lost Tower	5	246
+818	Nhiệm vụ Đoàn Trinh sát (2)	1	247
+819	Săn 80 quái trong Lost Tower	5	247
+820	Nhiệm vụ Đoàn Trinh sát (2)	1	248
+821	Săn 80 quái trong Lost Tower	5	248
+822	Nhiệm vụ Đoàn Trinh sát (2)	1	249
+823	Săn 80 quái trong Lost Tower	5	249
+824	Nhiệm vụ Đoàn Trinh sát (2)	1	250
+825	Săn 80 quái trong Lost Tower	5	250
+826	Nhiệm vụ Đoàn Trinh sát (3)	1	251
+827	Săn 80 quái trong Lost Tower	5	251
+828	Nhiệm vụ Đoàn Trinh sát (3)	1	252
+829	Săn 80 quái trong Lost Tower	5	252
+830	Nhiệm vụ Đoàn Trinh sát (3)	1	253
+831	Săn 80 quái trong Lost Tower	5	253
+832	Nhiệm vụ Đoàn Trinh sát (3)	1	254
+833	Săn 80 quái trong Lost Tower	5	254
+834	Nhiệm vụ Đoàn Trinh sát (4)	1	255
+835	Săn 80 quái trong Lost Tower	5	255
+836	Nhiệm vụ Đoàn Trinh sát (4)	1	256
+837	Săn 80 quái trong Lost Tower	5	256
+838	Nhiệm vụ Đoàn Trinh sát (4)	1	257
+839	Săn 80 quái trong Lost Tower	5	257
+840	Nhiệm vụ Đoàn Trinh sát (4)	1	258
+841	Săn 80 quái trong Lost Tower	5	258
+842	Chinh phục Atlans (1)	1	259
+843	Săn 80 quái trong Atlans	5	259
+844	Chinh phục Atlans (1)	1	260
+845	Săn 80 quái trong Atlans	5	260
+846	Chinh phục Atlans (1)	1	261
+847	Săn 80 quái trong Atlans	5	261
+848	Chinh phục Atlans (1)	1	262
+849	Săn 80 quái trong Atlans	5	262
+850	Chinh phục Atlans (2)	1	263
+851	Săn 80 quái trong Atlans	5	263
+852	Chinh phục Atlans (2)	1	264
+853	Săn 80 quái trong Atlans	5	264
+854	Chinh phục Atlans (2)	1	265
+855	Săn 80 quái trong Atlans	5	265
+856	Chinh phục Atlans (2)	1	266
+857	Săn 80 quái trong Atlans	5	266
+858	Chinh phục Atlans (3)	1	267
+859	Săn 80 quái trong Atlans	5	267
+860	Chinh phục Atlans (3)	1	268
+861	Săn 80 quái trong Atlans	5	268
+862	Chinh phục Atlans (3)	1	269
+863	Săn 80 quái trong Atlans	5	269
+864	Chinh phục Atlans (3)	1	270
+865	Săn 80 quái trong Atlans	5	270
+866	Chinh phục Atlans (4)	1	271
+867	Săn 80 quái trong Atlans	5	271
+868	Chinh phục Atlans (4)	1	272
+869	Săn 80 quái trong Atlans	5	272
+870	Chinh phục Atlans (4)	1	273
+871	Săn 80 quái trong Atlans	5	273
+872	Chinh phục Atlans (4)	1	274
+873	Săn 80 quái trong Atlans	5	274
+874	Chinh phục Atlans (5)	1	275
+875	Săn 80 quái trong Atlans	5	275
+876	Chinh phục Atlans (5)	1	276
+877	Săn 80 quái trong Atlans	5	276
+878	Chinh phục Atlans (5)	1	277
+879	Săn 80 quái trong Atlans	5	277
+880	Chinh phục Atlans (5)	1	278
+881	Săn 80 quái trong Atlans	5	278
+882	Chinh phục Atlans (6)	1	279
+883	Săn 80 quái trong Atlans	5	279
+884	Chinh phục Atlans (6)	1	280
+885	Săn 80 quái trong Atlans	5	280
+886	Chinh phục Atlans (6)	1	281
+887	Săn 80 quái trong Atlans	5	281
+888	Chinh phục Atlans (6)	1	282
+889	Săn 80 quái trong Atlans	5	282
+1720	Chinh phục Dungeon! (1)	1	283
+1721	Đánh 80 quái ở Dungeon.	5	283
+1722	Chinh phục Dungeon! (2)	1	284
+1723	Đánh 80 quái ở Dungeon.	5	284
+1724	Chinh phục Dungeon! (3)	1	285
+1725	Đánh 80 quái ở Dungeon.	5	285
+1726	Chinh phục Dungeon! (4)	1	286
+1727	Đánh 80 quái ở Dungeon.	5	286
+1728	Chinh phục Dungeon! (5)	1	287
+1729	Đánh 80 quái ở Dungeon.	5	287
+1730	Chinh phục Dungeon! (6)	1	288
+1731	Đánh 80 quái ở Dungeon.	5	288
+1732	Nhiệm vụ Đội trinh sát (1)	1	289
+1733	Đánh 80 quái ở Lost Tower.	5	289
+1734	Nhiệm vụ Đội trinh sát (2)	1	290
+1735	Đánh 80 quái ở Lost Tower.	5	290
+1736	Nhiệm vụ Đội trinh sát (3)	1	291
+1737	Đánh 80 quái ở Lost Tower.	5	291
+1738	Nhiệm vụ Đội trinh sát (4)	1	292
+1739	Đánh 80 quái ở Lost Tower.	5	292
+1740	Chinh phục Atlans! (1)	1	293
+1741	Đánh 80 quái ở Atlans.	5	293
+1742	Chinh phục Atlans! (2)	1	294
+1743	Đánh 80 quái ở Atlans.	5	294
+1744	Chinh phục Atlans! (3)	1	295
+1745	Đánh 80 quái ở Atlans.	5	295
+1746	Chinh phục Atlans! (4)	1	296
+1747	Đánh 80 quái ở Atlans.	5	296
+1748	Chinh phục Atlans! (5)	1	297
+1749	Đánh 80 quái ở Atlans.	5	297
+1750	Chinh phục Atlans! (6)	1	298
+1751	Đánh 80 quái ở Atlans.	5	298
+1752	Chinh phục Dungeon! (1)	1	299
+1753	Săn 80 quái trong Dungeon.	5	299
+1754	Chinh phục Dungeon! (2)	1	300
+1755	Săn 80 quái trong Dungeon.	5	300
+1756	Chinh phục Dungeon! (3)	1	301
+1757	Săn 80 quái trong Dungeon.	5	301
+1758	Chinh phục Dungeon! (4)	1	302
+1759	Săn 80 quái trong Dungeon.	5	302
+1760	Chinh phục Dungeon! (5)	1	303
+1761	Săn 80 quái trong Dungeon.	5	303
+1762	Chinh phục Dungeon! (6)	1	304
+1763	Săn 80 quái trong Dungeon.	5	304
+1764	Nhiệm vụ Reconnaissance Party (1)	1	305
+1765	Săn 80 quái Lost Tower.	5	305
+1766	Nhiệm vụ Reconnaissance Party (2)	1	306
+1767	Săn 80 quái Lost Tower.	5	306
+1768	Nhiệm vụ Reconnaissance Party (3)	1	307
+1769	Săn 80 quái Lost Tower.	5	307
+1770	Nhiệm vụ Reconnaissance Party (4)	1	308
+1771	Săn 80 quái Lost Tower.	5	308
+1772	Chinh phục Atlans! (1)	1	309
+1773	Săn 80 quái Atlans.	5	309
+1774	Chinh phục Atlans! (2)	1	310
+1775	Săn 80 quái Atlans.	5	310
+1776	Chinh phục Atlans! (3)	1	311
+1777	Săn 80 quái Atlans.	5	311
+1778	Chinh phục Atlans! (4)	1	312
+1779	Săn 80 quái Atlans.	5	312
+1780	Chinh phục Atlans! (5)	1	313
+1781	Săn 80 quái Atlans.	5	313
+1782	Chinh phục Atlans! (6)	1	314
+1783	Săn 80 quái Atlans.	5	314
+1784	Chinh phục Dungeon! (1)	1	315
+1785	Săn 80 quái Dungeon.	5	315
+1786	Chinh phục Dungeon! (2)	1	316
+1787	Săn 80 quái Dungeon.	5	316
+1788	Chinh phục Dungeon! (3)	1	317
+1789	Săn 80 quái Dungeon.	5	317
+1790	Chinh phục Dungeon! (4)	1	318
+1791	Săn 80 quái Dungeon.	5	318
+1792	Chinh phục Dungeon! (5)	1	319
+1793	Săn 80 quái Dungeon.	5	319
+1794	Chinh phục Dungeon! (6)	1	320
+1795	Săn 80 quái Dungeon.	5	320
+1796	Nhiệm vụ Reconnaissance Party (1)	1	321
+1797	Săn 80 quái Lost Tower.	5	321
+1798	Nhiệm vụ Đoàn Trinh Sát (2)	1	322
+1799	Đi săn 80 quái ở Lost Tower.	5	322
+1800	Nhiệm vụ Đoàn Trinh Sát (3)	1	323
+1801	Đi săn 80 quái ở Lost Tower.	5	323
+1802	Nhiệm vụ Đoàn Trinh Sát (4)	1	324
+1803	Đi săn 80 quái ở Lost Tower.	5	324
+1804	Chinh phục Atlans! (1)	1	325
+1805	Đi săn 80 quái ở Atlans.	5	325
+1806	Chinh phục Atlans! (2)	1	326
+1807	Đi săn 80 quái ở Atlans.	5	326
+1808	Chinh phục Atlans! (3)	1	327
+1809	Đi săn 80 quái ở Atlans.	5	327
+1810	Chinh phục Atlans! (4)	1	328
+1811	Đi săn 80 quái ở Atlans.	5	328
+1812	Chinh phục Atlans! (5)	1	329
+1813	Đi săn 80 quái ở Atlans.	5	329
+1814	Chinh phục Atlans! (6)	1	330
+1815	Đi săn 80 quái ở Atlans.	5	330
+1816	Chinh phục Dungeon! (1)	1	331
+1817	Đi săn 80 quái ở Dungeon.	5	331
+1818	Chinh phục Dungeon! (2)	1	332
+1819	Đi săn 80 quái ở Dungeon.	5	332
+1820	Chinh phục Dungeon! (3)	1	333
+1821	Đi săn 80 quái ở Dungeon.	5	333
+1822	Chinh phục Dungeon! (4)	1	334
+1823	Đi săn 80 quái ở Dungeon.	5	334
+1824	Chinh phục Dungeon! (5)	1	335
+1825	Đi săn 80 quái ở Dungeon.	5	335
+1826	Chinh phục Dungeon! (6)	1	336
+1827	Đi săn 80 quái ở Dungeon.	5	336
+1828	Nhiệm vụ Đoàn Trinh Sát (1)	1	337
+1829	Đi săn 80 quái ở Lost Tower.	5	337
+1830	Nhiệm vụ Đoàn Trinh Sát (2)	1	338
+1831	Đi săn 80 quái ở Lost Tower.	5	338
+1832	Nhiệm vụ Đoàn Trinh Sát (3)	1	339
+1833	Đi săn 80 quái ở Lost Tower.	5	339
+1834	Nhiệm vụ Đoàn Trinh Sát (4)	1	340
+1835	Đi săn 80 quái ở Lost Tower.	5	340
+1836	Chinh phục Atlans! (1)	1	341
+1837	Đi săn 80 quái ở Atlans.	5	341
+1838	Chinh phục Atlans! (2)	1	342
+1839	Đi săn 80 quái ở Atlans.	5	342
+1840	Chinh phục Atlans! (3)	1	343
+1841	Đi săn 80 quái ở Atlans.	5	343
+1842	Chinh phục Atlans! (4)	1	344
+1843	Đi săn 80 quái ở Atlans.	5	344
+1844	Chinh phục Atlans! (5)	1	345
+1845	Đi săn 80 quái ở Atlans.	5	345
+1846	Chinh phục Atlans! (6)	1	346
+1847	Đi săn 80 quái ở Atlans.	5	346
+//IK QUESTS			
+1848	Chinh phục Dungeon! (1)	1	347
+1849	Đi săn 80 quái ở Dungeon.	5	347
+1850	Chinh phục Dungeon! (2)	1	348
+1851	Đi săn 80 quái ở Dungeon.	5	348
+1852	Chinh phục Dungeon! (3)	1	349
+1853	Đi săn 80 quái ở Dungeon.	5	349
+1854	Chinh phục Dungeon! (4)	1	350
+1855	Đi săn 80 quái ở Dungeon.	5	350
+1856	Chinh phục Dungeon! (5)	1	351
+1857	Đi săn 80 quái ở Dungeon.	5	351
+1858	Chinh phục Dungeon! (6)	1	352
+1859	Đi săn 80 quái ở Dungeon.	5	352
+1860	Nhiệm vụ Đoàn Trinh Sát (1)	1	353
+1861	Đi săn 80 quái ở Lost Tower.	5	353
+1862	Nhiệm vụ Đoàn Trinh Sát (2)	1	354
+1863	Đi săn 80 quái ở Lost Tower.	5	354
+1864	Nhiệm vụ Đoàn Trinh Sát (3)	1	355
+1865	Đi săn 80 quái ở Lost Tower.	5	355
+1866	Nhiệm vụ Đoàn Trinh Sát (4)	1	356
+1867	Đi săn 80 quái ở Lost Tower.	5	356
+1868	Chinh phục Atlans! (1)	1	357
+1869	Đi săn 80 quái ở Atlans.	5	357
+1870	Chinh phục Atlans! (2)	1	358
+1871	Đi săn 80 quái ở Atlans.	5	358
+1872	Chinh phục Atlans! (3)	1	359
+1873	Đi săn 80 quái ở Atlans.	5	359
+1874	Chinh phục Atlans! (4)	1	360
+1875	Đi săn 80 quái ở Atlans.	5	360
+1876	Chinh phục Atlans! (5)	1	361
+1877	Đi săn 80 quái ở Atlans.	5	361
+1878	Chinh phục Atlans! (6)	1	362
+1879	Đi săn 80 quái ở Atlans.	5	362
+1880	Chinh phục Dungeon (1)	1	363
+1881	Đi săn 80 quái ở Dungeon	5	363
+1882	Chinh phục Dungeon (2)	1	364
+1883	Đi săn 80 quái ở Dungeon	5	364
+1884	Chinh phục Dungeon (3)	1	365
+1885	Đi săn 80 quái ở Dungeon	5	365
+1886	Chinh phục Dungeon (4)	1	366
+1887	Đi săn 80 quái ở Dungeon	5	366
+1888	Chinh phục Dungeon (5)	1	367
+1889	Đi săn 80 quái ở Dungeon	5	367
+1890	Chinh phục Dungeon (6)	1	368
+1891	Đi săn 80 quái ở Dungeon	5	368
+1892	Nhiệm vụ Đoàn Trinh Sát (1)	1	369
+1893	Đi săn 80 quái ở Lost Tower	5	369
+1894	Nhiệm vụ Đoàn Trinh Sát (2)	1	370
+1895	Đi săn 80 quái ở Lost Tower	5	370
+1896	Nhiệm vụ Đoàn Trinh Sát (3)	1	371
+1897	Đi săn 80 quái ở Lost Tower	5	371
+1898	Nhiệm vụ Đoàn Trinh Sát (4)	1	372
+1899	Đi săn 80 quái ở Lost Tower	5	372
+1900	Chinh phục Atlans! (1)	1	373
+1901	Đi săn 80 quái ở Atlans	5	373
+1902	Chinh phục Atlans! (2)	1	374
+1903	Đi săn 80 quái ở Atlans	5	374
+1904	Chinh phục Atlans! (3)	1	375
+1905	Đi săn 80 quái ở Atlans	5	375
+1906	Chinh phục Atlans! (4)	1	376
+1907	Đi săn 80 quái ở Atlans	5	376
+1908	Chinh phục Atlans! (5)	1	377
+1909	Đi săn 80 quái ở Atlans	5	377
+1910	Chinh phục Atlans! (6)	1	378
+1911	Đi săn 80 quái ở Atlans	5	378
+//S20.1-1			
+1912	Chinh phục Dungeon! (1)	1	379
+1913	Đi săn 80 quái ở Dungeon	5	379
+1914	Chinh phục Dungeon! (2)	1	380
+1915	Đi săn 80 quái ở Dungeon	5	380
+1916	Chinh phục Dungeon! (3)	1	381
+1917	Đi săn 80 quái ở Dungeon	5	381
+1918	Chinh phục Dungeon! (4)	1	382
+1919	Đi săn 80 quái ở Dungeon	5	382
+1920	Chinh phục Dungeon! (5)	1	383
+1921	Đi săn 80 quái ở Dungeon	5	383
+1922	Chinh phục Dungeon! (6)	1	384
+1923	Đi săn 80 quái ở Dungeon	5	384
+1924	Nhiệm vụ Đoàn Trinh Sát (1)	1	385
+1925	Đi săn 80 quái ở Lost Tower	5	385
+1926	Nhiệm vụ Đoàn Trinh Sát (2)	1	386
+1927	Đi săn 80 quái ở Lost Tower	5	386
+1928	Nhiệm vụ Đoàn Trinh Sát (3)	1	387
+1929	Đi săn 80 quái ở Lost Tower	5	387
+1930	Nhiệm vụ Đoàn Trinh Sát (4)	1	388
+1931	Đi săn 80 quái ở Lost Tower	5	388
+1932	Chinh phục Atlans! (1)	1	389
+1933	Đi săn 80 quái ở Atlans	5	389
+1934	Chinh phục Atlans! (2)	1	390
+1935	Đi săn 80 quái ở Atlans	5	390
+1936	Chinh phục Atlans! (3)	1	391
+1937	Đi săn 80 quái ở Atlans	5	391
+1938	Chinh phục Atlans! (4)	1	392
+1939	Đi săn 80 quái ở Atlans	5	392
+1940	Chinh phục Atlans! (5)	1	393
+1941	Đi săn 80 quái ở Atlans	5	393
+1942	Chinh phục Atlans! (6)	1	394
+1943	Đi săn 80 quái ở Atlans	5	394
+//			
+890	Yêu cầu từ Gens Duprian	1	400
+891	Đi đến Gens Duprian	5	400
+892	Cơn thịnh nộ Vepar	1	401
+893	Tổ trinh sát Atlans báo chỉ huy quân ác dùng Vepar tấn công Gens tìm đá phong ấn. Hãy tiêu diệt Vepar và bảo vệ Gens.	2	401
+894	Đánh bại 50 Vepar để hoàn thành nhiệm vụ và nhận thưởng.	2	401
+895	Mục tiêu: 50 Vepar tại Atlans.	3	401
+896	Cảm ơn bạn đã giúp Gens.	4	401
+897	Đánh bại Vepar tại Atlans, quay lại NPC Gens.	5	401
+898	Loại bỏ Silver Valkyries	1	402
+899	Silver Valkyries đang cướp lương thực tại Atlans.	2	402
+900	Hãy giúp loại bỏ chúng.	2	402
+901	Đánh bại 50 Silver Valkyries, quay lại nhận thưởng.	3	402
+902	Cảm ơn bạn đã giúp Gens.	4	402
+903	Đánh bại Silver Valkyries tại Atlans, quay lại NPC Gens.	5	402
+904	Dập tắt Death Trees	1	403
+905	Tổ trinh sát Aida báo Death Trees đang tăng nhanh.	2	403
+906	Đi Aida, tiêu diệt 50 Death Trees.	2	403
+907	Mục tiêu: 50 Death Trees tại Aida.	3	403
+908	Cảm ơn bạn đã giúp Gens.	4	403
+909	Đánh bại Death Trees tại Aida, quay lại NPC Gens.	5	403
+910	Nổi loạn rừng	1	404
+911	Death Riders ở Aida tấn công Gens, có lẽ do Lemuria xúi giục. Hãy tiêu diệt chúng.	2	404
+912	Đi Aida, tiêu diệt 50 Death Trees.	2	404
+913	Đánh bại 50 Death Riders, quay lại nhận thưởng.	3	404
+914	Cảm ơn bạn đã giúp Gens.	4	404
+915	Đánh bại Death Riders tại Aida, quay lại NPC Gens.	5	404
+916	Loại bỏ Splinter Wolves	1	405
+917	Nhóm tìm đá phong ấn dùng cơ khí tấn công Kanturu Ruins.	2	405
+918	Hãy tiêu diệt Splinter Wolves gây khó khăn.	2	405
+919	Đánh bại 50 Splinter Wolves, quay lại nhận thưởng.	3	405
+920	Cảm ơn bạn đã giúp Gens.	4	405
+921	Đánh bại Splinter Wolves tại Kanturu Ruins, quay lại NPC Gens.	5	405
+922	Tiêu diệt Iron Riders	1	406
+923	Iron Riders tấn công du kích tại Kanturu Ruins. Hãy loại bỏ chúng.	2	406
+924	Đánh bại 50 Iron Riders, nhận thưởng.	2	406
+925	Đánh bại 50 Iron Riders, quay lại nhận thưởng.	3	406
+926	Cảm ơn bạn đã giúp Gens.	4	406
+927	Đánh bại Iron Riders tại Kanturu Ruins, quay lại NPC Gens.	5	406
+928	Tiêu diệt Blood Assassins	1	407
+929	Tình báo: Blood Assassins đi ám sát nhân vật quan trọng của Gens.	2	407
+930	Đánh bại 50 Blood Assassins, bảo vệ nhân vật quan trọng.	2	407
+931	Đi Vulcanus, tiêu diệt 50 Blood Assassins, nhận thưởng.	3	407
+932	Cảm ơn bạn đã giúp Gens.	4	407
+933	Đánh bại Blood Assassin tại Vulcanus, quay lại NPC Gens.	5	407
+934	Tấn công Burning Lava Giant	1	408
+935	Burning Lava Giants tràn Vulcanus, làm Gens tản ra. Tiêu diệt chúng.	2	408
+936	Đánh bại 50 Burning Lava Giants, nhận thưởng.	2	408
+937	Đi Vulcanus, tiêu diệt 50 Burning Lava Giants, nhận thưởng.	3	408
+938	Cảm ơn bạn đã giúp Gens.	4	408
+939	Đánh bại Burning Lava Giants tại Vulcanus, quay lại NPC Gens.	5	408
+940	Tiêu diệt Sapi-Duos	1	409
+941	Xung đột giữa các Gens về đá phong ấn. Địch dùng Sapi-Duos tấn công.	2	409
+942	Tiêu diệt Sapi-Duos.	2	409
+943	Đánh bại 50 Sapi-Duos, nhận thưởng.	3	409
+944	Cảm ơn bạn đã giúp Gens.	4	409
+945	Đánh bại Sapi-Duos, quay lại NPC Gens.	5	409
+946	Di chuyển trong bóng tối	1	410
+947	Lời đồn: quái săn đá phong ấn là Ghost Napins, chưa ai thấy trực tiếp.	2	410
+948	Tiêu diệt Ghost Napins, bảo vệ đá phong ấn.	2	410
+949	Đánh bại Ghost Napins, quay lại nhận thưởng.	3	410
+950	Cảm ơn bạn đã giúp Gens.	4	410
+951	Đánh bại Ghost Napins, quay lại NPC Gens.	5	410
+952	Yêu cầu từ Gens Vanert	1	411
+953	Đi đến Gens Vanert	5	411
+954	Cơn thịnh nộ Vepar	1	412
+955	Tổ trinh sát Atlans báo chỉ huy quân ác dùng Vepar tấn công Gens tìm đá phong ấn. Hãy tiêu diệt Vepar và bảo vệ Gens.	2	412
+956	Đánh bại 50 Vepar, nhận thưởng.	2	412
+957	Mục tiêu: 50 Vepar tại Atlans.	3	412
+958	Cảm ơn bạn đã giúp Gens.	4	412
+959	Đánh bại Vepar tại Atlans, quay lại NPC Gens.	5	412
+960	Loại bỏ Silver Valkyries	1	413
+961	Silver Valkyries cướp lương thực tại Atlans.	2	413
+962	Hãy loại bỏ chúng.	2	413
+963	Đánh bại 50 Silver Valkyries, quay lại nhận thưởng.	3	413
+964	Cảm ơn bạn đã giúp Gens.	4	413
+965	Đánh bại Silver Valkyries tại Atlans, quay lại NPC Gens.	5	413
+966	Dập tắt Death Trees	1	414
+967	Tổ trinh sát Aida báo Death Trees tăng nhanh.	2	414
+968	Đi Aida, tiêu diệt 50 Death Trees.	2	414
+969	Mục tiêu: 50 Death Trees tại Aida.	3	414
+970	Cảm ơn bạn đã giúp Gens.	4	414
+971	Đánh bại Death Trees tại Aida, quay lại NPC Gens.	5	414
+972	Nổi loạn rừng	1	415
+973	Death Riders tại Aida tấn công Gens, do Lemuria xúi giục. Tiêu diệt chúng.	2	415
+974	Đi Aida, tiêu diệt 50 Death Trees.	2	415
+975	Đánh bại 50 Death Riders, quay lại nhận thưởng.	3	415
+976	Cảm ơn bạn đã giúp Gens.	4	415
+977	Đánh bại Death Riders tại Aida, quay lại NPC Gens.	5	415
+978	Loại bỏ Splinter Wolves	1	416
+979	Nhóm săn đá phong ấn dùng cơ khí tấn công Kanturu Ruins.	2	416
+980	Tiêu diệt Splinter Wolves.	2	416
+981	Đánh bại 50 Splinter Wolves, quay lại nhận thưởng.	3	416
+982	Cảm ơn bạn đã giúp Gens.	4	416
+983	Đánh bại Splinter Wolves tại Kanturu Ruins, quay lại NPC Gens.	5	416
+984	Tiêu diệt Iron Riders	1	417
+985	Iron Riders tấn công du kích tại Kanturu Ruins. Tiêu diệt để giảm áp lực cho Gens.	2	417
+986	Đánh bại 50 Iron Riders, nhận thưởng.	2	417
+987	Đánh bại 50 Iron Riders, quay lại nhận thưởng.	3	417
+988	Cảm ơn bạn đã giúp Gens.	4	417
+989	Đánh bại Iron Riders tại Kanturu Ruins, quay lại NPC Gens.	5	417
+990	Tiêu diệt Blood Assassins	1	418
+991	Tình báo: Blood Assassins đi ám sát nhân vật Gens quan trọng.	2	418
+992	Đánh bại 50 Blood Assassins, bảo vệ Gens.	2	418
+993	Đi Vulcanus, tiêu diệt 50 Blood Assassins, nhận thưởng.	3	418
+994	Cảm ơn bạn đã giúp Gens.	4	418
+995	Đánh bại Blood Assassin tại Vulcanus, quay lại NPC Gens.	5	418
+996	Tấn công Burning Lava Giant	1	419
+997	Burning Lava Giants tràn Vulcanus, làm Gens tản ra. Tiêu diệt chúng.	2	419
+998	Đánh bại 50 Burning Lava Giants, nhận thưởng.	2	419
+999	Đi Vulcanus, tiêu diệt 50 Burning Lava Giants, nhận thưởng.	3	419
+1000	Cảm ơn bạn đã giúp Gens.	4	419
+1001	Đánh bại Burning Lava Giants tại Vulcanus, quay lại NPC Gens.	5	419
+1002	Tiêu diệt Sapi-Duos	1	420
+1003	Xung đột giữa các Gens, địch dùng Sapi-Duos tấn công Gens.	2	420
+1004	Tiêu diệt Sapi-Duos.	2	420
+1005	Đánh bại 50 Sapi-Duos, nhận thưởng.	3	420
+1006	Cảm ơn bạn đã giúp Gens.	4	420
+1007	Đánh bại Sapi-Duos, quay lại NPC Gens.	5	420
+1008	Di chuyển trong bóng tối	1	421
+1009	Lời đồn: quái săn đá phong ấn là Ghost Napins.	2	421
+1010	Tiêu diệt Ghost Napins, bảo vệ đá phong ấn.	2	421
+1011	Đánh bại Ghost Napins, quay lại nhận thưởng.	3	421
+1012	Cảm ơn bạn đã giúp Gens.	4	421
+1013	Đánh bại Ghost Napins, quay lại NPC Gens.	5	421
+1014	Anh hùng (phần 1)	1	422
+1015	Chứng tỏ giá trị bằng Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	422
+1016	Cần trang bị tốt và level cao, nhưng chưa đủ để trở thành anh hùng. Hoàn thành series nhiệm vụ để được công nhận.	2	422
+1017	Đánh bại 5 Guardsmen Chaos Castle, đưa vũ khí Archangel Blood Castle, sống sót Devil Square, nhận thưởng.	2	422
+1018	Đánh bại 5 Guardsmen Chaos Castle, quay lại.	3	422
+1019	Bạn đang tiến lên thành anh hùng.	4	422
+1020	Đánh bại 5 Guardsmen Chaos Castle, quay lại nhận quest tiếp theo.	5	422
+1021	Anh hùng (phần 2)	1	423
+1022	Tương tự phần 1, chứng tỏ giá trị qua các đấu trường.	2	423
+1023	Hoàn thành nhiệm vụ để được công nhận.	2	423
+1024	Đánh bại 5 Guardsmen Chaos Castle, đưa vũ khí Archangel Blood Castle, sống sót Devil Square, nhận thưởng.	2	423
+1025	Bây giờ hãy đưa vũ khí Archangel đến Blood Castle.	3	423
+1026	Bạn đang tiến lên thành anh hùng lần nữa.	4	423
+1027	Đi Blood Castle, giao vũ khí Archangel, nhận quest tiếp theo.	5	423
+1028	Anh hùng (phần 3)	1	424
+1029	Tương tự phần 1, chứng tỏ giá trị qua các đấu trường.	2	424
+1030	Hoàn thành nhiệm vụ để được công nhận.	2	424
+1031	Đánh bại 5 Guardsmen Chaos Castle, giao vũ khí Archangel Blood Castle, sống sót Devil Square, nhận thưởng.	2	424
+1032	Cuối cùng, sống sót tới hết Devil Square.	3	424
+1033	Bạn trở thành anh hùng thực thụ.	4	424
+1034	Sống sót Devil Square, quay lại nhận thưởng.	5	424
+1035	Dũng cảm anh hùng (phần 1)	1	425
+1036	Tương tự các phần trước, chứng tỏ giá trị trên MU.	2	425
+1037	Hoàn thành nhiệm vụ để được công nhận.	2	425
+1038	Đánh bại 10 Guardsmen Chaos Castle, giao vũ khí Archangel, sống sót Devil Square, nhận thưởng.	2	425
+1039	Đánh bại 10 Guardsmen Chaos Castle, quay lại.	3	425
+1040	Bạn đang tiến lên thành anh hùng.	4	425
+1041	Đánh bại 10 Guardsmen Chaos Castle, quay lại nhận quest tiếp theo.	5	425
+1042	Dũng cảm anh hùng (phần 2)	1	426
+1043	Tương tự, chứng tỏ giá trị qua đấu trường.	2	426
+1044	Hoàn thành nhiệm vụ để được công nhận.	2	426
+1045	Đánh bại 10 Guardsmen Chaos Castle, giao vũ khí Archangel, sống sót Devil Square, nhận thưởng.	2	426
+1046	Bây giờ giao vũ khí Archangel Blood Castle.	3	426
+1047	Bạn tiến lên thành anh hùng lần nữa.	4	426
+1048	Đi Blood Castle giao vũ khí Archangel, nhận quest tiếp theo.	5	426
+1049	Dũng cảm anh hùng (phần 3)	1	427
+1050	Tương tự, chứng tỏ giá trị qua đấu trường.	2	427
+1051	Hoàn thành nhiệm vụ để được công nhận.	2	427
+1052	Đánh bại 10 Guardsmen Chaos Castle, giao vũ khí Archangel, sống sót Devil Square, nhận thưởng.	2	427
+1053	Cuối cùng, sống sót Devil Square.	3	427
+1054	Bạn trở thành anh hùng thực thụ.	4	427
+1055	Sống sót trong Devil Square, trở về để nhận thưởng.	5	427
+1056	Tinh thần chiến binh (phần 1)	1	428
+1057	Có nhiều cách chứng tỏ giá trị ở MU: Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	428
+1058	Cần trang bị tốt và level cao, nhưng thế thôi chưa đủ. Mình sẽ giao series nhiệm vụ để bạn được công nhận.	2	428
+1059	Chứng tỏ sức mạnh bằng cách: đánh 20 Guardsmen Chaos Castle, giao vũ khí Archangel Blood Castle, sống sót Devil Square. Hoàn thành nhận thưởng.	2	428
+1060	Đánh 20 Guardsmen ở Chaos Castle, trở về.	3	428
+1061	Bạn đang tiến bước thành anh hùng.	4	428
+1062	Đánh 20 Guardsmen Chaos Castle và quay lại, nhận quest tiếp theo.	5	428
+1063	Tinh thần chiến binh (thứ hai)	1	429
+1064	Tương tự 1057, 1058.	2	429
+1065	Tương tự 1059.	2	429
+1066	Chứng tỏ sức mạnh: hạ 20 Guardsmen ở Chaos Castle, giao vũ khí Archangel ở Blood Castle, sống sót ở Devil Square. Hoàn thành nhận thưởng.	2	429
+1067	Chuyển vũ khí Archangel ở Blood Castle, trở về.	3	429
+1068	Bạn bước tiếp như anh hùng.	4	429
+1069	Đi Blood Castle giao vũ khí Archangel, nhận quest tiếp theo.	5	429
+1070	Tinh thần chiến binh (cuối)	1	430
+1071	Tương tự 1057-1059.	2	430
+1072	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	430
+1073	Chứng tỏ sức mạnh: hạ 20 Guardsmen ở Chaos Castle, giao vũ khí Archangel ở Blood Castle, sống sót ở Devil Square. Hoàn thành nhận thưởng.	2	430
+1074	Sống sót trong Devil Square, trở về.	3	430
+1075	Bạn tiến bước thành anh hùng thực thụ.	4	430
+1076	Sống sót Devil Square và quay lại nhận thưởng.	5	430
+1077	Tâm lý anh hùng (thứ nhất)	1	431
+1078	Tương tự 1057-1059.	2	431
+1079	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	431
+1080	Chứng tỏ sức mạnh bằng: đánh 30 Guardsmen Chaos Castle, giao vũ khí Archangel, sống sót Devil Square. Hoàn thành nhận thưởng.	2	431
+1081	Đánh 30 Guardsmen ở Chaos Castle, trở về.	3	431
+1082	Bạn bước tiếp thành anh hùng.	4	431
+1083	Đánh 30 Guardsmen Chaos Castle và quay lại.	5	431
+1084	Tâm lý anh hùng (thứ hai)	1	432
+1085	Tương tự 1057-1059.	2	432
+1086	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	432
+1087	Tương tự 1080.	2	432
+1088	Chuyển vũ khí Archangel ở Blood Castle, trở về.	3	432
+1089	Bạn bước tiếp thành anh hùng.	4	432
+1090	Đi Blood Castle giao vũ khí Archangel.	5	432
+1091	Tâm lý anh hùng (cuối)	1	433
+1092	Có nhiều cách chứng tỏ bản thân ở MU: sống sót cuối cùng Chaos Castle, cùng đồng đội chiến Blood Castle, Devil Square, Illusion Temple. Đây là thành tích đáng giá.	2	433
+1093	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	433
+1094	Sống sót trong Devil Square, trở về.	2	433
+1095	Sống sót tới cuối ở Devil Square.	3	433
+1096	Bạn lại tiến bước như một anh hùng.	4	433
+1097	Sống sót và trở về, sẽ được thưởng.	5	433
+1098	Sự bền bỉ của anh hùng (1)	1	434
+1099	Để chứng tỏ giá trị, có thể sống sót Chaos Castle, chiến cùng đồng đội ở Blood Castle, Devil Square, Illusion Temple.	2	434
+1100	Trang bị tốt, level cao là cần thiết nhưng chưa đủ. Ta sẽ giao chuỗi nhiệm vụ để bạn được công nhận.	2	434
+1101	Chứng tỏ sức mạnh: vượt Chaos Castle, giao vũ khí Archangel ở Blood Castle, sống sót Devil Square. Hoàn thành sẽ được thưởng.	2	434
+1102	Sống sót ở Chaos Castle.	3	434
+1103	Bạn tiến bước như anh hùng.	4	434
+1104	Sống sót Chaos Castle, trở về sẽ nhận nhiệm vụ tiếp.	5	434
+1105	Sự bền bỉ của anh hùng (2)	1	435
+1106	Có nhiều cách chứng tỏ giá trị, ví dụ Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	435
+1107	Cần trang bị và level cao nhưng chưa đủ để trở thành anh hùng. Ta sẽ giao nhiệm vụ để bạn được công nhận.	2	435
+1108	Chứng tỏ sức mạnh: vượt Chaos Castle, giao Archangel ở Blood Castle, sống sót Devil Square. Hoàn thành sẽ được thưởng.	2	435
+1109	Giao vũ khí Archangel ở Blood Castle.	3	435
+1110	Bạn lại tiến bước như anh hùng.	4	435
+1111	Đi Blood Castle giao Archangel, trở về sẽ nhận nhiệm vụ tiếp.	5	435
+1112	Sự bền bỉ của anh hùng (3)	1	436
+1113	Có nhiều cách chứng tỏ giá trị, ví dụ Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	436
+1114	Cần trang bị và level cao nhưng chưa đủ để trở thành anh hùng. Ta sẽ giao nhiệm vụ để bạn được công nhận.	2	436
+1115	Chứng tỏ sức mạnh: vượt Chaos Castle, giao Archangel ở Blood Castle, sống sót Devil Square. Hoàn thành sẽ được thưởng.	2	436
+1116	Sống sót cuối Devil Square.	3	436
+1117	Bạn tiến bước như một anh hùng thực thụ.	4	436
+1118	Sống sót và trở về sẽ được thưởng.	5	436
+1119	Nhiệm vụ cuối cùng của anh hùng (đầu tiên)	1	437
+1120	Có nhiều cách chứng tỏ bản thân: sống sót Chaos Castle, cùng đồng đội chiến Blood Castle, Devil Square, Illusion Temple.	2	437
+1121	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	437
+1122	Chứng tỏ sức mạnh: hoàn thành Chaos Castle, giao Archangel Blood Castle, sống sót Devil Square. Hoàn thành nhận thưởng.	2	437
+1123	Sống sót trong Chaos Castle, trở về.	3	437
+1124	Bạn bước tiếp thành anh hùng.	4	437
+1125	Sống sót Chaos Castle, quay lại nhận quest.	5	437
+1126	Nhiệm vụ cuối cùng của anh hùng (thứ hai)	1	438
+1127	Có nhiều cách chứng tỏ bản thân: Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	438
+1128	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	438
+1129	Tương tự 1122.	2	438
+1130	Chuyển vũ khí Archangel ở Blood Castle, trở về.	3	438
+1131	Bạn bước tiếp thành anh hùng.	4	438
+1132	Đi Blood Castle giao vũ khí Archangel.	5	438
+1133	Nhiệm vụ cuối cùng của anh hùng (cuối)	1	439
+1134	Có nhiều cách chứng tỏ bản thân: Chaos Castle, Blood Castle, Devil Square, Illusion Temple.	2	439
+1135	Cần trang bị tốt và cấp cao để thử sức với người khác. Nhưng thế thôi chưa đủ để thành anh hùng MU. Mình sẽ giao loạt nhiệm vụ, có thể lặp lại.	2	439
+1136	Tương tự 1122, hoàn thành nhận thưởng.	2	439
+1137	Sống sót trong Devil Square, trở về.	3	439
+1138	Bạn bước tiếp thành anh hùng thực thụ.	4	439
+1139	Sống sót Devil Square, quay lại nhận thưởng.	5	439
+1140	Săn Nhện!	1	440
+1141	Lão già nói Nhện giăng tơ ngoài thành, nhờ bạn dọn. Phù hợp người mới (Level 1-14).	2	440
+1142	Đi săn 10 Nhện quanh thành, sẽ được thưởng.	3	440
+1143	Bạn tiến bước như anh hùng.	4	440
+1144	Săn 10 Nhện, nhận thưởng.	5	440
+1145	Săn Spider!	1	441
+1146	Người già nói nhện bện tơ ngoài tường thị trấn. Shadow Phantom Guardians được yêu cầu, bạn có nhận? (Lv 1-14)	2	441
+1147	Đánh 10 Spider quanh thành, trở về nhận thưởng. (Lv. 1-14)	3	441
+1148	Bạn bước tiếp thành anh hùng.	4	441
+1149	Săn 10 nhện quanh thị trấn, nhận thưởng.	5	441
+1150	Săn Nhện!	1	442
+1151	Lão trưởng bảo nhện đang giăng tơ ngoài tường. Dù là nhiệm vụ Shadow Phantom, mình nghĩ người mới cũng làm được. Nhận không? (Lv.1-14)	2	442
+1152	Đánh 10 Spider quanh thành, trở về nhận thưởng. (Lv. 1-14)	3	442
+1153	Bạn lại bước lên như một anh hùng thực thụ.	4	442
+1154	Hạ 10 Nhện quanh thị trấn, nhận thưởng.	5	442
+1155	Loại bỏ cướp thành!	1	443
+1156	Quân Kundun yếu thường cướp dân ngoài thành. Hãy tiêu diệt chúng (Level 15-25).	2	443
+1157	Đánh 15 Giant gần Devias (22,45) phía đông, trở về nhận thưởng.	3	443
+1158	Bạn tiến bước như anh hùng.	4	443
+1159	Đánh 15 Giant gần Devias, nhận thưởng.	5	443
+1160	Loại bỏ Town Plunderers	1	444
+1161	Đánh 15 Liches gần Dungeon (159,205) phía tây nam, trở về nhận thưởng.	2	444
+1162	Đánh 15 Liches gần Dungeon, trở về nhận thưởng.	3	444
+1163	Bạn tiến bước như anh hùng.	4	444
+1164	Đánh 15 Liches, nhận thưởng.	5	444
+1165	Loại bỏ Town Plunderers	1	445
+1166	Săn quái plundering Kundun ngoài thị trấn. Bạn nhận quest? (Lv 15-25)	2	445
+1167	Đánh 15 Agons phía nam (173,222), trở về nhận thưởng.	3	445
+1168	Đánh quái cướp gần thành (Lv. 15-25), trở về nhận thưởng.	4	445
+1169	Bạn tiến bước như anh hùng.	5	445
+1170	Đánh 15 Agons, nhận thưởng.	1	446
+1171	Tương tự 1166.	2	446
+1172	Đánh 15 Polluted Butterflies gần mộ (121,156) phía bắc, trở về nhận thưởng.	3	446
+1173	Đánh quái cướp gần thành (Lv. 15-25), trở về nhận thưởng.	4	446
+1174	Bạn tiến bước như anh hùng.	5	446
+1175	Đánh 15 Polluted Butterflies, nhận thưởng.	1	447
+1176	Đánh thủ lĩnh cướp!	2	447
+1177	Đánh 20 Skeleton Warriors gần Dungeon (123,227) tây nam, trở về nhận thưởng.	3	447
+1178	Đánh quái cướp gần thành, trở về nhận thưởng.	4	447
+1179	Bạn tiến bước như anh hùng.	5	447
+1180	Đánh 20 Skeleton Warriors, nhận thưởng.	1	448
+1181	Đoàn trinh sát báo rằng vật tư bị đánh cắp đang được gửi đến quân Kundun. Hãy tiêu diệt quái vật bảo vệ bọn cướp để chúng tôi xác định đường tiếp tế. Chấp nhận nhiệm vụ? (Lv.26-35)	2	448
+1182	Đánh 20 Giants gần Devias (22,45) phía đông, trở về nhận thưởng.	3	448
+1183	Bạn lại tiến lên như một anh hùng thực thụ.	4	448
+1184	Bạn tiến bước như anh hùng.	5	448
+1185	Đánh 20 Giants, nhận thưởng.	1	449
+1186	Đoàn trinh sát báo vật tư bị đánh cắp đang đến quân Kundun. Tiêu diệt quái bảo vệ bọn cướp. Chấp nhận nhiệm vụ? (Lv.26-35)	2	449
+1187	Đánh 20 Stone Golems phía tây nam (30,214), trở về nhận thưởng.	3	449
+1188	Bạn lại tiến lên như một anh hùng thực thụ.	4	449
+1189	Bạn tiến bước như anh hùng.	5	449
+1190	Đánh 20 Stone Golems, nhận thưởng.	1	450
+1191	Đoàn trinh sát báo vật tư bị đánh cắp đang đến quân Kundun. Tiêu diệt quái bảo vệ bọn cướp. Chấp nhận nhiệm vụ? (Lv.26-35)	2	450
+1192	Đánh 20 Hideous Rabbits gần tượng mặt (151,146) phía bắc, trở về nhận thưởng.	3	450
+1193	Bạn lại tiến lên như một anh hùng thực thụ.	4	450
+1194	Bạn tiến bước như anh hùng.	5	450
+1195	Đánh 20 Hideous Rabbits, nhận thưởng.	1	451
+1196	Tuyến tiếp tế Devias!	2	451
+1197	Devias 2 gặp Ice Monsters bán trong suốt. Đánh 25 và trở về nhận thưởng.	3	451
+1198	Bạn lại tiến lên như một anh hùng thực thụ.	4	451
+1199	Bạn tiến bước như anh hùng.	5	451
+1200	Đánh 25 Ice Monsters, nhận thưởng.	1	452
+1201	Đoàn trinh sát báo vật tư đang được chuyển đến Tháp Bị Lạc qua Devias. Chặn đường tiếp tế sẽ gây tổn thất lớn cho kẻ thù. Chấp nhận nhiệm vụ? (Lv.36-45)	2	452
+1202	Đánh 25 Worms ngoài Devias, trở về nhận thưởng.	3	452
+1203	Bạn lại tiến lên như một anh hùng thực thụ.	4	452
+1204	Bạn tiến bước như anh hùng.	5	452
+1205	Đánh 25 Worms, nhận thưởng.	1	453
+1206	Tấn công quân tiếp tế!	2	453
+1207	Devias 2 gặp Assassin cầm kiếm. Đánh 30, trở về nhận thưởng.	3	453
+1208	Bạn lại tiến lên như một anh hùng thực thụ.	4	453
+1209	Bạn tiến bước như anh hùng.	5	453
+1210	Đánh 30 Assassin, nhận thưởng.	1	454
+1211	Bây giờ đường tiếp tế yếu, hãy tiêu diệt các quái cấp cao kiểm soát đường tiếp tế. Chấp nhận nhiệm vụ? (Lv.46-55)	2	454
+1212	Đánh 30 Ice Monsters bán trong suốt, trở về nhận thưởng.	3	454
+1213	Bạn lại tiến lên như một anh hùng thực thụ.	4	454
+1214	Bạn tiến bước như anh hùng.	5	454
+1215	Tiếp tế nội địa!	1	455
+1216	Trước khi tấn công kho tiếp tế, hãy tiêu diệt quái canh giữ. Sau đó, đoàn trinh sát sẽ tấn công kho. Chấp nhận nhiệm vụ? (Lv.56-65)	2	455
+1217	Devias 2 gặp Yeti trắng. Đánh 30, trở về nhận thưởng.	3	455
+1218	Bạn lại tiến lên như một anh hùng thực thụ.	4	455
+1219	Bạn tiến bước như anh hùng.	5	455
+1220	Đội tiếp tế nội địa!	1	456
+1221	Trước khi tấn công kho, tiêu diệt quái canh giữ. Sau đó đoàn trinh sát sẽ tấn công kho. Chấp nhận nhiệm vụ? (Lv.56-65)	2	456
+1222	Đánh 30 Hommerds, trở về nhận thưởng.	3	456
+1223	Bạn lại tiến lên như một anh hùng thực thụ.	4	456
+1224	Tại Devias 2, gặp Hommerds cười nhạo. Tiêu diệt 30 Hommerds và quay lại nhận thưởng.	5	456
+1225	Quét Dungeon!	1	457
+1226	Đoàn trinh sát Dungeon mất liên lạc, quái vật xuất hiện nhiều. Bạn có thể giúp tiêu diệt chúng? (Lv.66-79)	2	457
+1227	Dungeon L1 gặp Cyclops. Đánh 40, trở về nhận thưởng.	3	457
+1228	Bạn lại tiến lên như một anh hùng thực thụ.	4	457
+1229	Bạn tiến bước như anh hùng.	5	457
+1230	Quét Dungeon!	1	458
+1231	Đoàn trinh sát Dungeon bị quái chiếm. Giúp tiêu diệt chúng? (Lv.66-79)	2	458
+1232	Đánh 40 Larvae gần cửa Dungeon, trở về nhận thưởng.	3	458
+1233	Bạn lại tiến lên như một anh hùng thực thụ.	4	458
+1234	Bạn tiến bước như anh hùng.	5	458
+1235	Nhiệm vụ Lão già Elveland!	1	459
+1236	Nhiệm vụ tiêu diệt Totem Golem & Cursed Lich ở Elveland do trưởng lão giao. Quái nhiều hơn, xử lý giúp. Chấp nhận? (Lv.80-90)	2	459
+1237	Elveland 3 gặp Totem Golems. Đánh 50, trở về nhận thưởng.	3	459
+1238	Bạn lại tiến lên như một anh hùng thực thụ.	4	459
+1239	Bạn tiến bước như anh hùng.	5	459
+1240	Yêu cầu từ Trưởng lão Elveland!	1	460
+1241	Nhiệm vụ tiêu diệt Totem Golem & Cursed Lich do trưởng lão giao. Quái nhiều hơn, xử lý giúp. Chấp nhận? (Lv.80-90)	2	460
+1242	Elveland 2 gặp Cursed Liches. Đánh 50, trở về nhận thưởng.	3	460
+1243	Bạn lại tiến lên như một anh hùng thực thụ.	4	460
+1244	Bạn tiến bước như anh hùng.	5	460
+1245	Tình hình Dungeon (1)	1	461
+1246	Quái chiếm Dungeon Lorencia, đoàn trinh sát bận rộn. Nhờ bạn giúp. Chấp nhận nhiệm vụ? (Lv.91-100)	2	461
+1247	Dungeon L2 gặp Hell Hounds. Đánh 50, trở về nhận thưởng.	3	461
+1248	Bạn lại tiến lên như một anh hùng thực thụ.	4	461
+1249	Bạn tiến bước như anh hùng.	5	461
+1250	Tình hình Dungeon (1)	1	462
+1251	Quái chiếm Dungeon Lorencia, đoàn trinh sát bận rộn. Nhờ bạn giúp. Chấp nhận nhiệm vụ? (Lv.91-100)	2	462
+1252	Dungeon L1 gặp Cyclops. Đánh 50, trở về nhận thưởng.	3	462
+1253	Bạn lại tiến bước như một anh hùng thực thụ.	4	462
+1254	Tầng Dungeon 1: gặp Cyclops cầm rìu. Tiêu diệt 50 Cyclops, quay lại nhận thưởng.	5	462
+1255	Tình hình Dungeon (2)	1	463
+1256	Quest săn quái sâu hơn Dungeon. Chấp nhận? (Lv 101-110)	2	463
+1257	Tầng Dungeon 2: gặp Hell Hounds dùng phép. Tiêu diệt 50 Hell Spiders, quay lại nhận thưởng.	3	463
+1258	Bạn lại tiến bước như một anh hùng thực thụ.	4	463
+1259	Tầng Dungeon 2: gặp Hell Hounds dùng phép. Tiêu diệt 50 Hell Spiders, quay lại nhận thưởng.	5	463
+1260	Tình hình Dungeon (2)	1	464
+1261	Quest săn quái sâu hơn Dungeon. Chấp nhận? (Lv 101-110)	2	464
+1262	Tầng Dungeon 2: gặp Skeleton Archers ẩn nấp bắn tên. Tiêu diệt 50 Skeleton Archers, quay lại nhận thưởng.	3	464
+1263	Bạn lại tiến bước như một anh hùng thực thụ.	4	464
+1264	Tầng Dungeon 2: gặp Skeleton Archers ẩn nấp bắn tên. Tiêu diệt 50 Skeleton Archers, quay lại nhận thưởng.	5	464
+1265	Tình hình Dungeon (3)	1	465
+1266	Tình báo: Dungeon 2 có quái mạnh. Giúp tiêu diệt? (Lv 111-120)	2	465
+1267	Tầng Dungeon 2: gặp Thunder Liches dùng phép sét. Tiêu diệt 50 Thunder Liches, quay lại nhận thưởng.	3	465
+1268	Bạn lại tiến bước như một anh hùng thực thụ.	4	465
+1269	Tầng Dungeon 2: gặp Thunder Liches dùng phép sét. Tiêu diệt 50 Thunder Liches, quay lại nhận thưởng.	5	465
+1270	Tình hình Dungeon (3)	1	466
+1271	Tình báo: Dungeon 2 có quái mạnh. Giúp tiêu diệt? (Lv 111-120)	2	466
+1272	Tầng Dungeon 2: gặp Hell Hounds phun độc. Tiêu diệt 50 Hell Hounds, quay lại nhận thưởng.	3	466
+1273	Bạn lại tiến bước như một anh hùng thực thụ.	4	466
+1274	Tầng Dungeon 2: gặp Hell Hounds phun độc. Tiêu diệt 50 Hell Hounds, quay lại nhận thưởng.	5	466
+1275	Tình hình Dungeon (4)	1	467
+1276	Nhiều quái chắn đường từ Dungeon 2 lên 3. Giúp tiêu diệt? (Lv 121-130)	2	467
+1277	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	3	467
+1278	Bạn lại tiến bước như một anh hùng thực thụ.	4	467
+1279	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	5	467
+1280	Tình hình Dungeon (4)	1	468
+1281	Nhiều quái chắn đường từ Dungeon 2 lên 3. Giúp tiêu diệt? (Lv 121-130)	2	468
+1282	Tầng Dungeon 2: gặp Hell Hounds dùng phép. Tiêu diệt 50 Hell Spiders, quay lại nhận thưởng.	3	468
+1283	Bạn lại tiến bước như một anh hùng thực thụ.	4	468
+1284	Tầng Dungeon 2: gặp Hell Hounds dùng phép. Tiêu diệt 50 Hell Spiders, quay lại nhận thưởng.	5	468
+1285	Tình hình Dungeon (5)	1	469
+1286	Quái xuất hiện tại Dungeon 2 và 3, tấn công nhóm trinh sát. Giúp săn quái? (Lv 131-140)	2	469
+1287	Dungeon 2-3: gặp Dark Knights dùng bóng tối. Tiêu diệt 50 Dark Knights, quay lại nhận thưởng.	3	469
+1288	Bạn lại tiến bước như một anh hùng thực thụ.	4	469
+1289	Dungeon 2-3: gặp Dark Knights dùng bóng tối. Tiêu diệt 50 Dark Knights, quay lại nhận thưởng.	5	469
+1290	Tình hình Dungeon (5)	1	470
+1291	Quái xuất hiện tại Dungeon 2 và 3. Giúp săn quái? (Lv 131-140)	2	470
+1292	Tầng Dungeon 2: gặp Thunder Liches dùng phép sét. Tiêu diệt 50 Thunder Liches, quay lại nhận thưởng.	3	470
+1293	Bạn lại tiến bước như một anh hùng thực thụ.	4	470
+1294	Tầng Dungeon 2: gặp Thunder Liches dùng phép sét. Tiêu diệt 50 Thunder Liches, quay lại nhận thưởng.	5	470
+1295	Tình hình Dungeon (6)	1	471
+1296	Tấn công tiếp Dungeon, cửa vào tạm ổn nhưng quái vẫn cản trở. Giúp tiêu diệt? (Lv 141-160)	2	471
+1297	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	3	471
+1298	Bạn lại tiến bước như một anh hùng thực thụ.	4	471
+1299	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	5	471
+1300	Tình hình Dungeon (6)	1	472
+1301	Tấn công tiếp Dungeon, cửa vào tạm ổn nhưng quái vẫn cản trở. Giúp tiêu diệt? (Lv 141-160)	2	472
+1302	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	3	472
+1303	Bạn lại tiến bước như một anh hùng thực thụ.	4	472
+1304	Tầng Dungeon 2: gặp Poison Bull Fighters phun độc. Tiêu diệt 50 Poison Bull Fighters, quay lại nhận thưởng.	5	472
+1305	Yêu cầu giúp đỡ tiếp (1)	1	473
+1306	Tình báo: quái hạng thấp gây khó khăn. Giúp tiêu diệt? (Lv 161-165)	2	473
+1307	Lost Tower 1: gặp Shadows, hiện thân ác ý. Tiêu diệt 50 Shadows, quay lại nhận thưởng.	3	473
+1308	Bạn lại tiến bước như một anh hùng thực thụ.	4	473
+1309	Lost Tower 1: gặp Shadows, hiện thân ác ý. Tiêu diệt 50 Shadows, quay lại nhận thưởng.	5	473
+1310	Yêu cầu giúp đỡ tiếp (1)	1	474
+1311	Tình báo: quái hạng thấp gây khó khăn. Giúp tiêu diệt? (Lv 161-165)	2	474
+1312	Devias 4: gặp Elite Yetis. Tiêu diệt 50 Elite Yetis, quay lại nhận thưởng.	3	474
+1313	Bạn lại tiến bước như một anh hùng thực thụ.	4	474
+1314	Devias 4: gặp Elite Yetis. Tiêu diệt 50 Elite Yetis, quay lại nhận thưởng.	5	474
+1315	Yêu cầu giúp đỡ tiếp (2)	1	475
+1316	Tình báo: tiêu diệt quái cấp cao giúp dễ kiểm soát quái cấp thấp. Chấp nhận? (Lv 166-170)	2	475
+1317	Lost Tower 1-2: gặp Poison Shadows phun độc. Tiêu diệt 50 Poison Shadows, quay lại nhận thưởng.	3	475
+1318	Bạn lại tiến bước như một anh hùng thực thụ.	4	475
+1319	Lost Tower 1-2: gặp Poison Shadows phun độc. Tiêu diệt 50 Poison Shadows, quay lại nhận thưởng.	5	475
+1320	Yêu cầu giúp đỡ tiếp (2)	1	476
+1321	Tình báo: tiêu diệt quái cấp cao giúp dễ kiểm soát quái cấp thấp. Chấp nhận? (Lv 166-170)	2	476
+1322	Elveland 3 (179,81): gặp Grizzlies hung dữ. Tiêu diệt 50 Grizzlies, quay lại nhận thưởng.	3	476
+1323	Bạn lại tiến bước như một anh hùng thực thụ.	4	476
+1324	Elveland 3 (179,81): gặp Grizzlies hung dữ. Tiêu diệt 50 Grizzlies, quay lại nhận thưởng.	5	476
+1325	Yêu cầu giúp đỡ tiếp (3)	1	477
+1326	Tình báo: quái cấp cao gây khó khăn. Giúp tiêu diệt? (Lv 171-179)	2	477
+1327	Lost Tower 2-3: gặp Cursed Wizards. Tiêu diệt 50 Cursed Wizards, quay lại nhận thưởng.	3	477
+1328	Bạn lại tiến bước như một anh hùng thực thụ.	4	477
+1329	Lost Tower 2-3: gặp Cursed Wizards. Tiêu diệt 50 Cursed Wizards, quay lại nhận thưởng.	5	477
+1330	Yêu cầu giúp đỡ tiếp (3)	1	478
+1331	Tình báo: quái cấp cao gây khó khăn. Giúp tiêu diệt? (Lv 171-179)	2	478
+1332	Elveland 3 (203,37): gặp Captain Grizzlies. Tiêu diệt 50 Captain Grizzlies, quay lại nhận thưởng.	3	478
+1333	Bạn lại tiến bước như một anh hùng thực thụ.	4	478
+1334	Elveland 3 (203,37): gặp Captain Grizzlies. Tiêu diệt 50 Captain Grizzlies, quay lại nhận thưởng.	5	478
+1335	Yêu cầu giúp đỡ tiếp (4)	1	479
+1336	Tình báo: quái tấn công bất ngờ. Giúp tiêu diệt? (Lv 180-189)	2	479
+1337	Lost Tower 3-4: gặp Death Cows và năng lượng ác. Tiêu diệt 50 Death Cows, quay lại nhận thưởng.	3	479
+1338	Bạn lại tiến bước như một anh hùng thực thụ.	4	479
+1339	Lost Tower 3-4: gặp Death Cows và năng lượng ác. Tiêu diệt 50 Death Cows, quay lại nhận thưởng.	5	479
+1340	Yêu cầu giúp đỡ tiếp (4)	1	480
+1341	Tình báo: quái tấn công bất ngờ. Giúp tiêu diệt? (Lv 180-189)	2	480
+1342	Lost Tower 1: gặp Shadows. Tiêu diệt 50 Shadows, quay lại nhận thưởng.	3	480
+1343	Bạn lại tiến bước như một anh hùng thực thụ.	4	480
+1344	Lost Tower 1: gặp Shadows. Tiêu diệt 50 Shadows, quay lại nhận thưởng.	5	480
+1345	Tấn công Barriers tiếp (1)	1	481
+1346	Quái tấn công barrier Lost Tower. Devils & Cursed Wizards gây thiệt hại nhiều nhất. Tiêu diệt? (Lv 191-199)	2	481
+1347	Lost Tower 4-6: gặp Devils dùng phép. Tiêu diệt 50 Devils, quay lại nhận thưởng.	3	481
+1348	Bạn lại tiến bước như một anh hùng thực thụ.	4	481
+1349	Lost Tower 4-6: gặp Devils dùng phép. Tiêu diệt 50 Devils, quay lại nhận thưởng.	5	481
+1350	Tấn công Barriers tiếp (1)	1	482
+1351	Quái tấn công barrier Lost Tower. Devils & Cursed Wizards gây thiệt hại nhiều nhất. Tiêu diệt? (Lv 191-199)	2	482
+1352	Lost Tower 2-3: gặp Cursed Wizards. Tiêu diệt 50 Cursed Wizards, quay lại nhận thưởng.	3	482
+1353	Bạn lại tiến bước như một anh hùng thực thụ.	4	482
+1354	Lost Tower 2-3: gặp Cursed Wizards. Tiêu diệt 50 Cursed Wizards, quay lại nhận thưởng.	5	482
+1355	Tấn công Barriers tiếp (2)	1	483
+1356	Quái cấp cao tấn công barrier. Tiêu diệt? (Lv 200-209)	2	483
+1357	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 50 Death Knights, quay lại nhận thưởng.	3	483
+1358	Bạn lại tiến bước như một anh hùng thực thụ.	4	483
+1359	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 50 Death Knights, quay lại nhận thưởng.	5	483
+1360	Tấn công Barriers tiếp (2)	1	484
+1361	Quái cấp cao tấn công barrier. Tiêu diệt? (Lv 200-209)	2	484
+1362	Lost Tower 3-4: gặp Death Cows. Tiêu diệt 50 Death Cows, quay lại nhận thưởng.	3	484
+1363	Bạn lại tiến bước như một anh hùng thực thụ.	4	484
+1364	Lost Tower 3-4: gặp Death Cows. Tiêu diệt 50 Death Cows, quay lại nhận thưởng.	5	484
+1365	Tấn công Barriers tiếp (3)	1	485
+1366	Barrier Lost Tower ổn định hơn nhưng còn quái cao cấp. Tiêu diệt? (Lv 210-219)	2	485
+1367	Lost Tower 7: gặp Death Gorgons. Tiêu diệt 60 Death Gorgons, quay lại nhận thưởng.	3	485
+1368	Bạn lại tiến bước như một anh hùng thực thụ.	4	485
+1369	Lost Tower 7: gặp Death Gorgons. Tiêu diệt 60 Death Gorgons, quay lại nhận thưởng.	5	485
+1370	Tấn công Barriers tiếp (3)	1	486
+1371	Barrier Lost Tower ổn định hơn nhưng còn quái cao cấp. Tiêu diệt? (Lv 210-219)	2	486
+1372	Lost Tower 4-6: gặp Devils dùng phép. Tiêu diệt 60 Devils, quay lại nhận thưởng.	3	486
+1373	Bạn lại tiến bước như một anh hùng thực thụ.	4	486
+1374	Lost Tower 4-6: gặp Devils dùng phép. Tiêu diệt 60 Devils, quay lại nhận thưởng.	5	486
+1375	Mở đường tới Icarus - Unrepeatable	1	487
+1376	Icarus, qua tầng cao nhất Lost Tower. Quái chặn lối. Giúp tiêu diệt? (Lv 220-229)	2	487
+1377	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	3	487
+1378	Bạn lại tiến bước như một anh hùng thực thụ.	4	487
+1379	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	5	487
+1380	Mở đường tới Icarus - Unrepeatable	1	488
+1381	Icarus, qua tầng cao nhất Lost Tower. Quái chặn lối. Giúp tiêu diệt? (Lv 220-229)	2	488
+1382	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	3	488
+1383	Bạn lại tiến bước như một anh hùng thực thụ.	4	488
+1384	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	5	488
+1385	Mở đường tới Icarus	1	489
+1386	Icarus, qua tầng cao nhất Lost Tower. Quái chặn lối. Giúp tiêu diệt? (Lv 220-229)	2	489
+1387	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	3	489
+1388	Bạn lại tiến bước như một anh hùng thực thụ.	4	489
+1389	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	5	489
+1390	Mở đường tới Icarus	1	490
+1391	Icarus, qua tầng cao nhất Lost Tower. Quái chặn lối. Giúp tiêu diệt? (Lv 220-229)	2	490
+1392	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	3	490
+1393	Bạn lại tiến bước như một anh hùng thực thụ.	4	490
+1394	Lost Tower 5-6: gặp Death Knights. Tiêu diệt 60 Death Knights, quay lại nhận thưởng.	5	490
+1395	Tiến bộ của Đội Trinh sát (1) - Unrepeatable	1	491
+1396	Tarkan chưa vào được. Quái Mutants chặn. Giúp tiêu diệt? (Lv 230-234)	2	491
+1397	Tarkan 1: gặp Mutants cầm rìu khổng lồ. Tiêu diệt 60 Mutants, quay lại nhận thưởng.	3	491
+1398	Bạn lại tiến bước như một anh hùng thực thụ.	4	491
+1399	Tarkan 1: gặp Mutants cầm rìu khổng lồ. Tiêu diệt 60 Mutants, quay lại nhận thưởng.	5	491
+1400	Tiến bộ của Đội Trinh sát (1)	1	492
+1401	Tarkan chưa vào được. Mutants chặn. Giúp tiêu diệt? (Lv 230-234)	2	492
+1402	Tarkan 1: gặp Mutants cầm rìu khổng lồ. Tiêu diệt 60 Mutants, quay lại nhận thưởng.	3	492
+1403	Bạn lại tiến bước như một anh hùng thực thụ.	4	492
+1404	Tarkan 1: gặp Mutants cầm rìu khổng lồ. Tiêu diệt 60 Mutants, quay lại nhận thưởng.	5	492
+1405	Tiến bộ của Đội Trinh sát (2) - Unrepeatable	1	493
+1406	Tarkan đã vào nhưng gặp Bloody Wolves. Giúp tiêu diệt? (Lv 235-239)	2	493
+1407	Tarkan 1: gặp Bloody Wolves. Tiêu diệt 60 Bloody Wolves, quay lại nhận thưởng.	3	493
+1408	Bạn lại tiến bước như một anh hùng thực thụ.	4	493
+1409	Tarkan 1: gặp Bloody Wolves. Tiêu diệt 60 Bloody Wolves, quay lại nhận thưởng.	5	493
+1410	Tiến bộ của Đội Trinh sát (2)	1	494
+1411	Tarkan đã vào nhưng gặp Bloody Wolves. Giúp tiêu diệt? (Lv 235-239)	2	494
+1412	Tarkan 1: gặp Bloody Wolves. Tiêu diệt 60 Bloody Wolves, quay lại nhận thưởng.	3	494
+1413	Bạn lại tiến bước như một anh hùng thực thụ.	4	494
+1414	Tarkan 1: gặp Bloody Wolves. Tiêu diệt 60 Bloody Wolves, quay lại nhận thưởng.	5	494
+1415	Tiến bộ của Đội Trinh sát (3) - Unrepeatable	1	495
+1416	Quái hành xử lạ, Iron Wheels lên kế hoạch. Giúp tiêu diệt? (Lv 240-244)	2	495
+1417	Tarkan 1-2: gặp Iron Wheels. Tiêu diệt 60 Iron Wheels, quay lại nhận thưởng.	3	495
+1418	Bạn lại tiến bước như một anh hùng thực thụ.	4	495
+1419	Tarkan 1-2: gặp Iron Wheels. Tiêu diệt 60 Iron Wheels, quay lại nhận thưởng.	5	495
+1420	Tiến bộ của Đội Trinh sát (3)	1	496
+1421	Quái hành xử lạ, Iron Wheels lên kế hoạch. Giúp tiêu diệt? (Lv 240-244)	2	496
+1422	Tarkan 1-2: gặp Iron Wheels. Tiêu diệt 60 Iron Wheels, quay lại nhận thưởng.	3	496
+1423	Bạn lại tiến bước như một anh hùng thực thụ.	4	496
+1424	Đi Tarkan 1-2, gặp Assassin Iron Wheels. Đánh 60 và trở về nhận thưởng.	5	496
+1425	Đường tới Lâu đài Bay (1) - Không lặp lại	1	497
+1426	Alquamoses gây phiền toái ở Icarus. Loại bỏ chúng để trinh sát tiến lên. (Lv. 245-249)	2	497
+1427	Đánh 80 Alquamoses ở Icarus, trở về nhận thưởng.	3	497
+1428	Bạn tiến bước như anh hùng.	4	497
+1429	Đánh 80 Alquamoses, nhận thưởng.	5	497
+1430	Con đường đến Lâu đài Bay (1)	1	498
+1431	Alquamoses cản đường đến Lâu đài Bay. Tiêu diệt để đoàn trinh sát tiến lên. (Lv.245-249)	2	498
+1432	Tại Icarus, gặp Alquamoses mang Stardust. Tiêu diệt 80 và quay lại nhận thưởng.	3	498
+1433	Bạn lại tiến lên như một anh hùng thực thụ.	4	498
+1434	Tại Icarus, gặp Alquamoses mang Stardust. Tiêu diệt 80 và quay lại nhận thưởng.	5	498
+1435	Đường tới Lâu đài Bay (2) - Không lặp lại	1	499
+1436	Mega Crusts hạng cao hơn Alquamoses đang lập kế hoạch ở Icarus. Hãy loại bỏ chúng. (Lv. 250-254)	2	499
+1437	Số Mega Crusts vẫn nhiều, trinh sát gặp thiệt hại. Loại bỏ thêm. (Lv. 250-254)	3	499
+1438	Bạn tiến bước như anh hùng.	4	499
+1439	Đánh Mega Crusts, nhận thưởng.	5	499
+1440	Con đường đến Lâu đài Bay (2)	1	500
+1441	Mega Crust mạnh hơn Alquamoses đang lập kế hoạch ở Icarus. Tiêu diệt để bảo vệ đoàn trinh sát. (Lv.250-254)	2	500
+1442	Số lượng Mega Crust chưa giảm, đoàn trinh sát vẫn tổn thất. Giúp tiêu diệt thêm. (Lv.250-254)	3	500
+1443	Bạn lại tiến lên như một anh hùng thực thụ.	4	500
+1444	Số lượng Mega Crust chưa giảm, đoàn trinh sát vẫn tổn thất. Giúp tiêu diệt thêm. (Lv.250-254)	5	500
+1445	Đường tới Lâu đài Bay (3) - Không lặp lại	1	501
+1446	Queen Rainiers cản trở Lâu đài Bay, điều khiển Mega Crusts và Alquamoses. Loại bỏ Queen Rainiers. (Lv. 255-259)	2	501
+1447	Đánh 80 Queen Rainiers ở Icarus, trở về nhận thưởng.	3	501
+1448	Bạn tiến bước như anh hùng.	4	501
+1449	Tại Icarus, gặp Queen Rainiers che giấu sát khí bằng nhan sắc. Tiêu diệt 80 và quay lại nhận thưởng.	5	501
+1450	Con đường đến Lâu đài Bay (3)	1	502
+1451	Vào Lâu đài Bay bị Queen Rainiers cản. Họ điều khiển Mega Crust & Alquamoses. Giúp tiêu diệt Queen Rainiers. (Lv.255-259)	2	502
+1452	Tại Icarus, gặp Queen Rainiers. Tiêu diệt 80 và quay lại nhận thưởng.	3	502
+1453	Bạn lại tiến lên như một anh hùng thực thụ.	4	502
+1454	Tại Icarus, gặp Queen Rainiers. Tiêu diệt 80 và quay lại nhận thưởng.	5	502
+1455	Watchers of Kundun (1)	1	503
+1456	Shadow Phantom cần tiếp tế. Mang vật phẩm đến và nhận thưởng. (Lv. 260-289)	2	503
+1457	Chờ, tôi sẽ tìm nhiệm vụ phù hợp cho bạn.	2	503
+1458	Đi Tarkan, đánh 100 quái, trở về nhận thưởng.	2	503
+1459	Tiêu diệt 100 quái ở Tarkan và quay lại. Tôi sẽ giao nhiệm vụ tiếp theo.	3	503
+1460	Cảm ơn, đây là nhiệm vụ tiếp theo.	4	503
+1461	Tiêu diệt 100 quái ở Tarkan, nhận phần thưởng ngẫu nhiên.	5	503
+1462	Yêu cầu từ Shadow Phantom (1)	1	504
+1463	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Ai mang đến sẽ được thưởng hậu hĩnh. Chấp nhận? (Lv.260-289)	2	504
+1464	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	504
+1465	Lấy 'Staff of Resurrection' ở Tarkan, trở về nhận thưởng.	2	504
+1466	Lấy 'Staff of Resurrection' và quay lại, nhận phần thưởng ngẫu nhiên.	3	504
+1467	Cảm ơn, đây là nhiệm vụ tiếp theo.	4	504
+1468	Lấy 'Staff of Resurrection' và quay lại, nhận phần thưởng ngẫu nhiên.	5	504
+1469	Yêu cầu từ Shadow Phantom (Reward)	1	505
+1470	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.260-289)	2	505
+1471	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	505
+1472	Lấy 'Horn of Uniria' ở Tarkan, trở về nhận thưởng.	2	505
+1473	Lấy 'Horn of Uniria' và quay lại, nhận phần thưởng ngẫu nhiên.	3	505
+1474	Cảm ơn, đây là phần thưởng của bạn.	4	505
+1475	Lấy 'Horn of Uniria' và quay lại, nhận phần thưởng ngẫu nhiên.	5	505
+1476	Watchers of Kundun (1)	1	506
+1477	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.290-319)	2	506
+1478	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	506
+1479	Đi Icarus, đánh 100 quái, trở về nhận thưởng. (Lv. 290-319)	2	506
+1480	Tiêu diệt 100 quái ở Icarus và quay lại. Tôi sẽ giao nhiệm vụ tiếp theo.	3	506
+1481	Cảm ơn, đây là nhiệm vụ tiếp theo.	4	506
+1482	Tiêu diệt 100 quái ở Icarus, nhận phần thưởng ngẫu nhiên.	5	506
+1483	Yêu cầu từ Shadow Phantom (2)	1	507
+1484	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.290-319)	2	507
+1485	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	507
+1486	Lấy 'Sword of Destruction' ở Tarkan, trở về nhận thưởng.	2	507
+1487	Lấy 'Sword of Destruction' và quay lại, nhận nhiệm vụ tiếp theo.	3	507
+1488	Cảm ơn, đây là nhiệm vụ tiếp theo.	4	507
+1489	Lấy 'Sword of Destruction' và quay lại, nhận phần thưởng ngẫu nhiên.	5	507
+1490	Yêu cầu từ Shadow Phantom (Reward)	1	508
+1491	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.290-319)	2	508
+1492	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	508
+1493	Lấy 'Crystal Sword' ở Icarus, trở về nhận thưởng.	2	508
+1494	Lấy 'Crystal Sword' và quay lại, nhận phần thưởng ngẫu nhiên.	3	508
+1495	Cảm ơn, đây là phần thưởng của bạn.	4	508
+1496	Lấy 'Crystal Sword' và quay lại, nhận phần thưởng ngẫu nhiên.	5	508
+1497	Watchers of Kundun (1)	1	509
+1498	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.320-349)	2	509
+1499	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	509
+1500	Đi Kanturu Ruins, đánh 100 quái, trở về nhận thưởng. (Lv. 320-349)	2	509
+1501	Đi Kanturu Ruins, tiêu diệt 100 quái. Quay lại nhận thưởng.	3	509
+1502	Cảm ơn, đây là nhiệm vụ tiếp theo.	4	509
+1503	Tiêu diệt 100 quái ở Kanturu Ruins, nhận phần thưởng ngẫu nhiên.	5	509
+1504	Yêu cầu từ Shadow Phantom (Reward)	1	510
+1505	Đơn vị Shadow Phantom báo Watchers of Kundun thiếu vật tư. Mang đến nhận thưởng hậu hĩnh. Chấp nhận? (Lv.320-349)	2	510
+1506	Chờ, tôi sẽ tìm nhiệm vụ phù hợp.	2	510
+1507	Lấy 'Ancient Stick' ở Kanturu Ruins, trở về nhận thưởng.	2	510
+1508	Lấy 'Ancient Stick' và quay lại, nhận phần thưởng ngẫu nhiên.	3	510
+1509	Cảm ơn, đây là phần thưởng của bạn.	4	510
+1510	Lấy 'Ancient Stick' và quay lại, nhận phần thưởng ngẫu nhiên.	5	510
+1511	Sự hiện diện của hội lính đánh thuê (Lv. 350+)	1	511
+1512	Nói chuyện với Tercia, quản lý hội lính đánh thuê. (Lv. 350+)	5	511
+1513	Văn phòng Hội lính đánh thuê?	1	512
+1514	Chi nhánh Devias vừa thành lập, áp dụng hệ thống Free Mercenary.	2	512
+1515	Lính tự do không thuộc guild, ai cũng nhận được nhiệm vụ nếu có tiền đăng ký. Nộp đặt cọc, nhận lại khi hoàn thành.	2	512
+1516	Đăng ký Free Mercenary: 1 triệu Zen, đặt cọc 500k Zen. (Lv. 350+)	2	512
+1517	Quyết định đúng. Nộp 1 triệu Zen để đăng ký ngay.	4	512
+1518	Chi 1 triệu Zen để tham gia hội lính đánh thuê.	5	512
+1519	Yêu cầu từ Nữ tu sĩ (Thứ Hai)	1	513
+1520	Nói chuyện với Priestess Beina. (Thứ Hai)	5	513
+1521	Nhiệm vụ từ Nữ tu sĩ (Thứ Hai)	1	514
+1522	Yêu cầu từ Nữ Tu Sĩ (Thứ Hai)	2	514
+1523	Quay lại khi sẵn sàng.	4	514
+1524	Thực hiện nhiệm vụ của Priestess.	5	514
+1525	Bình yên của anh hùng (Thứ Hai)	1	515
+1526	Đi Kalima 7, đánh 100 quái, trở về nhận thưởng.	2	515
+1527	Đi Kalima 7, tiêu diệt 100 quái, quay lại nhận thưởng.	3	515
+1528	Hoàn thành. Quay lại mỗi Thứ Hai.	4	515
+1529	Tiêu diệt 100 quái ở Kalima 7, nhận thưởng từ Priestess.	5	515
+1530	Call from Wandering Merchant Zyro -1 (Thứ Ba)	1	516
+1531	Tìm Zyro ở Lorencia. (Thứ Ba)	5	516
+1532	Lời mời từ Thương nhân Lang thang Zyro -2 (Thứ Ba)	1	517
+1533	Tìm vị trí Zyro ở Noria. (Thứ Ba)	5	517
+1534	Lời mời từ Zyro -3 (Thứ Ba)	1	518
+1535	Tìm vị trí Zyro ở Elbeland. (Thứ Ba)	5	518
+1536	Lời mời từ Zyro -4 (Thứ Ba)	1	519
+1537	Tìm vị trí Zyro ở Devias. (Thứ Ba)	5	519
+1538	Tìm Zyro thương nhân đa dụng (Thứ Ba)	1	520
+1539	Tôi có thể giúp gì? Ah, bạn từ Mercenary Guild. Nếu không có người trợ giúp, tôi không giao nhiệm vụ đắt đỏ… 	2	520
+1540	Quay lại khi sẵn sàng.	4	520
+1541	Tìm Zyro và thực hiện yêu cầu.	5	520
+1542	Lấy đá quý hiếm 'Kalt Stones' từ Witch Queens ở Aida. (Lv. 350-400)	1	521
+1543	Quý hiếm: Witch Queens ở Aida mang đá quý, rất đẹp và đắt. (Lv 350-400)	2	521
+1544	Các quý cô xếp hàng đe dọa, cần hội lính đánh thuê.	2	521
+1545	Lấy 10 'Kalt Stones' từ Witch Queens.	3	521
+1546	Hoàn thành, trở về nhận thưởng.	4	521
+1547	Tương tự 1545.	5	521
+1548	Yêu cầu từ Gens Duprian (Thứ Tư)	1	522
+1549	Nói chuyện với Gens Duprian (Thứ Tư)	5	522
+1550	Lời mời từ Gens (Thứ Tư)	1	523
+1551	Xin chào, cảm ơn bạn giúp clan. Mình không muốn thuê lính lang thang, nên gửi người clan. (Lv 350-400)	2	523
+1552	Quay lại khi sẵn sàng.	4	523
+1553	Tìm Gens Duprian và thực hiện yêu cầu.	5	523
+1554	Mở rộng kinh doanh (Thứ Tư)	1	524
+1555	Đi Vulcanus, đánh 100 quái, trở về nhận thưởng.	2	524
+1556	Điều tra thấy người của ta bị sát thủ giết. Đi Vulcanus diệt quái.	2	524
+1557	Đánh 100 quái Vulcanus và quay lại.	3	524
+1558	Hoàn thành. Quay lại mỗi Thứ Tư.	4	524
+1559	Hạ 100 quái ở Vulcanus, quay lại.	5	524
+1560	Yêu cầu từ Gens Vanert (Thứ Tư)	1	525
+1561	Nói chuyện với Gens Vanert (Thứ Tư)	5	525
+1562	Lời mời từ Gens (Thứ Tư)	1	526
+1563	Tương tự 1551.	2	526
+1564	Quay lại khi sẵn sàng.	4	526
+1565	Tìm Gens Vanert và thực hiện yêu cầu.	5	526
+1566	Mở rộng kinh doanh (Thứ Tư)	1	527
+1567	Đi Vulcanus, đánh 100 quái, trở về nhận thưởng.	2	527
+1568	Điều tra thấy người bị sát thủ giết. Đi Vulcanus diệt quái.	2	527
+1569	Hạ 100 quái ở Vulcanus, quay lại.	3	527
+1570	Hoàn thành. Quay lại mỗi Thứ Tư.	4	527
+1571	Hạ 100 quái ở Vulcanus, quay lại.	5	527
+1572	Yêu cầu từ Nữ Tu Sĩ (Thứ Năm)	1	528
+1573	Nói chuyện với Nữ tu sĩ Beina (Thứ Năm)	5	528
+1574	Nhiệm vụ từ Nữ tu sĩ (Thứ Năm)	1	529
+1575	Temple Underwater, cần bảo vệ, giúp hội lính đánh thuê. (Lv 350-400)	2	529
+1576	Quay lại khi sẵn sàng.	4	529
+1577	Thực hiện yêu cầu Priestess.	5	529
+1578	Cuồng nộ anh hùng (Thứ Năm)	1	530
+1579	Đi Kalima 7, đánh 100 quái, trở về nhận thưởng.	2	530
+1580	Đi Kalima 7 diệt 100 quái, quay lại nhận thưởng.	3	530
+1581	Hoàn thành. Quay lại mỗi Thứ Năm.	4	530
+1582	Đánh 100 quái Kalima 7, nhận thưởng từ Priestess.	5	530
+1583	Call from Wandering Merchant Zyro -1 (Thứ Sáu)	1	531
+1584	Tìm Zyro ở Lorencia. (Thứ Sáu)	5	531
+1585	Call Wandering Merchant Zyro-2 (Thứ Sáu)	1	532
+1586	Tìm Zyro ở Noria (Thứ Sáu)	5	532
+1587	Call Wandering Merchant Zyro-3 (Thứ Sáu)	1	533
+1588	Tìm Zyro ở Elbeland (Thứ Sáu)	5	533
+1589	Call Wandering Merchant Zyro-4 (Thứ Sáu)	1	534
+1590	Tìm Zyro ở Devias (Thứ Sáu)	5	534
+1591	Yêu cầu từ Zyro (Thứ Sáu)	1	535
+1592	Lấy vật dụng chiến tranh cho Zyro, đặc biệt Burnt Murderer's Club. (Lv. 350-400)	2	535
+1593	Quay lại khi sẵn sàng.	4	535
+1594	Tìm Zyro và hoàn thành nhiệm vụ.	5	535
+1595	Bảo đảm vật dụng chiến tranh (Thứ Sáu)	1	536
+1596	Lấy 10 Burnt Murderer's Clubs ở Vulcanus. 'Heroes' không rớt đồ.	2	536
+1597	Trở về với 10 Burnt Murderer's Clubs để nhận thưởng.	3	536
+1598	Bạn tiến bước như anh hùng.	4	536
+1599	Hoàn thành, nhận thưởng từ Zyro.	5	536
+1600	Yêu cầu từ Gens Duprian (Thứ Bảy)	1	537
+1601	Nói chuyện với Gens Duprian (Thứ Bảy)	5	537
+1602	Lời mời từ Gens (Thứ Bảy)	1	538
+1603	Cám ơn bạn đã nhận nhiệm vụ. Mình không muốn lính đánh thuê làm, nên gửi người trong clan. (Lv.350-400)	2	538
+1604	Quay lại khi sẵn sàng.	4	538
+1605	Tìm Gens Vanert và hoàn thành nhiệm vụ.	5	538
+1606	Mở rộng kinh doanh (Thứ Bảy)	1	539
+1607	Gần đây công việc clan bị cản trở, đặc biệt ở Vulcanus.	2	539
+1608	Đi Vulcanus diệt quái.	2	539
+1609	Đi Vulcanus, đánh 100 quái, trở về nhận thưởng.	3	539
+1610	Bạn tiến bước như anh hùng.	4	539
+1611	Đánh 100 quái Vulcanus, quay lại.	5	539
+1612	Yêu cầu từ Gens Vanert (Thứ Bảy)	1	540
+1613	Nói chuyện với Gens Vanert (Thứ Bảy)	5	540
+1614	Lời mời từ Gens (Thứ Bảy)	1	541
+1615	Tương tự 1551.	2	541
+1616	Quay lại khi sẵn sàng.	4	541
+1617	Tìm Gens Vanert và hoàn thành nhiệm vụ.	5	541
+1618	Mở rộng kinh doanh (Thứ Bảy)	1	542
+1619	Tương tự 1607-1608.	2	542
+1620	Tương tự 1608.	2	542
+1621	Đi Vulcanus, đánh 100 quái, trở về nhận thưởng.	3	542
+1622	Bạn tiến bước như anh hùng.	4	542
+1623	Đánh 100 quái Vulcanus, quay lại.	5	542
+1624	Yêu cầu từ Hội lính đánh thuê (Chủ Nhật)	1	543
+1625	Nói chuyện với Tercia, quản lý hội lính đánh thuê.	5	543
+1626	Nhiệm vụ từ Mercenary Guild (Chủ Nhật)	1	544
+1627	Mình giúp gì? Ah, đến nhận nhiệm vụ từ chúng tôi. (Lv 350-400)	2	544
+1628	Quay lại khi sẵn sàng.	4	544
+1629	Tìm Tercia và hoàn thành nhiệm vụ.	5	544
+1630	Lịch sử ẩn của cuộc nổi loạn (Chủ Nhật)	1	545
+1631	Chiến binh kinh nghiệm đã đến Aida.	2	545
+1632	Jerridon & Osbourne bị đe dọa, bảo vệ họ khỏi quái.	2	545
+1633	Đi Aida, đánh 100 quái, trở về nhận thưởng.	3	545
+1634	Bạn tiến bước như anh hùng.	4	545
+1635	Đánh 100 quái Aida, quay lại Tercia.	5	545
+1636	Gặp Deruvish (Thứ Hai)	1	546
+1637	Nói chuyện Deruvish ở Acheron (Thứ Hai)	5	546
+1638	Nhiệm vụ từ Mercenary Guild (Thứ Hai)	1	547
+1639	Tương tự 1627. (Lv 401-Max)	2	547
+1640	Quay lại khi sẵn sàng.	4	547
+1641	Tìm Deruvish và hoàn thành nhiệm vụ.	5	547
+1642	Loại bỏ Salamander (Thứ Hai)	1	548
+1643	Chiến binh kinh nghiệm đến Acheron.	2	548
+1644	Diệt quái đe dọa adventurers.	2	548
+1645	Đánh 30 Salamanders ở Acheron, trở về nhận thưởng.	3	548
+1646	Bạn tiến bước như anh hùng.	4	548
+1647	Đánh 30 Salamanders Acheron, quay lại.	5	548
+1648	Gặp Deruvish (Thứ Ba)	1	549
+1649	Nói chuyện với Deruvish ở Acheron (Thứ Ba)	5	549
+1650	Nhiệm vụ từ Mercenary Guild (Thứ Ba)	1	550
+1651	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	550
+1652	Quay lại khi sẵn sàng.	4	550
+1653	Tìm Deruvish và hoàn thành nhiệm vụ.	5	550
+1654	Loại bỏ Undine (Thứ Ba)	1	551
+1655	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	551
+1656	Diệt quái đe dọa người đi khám phá.	2	551
+1657	Đánh 30 Undines ở Acheron, trở về nhận thưởng.	3	551
+1658	Bạn tiến bước như anh hùng.	4	551
+1659	Hạ 30 Undines ở Acheron, quay lại.	5	551
+1660	Gặp Deruvish (Thứ Tư)	1	552
+1661	Nói chuyện với Deruvish ở Acheron (Thứ Tư)	5	552
+1662	Nhiệm vụ từ Mercenary Guild (Thứ Tư)	1	553
+1663	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	553
+1664	Quay lại khi sẵn sàng.	4	553
+1665	Tìm Deruvish và hoàn thành nhiệm vụ.	5	553
+1666	Loại bỏ Sylphid (Thứ Tư)	1	554
+1667	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	554
+1668	Diệt quái đe dọa người đi khám phá.	2	554
+1669	Đánh 30 Sylphids ở Acheron, trở về nhận thưởng.	3	554
+1670	Bạn tiến bước như anh hùng.	4	554
+1671	Hạ 30 Sylphids ở Acheron, quay lại.	5	554
+1672	Gặp Deruvish (Thứ Năm)	1	555
+1673	Nói chuyện với Deruvish ở Acheron (Thứ Năm)	5	555
+1674	Nhiệm vụ từ Mercenary Guild (Thứ Năm)	1	556
+1675	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	556
+1676	Quay lại khi sẵn sàng.	4	556
+1677	Tìm Deruvish và hoàn thành nhiệm vụ.	5	556
+1678	Loại bỏ Gnome (Thứ Năm)	1	557
+1679	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	557
+1680	Diệt quái đe dọa người đi khám phá.	2	557
+1681	Đánh 30 Gnomes ở Acheron, trở về nhận thưởng.	3	557
+1682	Bạn tiến bước như anh hùng.	4	557
+1683	Hạ 30 Gnomes ở Acheron, quay lại.	5	557
+1684	Gặp Deruvish (Thứ Sáu)	1	558
+1685	Nói chuyện với Deruvish ở Acheron (Thứ Sáu)	5	558
+1686	Nhiệm vụ từ Mercenary Guild (Thứ Sáu)	1	559
+1687	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	559
+1688	Quay lại khi sẵn sàng.	4	559
+1689	Tìm Deruvish và hoàn thành nhiệm vụ.	5	559
+1690	Loại bỏ Hellraisers (Thứ Sáu)	1	560
+1691	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	560
+1692	Diệt quái đe dọa người đi khám phá.	2	560
+1693	Đánh 30 Hell Maines ở Acheron, trở về nhận thưởng.	3	560
+1694	Bạn tiến bước như anh hùng.	4	560
+1695	Hạ 30 Hell Maines ở Acheron, quay lại.	5	560
+1696	Gặp Deruvish (Thứ Bảy)	1	561
+1697	Nói chuyện với Deruvish ở Acheron (Thứ Bảy)	5	561
+1698	Nhiệm vụ từ Mercenary Guild (Thứ Bảy)	1	562
+1699	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	562
+1700	Quay lại khi sẵn sàng.	4	562
+1701	Tìm Deruvish và hoàn thành nhiệm vụ.	5	562
+1702	Acheron Suppression (Thứ Bảy)	1	563
+1703	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	563
+1704	Diệt quái đe dọa người đi khám phá.	2	563
+1705	Đánh 300 quái ở Acheron, trở về nhận thưởng.	3	563
+1706	Bạn tiến bước như anh hùng.	4	563
+1707	Hạ 300 quái ở Acheron, quay lại.	5	563
+1708	Gặp Deruvish (Chủ Nhật)	1	564
+1709	Nói chuyện với Deruvish ở Acheron (Chủ Nhật)	5	564
+1710	Nhiệm vụ từ Mercenary Guild (Chủ Nhật)	1	565
+1711	Đến để nhận nhiệm vụ. (Lv.401-Max)	2	565
+1712	Quay lại khi sẵn sàng.	4	565
+1713	Tìm Deruvish và hoàn thành nhiệm vụ.	5	565
+1714	Acheron Suppression (Chủ Nhật)	1	566
+1715	Những chiến binh kinh nghiệm như bạn hẳn đã đến Acheron.	2	566
+1716	Diệt quái đe dọa người đi khám phá.	2	566
+1717	Đánh 300 quái ở Acheron, trở về nhận thưởng.	3	566
+1718	Bạn tiến bước như anh hùng.	4	566
+1719	Hạ 300 quái ở Acheron, quay lại.	5	566
+end			

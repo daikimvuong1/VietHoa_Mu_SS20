@@ -1,0 +1,208 @@
+//==============================================================================================================================================//										
+//	MuDevs.com									
+//	Version: S20.1-1									
+//	Update: Sep/24/2024									
+//	Editor: OMEGA									
+//==============================================================================================================================================//										
+101	đây không phải là việc bạn có thể hoàn thành với kỹ năng bình thường. Hãy quay lại sau khi bạn đã rèn luyện thêm.	101	2	Tiếp tục lắng nghe.						
+1	Xin chào! Tôi là Pháp Sư Pasi. Ha ha ha. Ừm... chuyển động của các vì sao không được tốt lắm. Tương lai của bạn... Ha ha. Tôi không thể nhìn rõ tương lai của bạn. Lạ thật...?									
+2	Xin chào. Tôi là người giữ kho, phụ trách đồ đạc của bạn. Tên tôi là Baz. Tôi có thể giúp bạn ở bất cứ đâu. Bạn có thể gửi đồ cho tôi!									
+3	Tôi nghe nói những nhà thám hiểm mệt mỏi sẽ hồi phục khi lắng nghe giai điệu của đàn gió. Bạn có cần tôi giúp không?									
+4	Tôi là người giữ kho, phụ trách đồ đạc của bạn. Tên tôi là Baz. Tôi có thể giúp bạn ở bất cứ đâu. Bạn có thể gửi đồ cho tôi!									
+5	Bạn có đủ Zen không? Tôi không thể giúp bạn kết hợp vật phẩm nếu không đủ Zen. Nghiên cứu cần Zen đấy. Hả? Bạn muốn biết cần bao nhiêu Zen sao?									
+6	Bạn mới đến MU lần đầu phải không? Hãy nhấn phím F1. Bạn sẽ tìm thấy nhiều hướng dẫn hữu ích khi du hành tại MU.									
+7	Bạn mới đến Lorencia lần đầu à? Nếu vậy, hãy đi qua cổng phía đông nam gần đài phun nước và săn Budge Dragon hoặc Spider. Skeleton Warrior ở khu săn phía tây bắc quá nguy hiểm.									
+8	Chào mừng đến với Noria. Nếu đây là lần đầu bạn săn bắn ở đây, hãy đi qua cổng phía tây gần người giữ kho và săn Chain Scorpion hoặc Goblin.									
+9	Nếu bạn cần hướng dẫn chi tiết về MU, hãy truy cập www.muonline.jp.									
+50	Bạn đã từng nghe về Muren Reksmilon, người trở thành Hoàng Đế đầu tiên của MU sau khi đánh bại Sekneum và thống nhất lục địa chưa? Có tin đồn rằng “Cuộn Sách Hoàng Đế” ghi lại câu chuyện này đã được tìm thấy.	74	-1	Tiếp tục lắng nghe.						
+74	Thần Ánh Sáng Rugard đã giao cho bạn nhiệm vụ tìm “Cuộn Sách Hoàng Đế”. Tuy nhiên, có vẻ như bạn vẫn chưa đủ tư cách. Hãy quay lại khi bạn mạnh hơn.	74	2	Kết thúc hội thoại.						
+51	Bạn không có đủ tiền. Bạn phải hiến tế 1 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này.	51	2	Kết thúc hội thoại.						
+52	Bạn đã từng nghe về Muren Reksmilon, người trở thành Hoàng Đế đầu tiên của MU sau khi đánh bại Sekneum và thống nhất lục địa chưa? Có tin đồn rằng “Cuộn Sách Hoàng Đế” đã được tìm thấy.	75	-1	Tiếp tục lắng nghe.						
+75	“Cuộn Sách Hoàng Đế” ghi lại những bảo vật do ba anh hùng của Thánh Chiến để lại, bao gồm cả Muren. Thần Ánh Sáng Rugard đã giao cho bạn nhiệm vụ tìm “Cuộn Sách Hoàng Đế”.	53	-1	Tiếp tục lắng nghe.						
+53	Bạn phải hiến tế 1 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này. Bạn có muốn chấp nhận nhiệm vụ và tìm “Cuộn Sách Hoàng Đế” không?	52	-1	Nghe lại	54	1	Chấp nhận	53	2	Từ chối.
+54	Theo tin đồn, “Cuộn Sách Hoàng Đế” có thể được tìm thấy tại Dungeon, Lost Tower hoặc Atlans.	54	2	Kết thúc hội thoại.						
+55	Bạn đã tìm thấy “Cuộn Sách Hoàng Đế”. Nó chứa thông tin về những bảo vật mà ba anh hùng Thánh Chiến để lại.	55	3	Hãy xem cuộn giấy này.						
+56	(Nó ghi lại lịch sử của Hoàng Đế đầu tiên Muren, cũng như những sự kiện trong Lễ Hội Hòa Bình kỷ niệm chiến thắng và thống nhất lục địa.) Muren Reksmilon đã thống nhất ba quốc gia Lorencia, Noria và Arca thành một đế chế vĩ đại.	57	-1	Tiếp tục lắng nghe.						
+57	Muren kết thúc Thánh Chiến cùng Đại Pháp Sư Arca Etramu Renos và Nữ Hoàng Elf của Noria Lunedill Diochell, và được tôn kính như một anh hùng.	56	-1	Trở lại câu chuyện trước	80	-1	Tiếp tục lắng nghe.			
+80	Sau khi đế chế được thành lập và hòa bình lập lại, mọi người trên lục địa thề trung thành với Hoàng Đế và dâng lên các bảo vật.	57	-1	Trở lại câu chuyện trước	58	-1	Tiếp tục lắng nghe.			
+58	“Thanh Kiếm Gãy”, “Giọt Lệ Elf” và “Linh Hồn Pháp Sư”. “Thanh Kiếm Gãy” được các Dark Knight của Lorencia dâng lên như biểu tượng cho lòng dũng cảm và trung thành.	57	-1	Trở lại câu chuyện trước	81	-1	Tiếp tục lắng nghe.			
+81	“Giọt Lệ Elf” được Nữ Hoàng Elf Lunedill Diochell dâng lên như lời thề củng cố sự đoàn kết giữa Elf và loài người.	58	-1	Trở lại câu chuyện trước	59	-1	Tiếp tục lắng nghe.			
+59	“Linh Hồn Pháp Sư” được Đại Pháp Sư Etramu dâng lên như biểu tượng cho lời thề hiến dâng sức mạnh vì hòa bình và tự do của đế chế.	58	-1	Trở lại câu chuyện trước	59	2	Dừng đọc			
+60	Nếu bạn đã đọc xong “Cuộn Sách Hoàng Đế”, hãy đi tìm “Thanh Kiếm Gãy” mà Dark Knight Lorencia đã dâng lên Muren.	61	1	Chấp nhận	60	2	Từ chối.			
+61	Bạn rất mạnh, nhưng hãy luôn cẩn thận vì nhiệm vụ này rất nguy hiểm. Khi tìm được “Thanh Kiếm Gãy”, hãy mang về cho ta.	61	2	Kết thúc hội thoại.						
+62	Bạn đã tìm thấy “Thanh Kiếm Gãy”. Nó được cho là mảnh vỡ từ thanh kiếm Apocalypse của Muren, được chính ông bẻ gãy sau khi thống nhất lục địa.	76	-1	Tiếp tục lắng nghe.						
+76	Các Dark Knight của Lorencia cũng bẻ gãy thanh kiếm của mình và dâng chúng lên Muren, thề rằng họ sẽ chỉ sử dụng kiếm khi thật sự cần thiết	63	-1	Tiếp tục lắng nghe.						
+63	Muren rất hài lòng và ban cho họ danh hiệu “Blade Knight”. Kể từ đó, Dark Knight muốn trở thành Blade Knight đều phải bẻ gãy kiếm của mình.	79	-1	Tiếp tục lắng nghe.						
+79	Giờ đây, khi bạn đã tìm được “Thanh Kiếm Gãy” và chứng minh ý chí mạnh mẽ, bạn sẽ được gọi là Blade Knight.	79	3	Trở thành Blade Knight						
+64	Bạn đã đọc “Cuộn Sách Hoàng Đế”. Giờ bạn đã biết ba bảo vật của các anh hùng rồi chứ?	77	-1	Tiếp tục lắng nghe.						
+77	Hãy đi tìm “Giọt Lệ Elf” được cho là do Nữ Hoàng Elf dâng lên Muren.	65	1	Chấp nhận	77	2	Từ chối.			
+65	Hãy cẩn thận, nhiệm vụ này rất nguy hiểm. Khi tìm được “Giọt Lệ Elf”, hãy mang về cho ta.	65	2	Kết thúc hội thoại.						
+66	Bạn đã tìm được “Giọt Lệ Elf”. Đây là giọt nước mắt kết tinh trong lễ trưởng thành của Elf.	78	-1	Tiếp tục lắng nghe.						
+78	Giờ bạn đã có “Giọt Lệ Elf” – biểu tượng của tâm hồn thuần khiết, bạn sẽ được gọi là Muse Elf.	78	3	Trở thành Muse Elf						
+67	Bạn đã đọc “Cuộn Sách Hoàng Đế”. Giờ bạn đã biết ba bảo vật rồi chứ?	82	-1	Xin hãy nói tiếp.						
+82	Hãy đi tìm “Linh Hồn Pháp Sư” mà Đại Pháp Sư Etramu Renos đã dâng lên Muren.	68	1	Chấp nhận	82	2	Từ chối.			
+68	Hãy cẩn thận. Khi tìm được “Linh Hồn Pháp Sư”, hãy mang về cho ta.	68	2	Kết thúc hội thoại.						
+69	Bạn đã tìm được “Linh Hồn Pháp Sư”. Đây là viên đá ma thuật tượng trưng cho ý chí mạnh mẽ của Dark Mage.	70	-1	Hãy kể thêm chi tiết cho tôi nghe.						
+70	Giờ bạn đã có “Linh Hồn Pháp Sư”, bạn sẽ được gọi là Soul Master.	70	3	Trở thành Soul Master						
+71	Hãy hiến tế 2 triệu Zen cho Thần Ánh Sáng Rugard.	71	2	Kết thúc hội thoại.						
+72	Ta tôn trọng lòng dũng cảm của ngươi và sẽ ban cho ngươi sức mạnh mới.	72	2	Kết thúc hội thoại.						
+73	Ngươi đã được ban phước bởi Rugard. Mong Ngài luôn ở bên ngươi.	73	2	Kết thúc hội thoại.						
+100	Ta có chuyện muốn nhờ ngươi... nhưng có vẻ như ngươi vẫn chưa đủ năng lực để thực hiện.	101	-1	Tiếp tục lắng nghe.						
+101	This không phải là việc bạn có thể hoàn thành với kỹ năng bình thường. Hãy quay lại sau khi bạn đã rèn luyện thêm.	101	2	Tiếp tục lắng nghe.						
+102	Ta có chuyện muốn nhờ ngươi. Ngươi có thể lắng nghe chứ?	103	-1	Tiếp tục lắng nghe.						
+103	Ta muốn nhờ ngươi tìm giúp ta “Nhẫn Vinh Quang”. “Nhẫn Vinh Quang” là thánh vật vĩ đại nhất, do Thần Ánh Sáng Rugard ban cho những anh hùng chiến thắng trong cuộc chiến chống lại Sekneum.	104	-1	Tiếp tục lắng nghe.						
+104	Nếu không tìm được “Nhẫn Vinh Quang”, tai họa lớn có thể xảy ra với lục địa. Ngươi có thể nhận nhiệm vụ này nếu có 3 triệu Zen. Ngươi có muốn thử không?	102	-1	Nghe lại	105	1	Chấp nhận	104	2	Từ chối.
+105	Theo những gì ta thu thập được, “Nhẫn Vinh Quang” có vẻ ở gần hơn ta nghĩ. Có thể nó nằm quanh Atlans, Tarkan hoặc Icarus.	105	2	Kết thúc hội thoại.						
+108	Ngươi đã tìm được “Nhẫn Vinh Quang”! Ta biết ngươi làm được mà.	109	-1	Tiếp tục lắng nghe.						
+109	Ta đã nói với ngươi rồi, “Nhẫn Vinh Quang” được Thần Ánh Sáng Rugard ban cho các anh hùng của Thánh Chiến. Ngoài ba anh hùng mà ta biết, còn có Kundun Mephis – Đại Pháp Sư của Arca, và Gaion Kalein – Phó Chỉ Huy của Liên Minh.	110	-1	Tiếp tục lắng nghe.						
+110	Nhưng như ngươi đã biết, Đại Pháp Sư Kundun Mephis và Phó Chỉ Huy Gaion Kalein đã bị bóng tối xâm chiếm, và “Nhẫn Vinh Quang” của họ đã bị thất lạc.	111	-1	Tiếp tục lắng nghe.						
+111	“Nhẫn Vinh Quang” chứa sức mạnh thiêng liêng của Rugard, nên nếu Kundun sử dụng nó với tà tâm, hậu quả sẽ vô cùng thảm khốc. Vì vậy, quân đội đế chế đã nỗ lực hết sức để tìm lại “Nhẫn Vinh Quang”.	112	-1	Tiếp tục lắng nghe.						
+112	Chúng ta vô cùng nhẹ nhõm và biết ơn khi ngươi mang “Nhẫn Vinh Quang” trở về. Ta đã báo cáo thành tích của ngươi lên “Mười Hai Môn Đệ Ánh Sáng”, những người phụng sự Rugard.	112	3	Tiếp tục lắng nghe.						
+113	Ngươi sẽ được ban phước bởi sức mạnh của Rugard, và mỗi lần thăng cấp, ngươi sẽ nhận thêm điểm thuộc tính. Chúc mừng ngươi!	113	2	Kết thúc hội thoại.						
+114	Cảm ơn ngươi đã giúp đỡ. Chúng ta sẽ còn gặp lại.	114	2	Kết thúc hội thoại.						
+115	Nghe nói “Hắc Thạch”, vật ban cho sức mạnh thực sự của Hoàng Đế, đã được tìm thấy tại MU. Nhưng có vẻ như ngươi vẫn chưa đủ khả năng để sử dụng sức mạnh đó. Hãy quay lại khi ngươi đã sẵn sàng.	101	-1	Tiếp tục lắng nghe.						
+130	Ngươi đã tìm được “Nhẫn Vinh Quang”! Ta biết ngươi làm được mà!	131	-1	Tiếp tục lắng nghe.						
+131	Ta đã nói rồi, “Nhẫn Vinh Quang” được Thần Ánh Sáng Rugard ban cho các anh hùng Thánh Chiến. Ngoài ba anh hùng đã biết, còn có Kundun Mephis – Đại Pháp Sư của Arca, và Gaion Kalein – Phó Chỉ Huy của Liên Minh.	132	-1	Tiếp tục lắng nghe.						
+132	Nhưng như ngươi đã biết, Kundun Mephis và Gaion Kalein đã bị bóng tối tha hóa, và “Nhẫn Vinh Quang” của họ đã bị mất.	133	-1	Tiếp tục lắng nghe.						
+133	“Nhẫn Vinh Quang” chứa sức mạnh thiêng liêng của Rugard, nên nếu Kundun sử dụng nó với tà tâm, hậu quả sẽ vô cùng thảm khốc. Vì vậy, quân đội đế chế luôn cố gắng tìm lại “Nhẫn Vinh Quang”.	134	-1	Tiếp tục lắng nghe.						
+134	Chúng ta vô cùng biết ơn khi ngươi mang “Nhẫn Vinh Quang” trở về. Ta đã báo cáo thành tích của ngươi lên “Mười Hai Môn Đệ Ánh Sáng”.	134	3	Tiếp tục lắng nghe.						
+135	Có một phương pháp chiến đấu gọi là “Combo”, được truyền dạy bí mật trong quân đội đế chế. Chỉ những Blade Knight đã rèn luyện lâu năm mới được học. Nếu ngươi hứng thú, ta có thể dạy cho ngươi.	136	-1	Tiếp tục lắng nghe.						
+136	Được thôi. Nhưng để học Combo, chúng ta cần một viên đá ma thuật đặc biệt gọi là “Hắc Thạch”. Ngươi phải dùng nó để thay đổi dòng năng lượng trong cơ thể.	137	-1	Vậy ta phải làm gì?						
+137	Ta nghe nói Hắc Thạch có thể được tìm thấy ở Tarkan hoặc Icarus. Ngươi có thể nhận nhiệm vụ này nếu có 2 triệu Zen. Ngươi có muốn thử không?	135	-1	Nghe lại	138	1	Chấp nhận	137	2	Từ chối.
+138	Khi ngươi đã tìm được “Nhẫn Vinh Quang”, ta tin rằng ngươi cũng có thể tìm được “Hắc Thạch”. Hãy quay lại khi tìm được nó.	138	2	Kết thúc hội thoại.						
+139	Ngươi thực sự đã tìm được “Hắc Thạch”! Giờ ta sẽ thay đổi dòng năng lượng trong cơ thể ngươi.	140	-1	Tiếp tục lắng nghe.						
+140	Xong rồi. Bây giờ ta sẽ nói thêm về Combo. Combo là phương pháp kết hợp các kỹ năng theo một trình tự nhất định để tạo ra sức mạnh bùng nổ tức thời.	141	-1	Tiếp tục lắng nghe.						
+141	Về thứ tự sử dụng kỹ năng, ngươi phải kích hoạt kỹ năng vũ khí trước, sau đó sử dụng hai kỹ năng thường để tạo ra đòn đánh bùng nổ.	141	3	Tiếp tục lắng nghe.						
+142	Cảm ơn ngươi đã tìm lại “Nhẫn Vinh Quang”. Để tỏ lòng biết ơn, ta sẽ chia sẻ cho ngươi thông tin hữu ích, vì ngươi đã rèn luyện rất chăm chỉ với tư cách Blade Knight...	143	-1	Tiếp tục lắng nghe.						
+143	Có một phương pháp chiến đấu bí truyền trong quân đội đế chế, chỉ truyền cho những Blade Knight dày dạn kinh nghiệm. Nếu ngươi muốn, ta có thể dạy cho ngươi.	143	2	Tiếp tục lắng nghe.						
+116	Để nhận được toàn bộ sức mạnh, ngươi phải đủ tư cách bằng cách đọc “Cuộn Sách Hoàng Đế”, ghi lại lịch sử của Hoàng Đế đầu tiên Muren. Hãy tìm Sebina tại Devias.	116	2	Kết thúc hội thoại.						
+117	Ngươi vẫn chưa đạt đủ tư cách của một “Blade Knight”. Hãy nhận sức mạnh mới thông qua “Nhẫn Vinh Quang” trước.	117	2	Kết thúc hội thoại.						
+118	Ngươi không có đủ tiền. Ngươi chỉ có thể thực hiện nếu có 3 triệu Zen.	118	2	Kết thúc hội thoại.						
+119	Ngươi không có đủ tiền. Ngươi chỉ có thể thực hiện nếu có 2 triệu Zen.	119	2	Kết thúc hội thoại.						
+166	Ngươi vẫn chưa đủ tư cách. Hãy đi tìm Vệ Binh Marlon để đạt đủ điều kiện.	166	2	Kết thúc hội thoại.						
+144	Thần Ánh Sáng Rugard đã giao một nhiệm vụ mới. Tuy nhiên, có vẻ như ngươi vẫn chưa đủ tư cách. Hãy quay lại khi ngươi mạnh hơn.	144	2	Ta sẽ quay lại khi mạnh hơn.						
+145	Thần Ánh Sáng Rugard đã giao một nhiệm vụ mới. Tuy nhiên, có vẻ như ngươi vẫn chưa đủ tư cách. Hãy quay lại sau khi hoàn thành nhiệm vụ trước đó.	145	2	Ta sẽ quay lại khi hoàn thành xong.						
+146	Ngươi không có đủ tiền. Ngươi phải hiến tế 5 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này.	146	2	Ta sẽ quay lại khi đã sẵn sàng.						
+147	Thần Ánh Sáng Rugard đã giao một nhiệm vụ mới.	148	-1	Nhiệm vụ là gì?						
+148	Rugard đã bảo ta tìm những anh hùng thay Ngài đối đầu với mối đe dọa mới tại Balgass.	149	-1	Tiếp tục lắng nghe.						
+149	Chúng ta cho rằng đội quân Balgass đang nhắm đến Pháo Đài Crywolf sẽ mang đến mối nguy mới cho lục địa... nhưng hiện vẫn chưa rõ chi tiết.	150	-1	Tiếp tục lắng nghe.						
+150	Chúng ta đang cố gắng hết sức để hiểu rõ ý chỉ của Rugard. Nhưng vì sự hạn chế của mình... chúng ta đang gặp rất nhiều khó khăn.	151	-1	Tiếp tục lắng nghe.						
+151	Ta tin rằng ngươi có đủ năng lực để giúp chúng ta. Ngươi có sẵn lòng ra tay không?	147	-1	Nghe lại	152	1	Chấp nhận	151	2	Từ chối.
+152	Để giúp chúng ta, ngươi phải đối đầu với đội quân Balgass... Nhưng trước hết, chúng ta cần xác nhận rằng ngươi đủ mạnh.	153	-1	Tiếp tục lắng nghe.						
+153	Hãy tiêu diệt Death Beam Knight, Hell Maine và Dark Phoenix tại Tarkan, Aida và Icarus, sau đó mang về mỗi loại 1 bằng chứng.	153	2	Tiếp tục lắng nghe.						
+154	Chúc mừng. Ngươi đã hoàn thành nhiệm vụ. Ta sẽ trao cho ngươi một phần thưởng nhỏ cho nỗ lực của mình.	155	3	Tiếp tục lắng nghe.						
+155	Kundun đã giao kèo với Ereshkigal, Nữ Hoàng Pandemonium, và triệu hồi Balgass xuống nhân gian. Chỉ riêng sự tồn tại của hắn cũng đã là một mối đe dọa.	156	-1	Tiếp tục lắng nghe.						
+156	Chúng ta cho rằng Balgass, kẻ chỉ huy đội quân Pandemonium, đang mang đến những mối nguy mới cho lục địa.	156	2	Tiếp tục lắng nghe.						
+157	Ngươi không có đủ tiền. Ngươi phải hiến tế 7 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này.	157	2	Ta sẽ quay lại khi đã sẵn sàng.						
+158	Chào mừng ngươi. Có vẻ như giờ đây ngươi đã sẵn sàng để giúp chúng ta.	159	-1	Ngươi cần gì?						
+159	Theo thông tin chúng ta thu thập được, Balgass đã tạo ra một nơi đặc biệt gọi là “Doanh Trại”. Chúng ta, Mười Hai Môn Đệ của Rugard, tin rằng “Doanh Trại của Balgass” chính là mối đe dọa mới.	160	-1	Tiếp tục lắng nghe.						
+160	Để tìm hiểu thêm về “Doanh Trại” này và giảm thiểu mối nguy từ những binh lính do Balgass huấn luyện, chúng ta buộc phải xâm nhập vào đó.	161	-1	Tiếp tục lắng nghe.						
+161	Nhờ sự bảo hộ của Rugard, gần đây chúng ta đã tìm ra cách để vào “Doanh Trại của Balgass”. Ngươi có sẵn lòng xâm nhập, tiêu diệt binh lính và mang về thêm thông tin không?	158	-1	Nghe lại	162	1	Chấp nhận	161	2	Từ chối.
+162	Hãy đến nghĩa địa phía bắc Crywolf, ngươi sẽ gặp một tên lính đào ngũ từ Doanh Trại của Balgass. Nhờ phúc lành của Rugard, hắn đã có được trí tuệ. Hắn tự xưng là “Werewolf Quarrel”.	163	-1	Tiếp tục lắng nghe.						
+163	Hắn sẽ dẫn ngươi đến đó. Hãy xác định các binh sĩ đang huấn luyện trong Doanh Trại của Balgass và tiêu diệt 20 tên mỗi loại.	163	2	Tiếp tục lắng nghe.						
+164	Ngươi đã hoàn thành nhiệm vụ một cách an toàn. Ta ca ngợi kỹ năng xuất sắc và ý chí chiến đấu kiên cường của ngươi, ngay cả trong những tình huống khắc nghiệt nhất.	165	3	Tiếp tục.						
+165	Những thông tin ngươi mang về và kẻ địch ngươi đã tiêu diệt sẽ góp phần mang lại hòa bình cho MU và Crywolf.	165	2	Tiếp tục.						
+167	Ngươi không có đủ tiền. Ngươi phải hiến tế 10 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này.	167	2	Ta sẽ quay lại khi đã sẵn sàng.						
+168	Lòng dũng cảm của ngươi đã cho chúng ta thấy rằng vẫn còn hy vọng.	169	-1	Tiếp tục lắng nghe.						
+169	Có vẻ như hiện tại Balgass đang ẩn náu ở đâu đó để hồi phục sau trận chiến.	170	-1	Tiếp tục lắng nghe.						
+170	Để hoàn thành sứ mệnh của Rugard, chúng ta phải xác định chính xác vị trí của Balgass và tiêu diệt các binh sĩ mà hắn đang huấn luyện.	171	-1	Tiếp tục lắng nghe.						
+171	Thử thách cuối cùng này sẽ khó khăn hơn bất cứ điều gì ngươi từng đối mặt. Ngươi có chấp nhận thử thách cuối cùng không?	168	-1	Nghe lại	172	1	Chấp nhận	171	2	Từ chối.
+172	Hãy tiến vào cổng lâu đài phía bắc Doanh Trại của Balgass. Chúng ta sẽ chuẩn bị để ngươi có thể vào trong.	172	2	Kết thúc hội thoại.						
+173	Chúc mừng! Ngươi đã vượt qua thử thách cuối cùng của Rugard. Sự bảo hộ của Ngài sẽ luôn ở bên ngươi từ giờ trở đi.	174	3	Tiếp tục lắng nghe.						
+174	Nhờ những nỗ lực của ngươi, MU và Crywolf sẽ tạm thời an toàn trước mối đe dọa của Balgass. Ta ca ngợi kỹ năng của ngươi.	174	2	Tiếp tục lắng nghe.						
+90	Ngươi đã đọc “Cuộn Sách Hoàng Đế”. Ngươi có biết về hiệp ước bí mật giữa Muren và Semeden, thủ lĩnh của các Summoner không? Đổi lại việc không sáp nhập Elbe vào đế chế, Semeden đã hứa với Muren một điều.	91	-1	Tiếp tục lắng nghe.						
+91	Semeden hứa rằng chừng nào MU còn tồn tại, các Summoner sẽ canh giữ Cổng Không Gian. Như một biểu tượng cho lời hứa này, Semeden đã trao “Con Mắt Vực Sâu”. Hãy tìm “Con Mắt Vực Sâu”, bằng chứng của lời thề đó.	92	1	Chấp nhận	91	2	Từ chối.			
+92	Ta nghe nói “Con Mắt Vực Sâu” có thể được tìm thấy quanh Atlans, Lost Tower hoặc Tarkan. Khi tìm được “Con Mắt Vực Sâu”, hãy mang nó về cho ta.	92	2	Chấp nhận						
+93	Ngươi đã tìm được “Con Mắt Vực Sâu”. “Con Mắt Vực Sâu” là một vật chất không tồn tại trong thế giới này, được tạo ra từ sự biến đổi vật chất trong quá trình dịch chuyển không gian. Nó chứa đựng ký ức của thời đại và thế giới trước khi diễn ra sự dịch chuyển.	94	-1	Tiếp tục lắng nghe.						
+94	Đối với những kẻ canh giữ các chiều không gian, “Con Mắt Vực Sâu” là một biểu tượng vô cùng quan trọng. Ngươi, người đã mang “Con Mắt Vực Sâu” trở về. Nhân danh Người Canh Giữ Không Gian Semeden, ta ban cho ngươi danh hiệu Blood Summoner.	94	3	Tiếp tục lắng nghe.						
+175	Có một phương pháp chiến đấu gọi là “Circle Shield”, được truyền dạy bí mật cho các Temple Knight Hoàng Gia. Đây là kỹ thuật chỉ Grow Lancer mới có thể học. Nếu ngươi quan tâm, ta có thể dạy cho ngươi.	176	-1	Tiếp tục lắng nghe.						
+176	Được thôi. Để học Circle Shield, chúng ta cần một viên đá ma thuật đặc biệt gọi là “Hắc Thạch”. Viên đá này sẽ tăng cường năng lượng và tạo ra một dòng năng lượng mới trong cơ thể ngươi.	177	-1	Vậy ta phải làm gì?						
+177	Ta nghe nói Hắc Thạch có thể được tìm thấy ở Tarkan hoặc Icarus. Ta sẽ giúp ngươi nếu ngươi trả 2 triệu Zen như một sự tri ân. Ngươi có muốn thử không?	175	-1	Nghe lại	178	1	Chấp nhận	177	2	Từ chối.
+178	Hãy quay lại gặp ta khi ngươi tìm được “Hắc Thạch”.	178	2	Kết thúc hội thoại.						
+179	Ngươi thực sự đã tìm được “Hắc Thạch”! Tốt lắm, giờ ta sẽ tăng cường năng lượng trong cơ thể ngươi. Ngươi sẽ cảm nhận được một dòng năng lượng mới.	180	-1	Tiếp tục lắng nghe.						
+180	Xong rồi. Bây giờ ta sẽ nói rõ hơn về Circle Shield. Circle Shield làm giảm AG của đối thủ. Khi đối thủ tấn công ngươi, Circle Shield sẽ được kích hoạt theo một tỷ lệ nhất định.	181	-1	Tiếp tục lắng nghe.						
+181	Khi AG của đối thủ bị giảm, chúng sẽ không thể sử dụng một số kỹ năng, và ngươi sẽ chiếm lợi thế. Hãy nhớ rằng Circle Shield chỉ có thể sử dụng khi ngươi trang bị khiên.	181	3	Tiếp tục lắng nghe.						
+182	Hãy ghi nhớ rằng Circle Shield chỉ có thể sử dụng khi ngươi trang bị khiên. Mong phúc lành của Rugard luôn ở bên ngươi...	182	2	Kết thúc hội thoại.						
+183	Ngươi có thể đã đáp ứng đủ điều kiện để tham gia thử thách, nhưng ta cần kiểm tra xem ngươi có đủ mạnh để sử dụng sức mạnh đó hay không.	184	-1	Ta phải chứng minh thế nào?						
+184	Trước tiên, hãy thử đánh bại ta. Đừng lo, ta chỉ sử dụng một phần sức mạnh của mình mà thôi.	185	1	Được. Ta sẽ làm!	184	2	Tôi từ chối.			
+185	Nghe hay đấy. Hãy thể hiện năng lực của ngươi trong trận chiến với ta. Bắt đầu thôi.	185	4	Được. Ta sẽ làm!						
+186	Ngươi đã chứng minh được bản thân trong trận chiến đầu tiên với ta.	187	3	Tiếp tục lắng nghe.						
+187	Tuy nhiên, ngươi mới chỉ sẵn sàng để được ban sức mạnh mới. Giờ đây, ngươi phải tự mình vượt qua mọi gian nan trong thử thách.	187	2	Tiếp tục lắng nghe.						
+188	Ngươi vẫn chưa sẵn sàng để tham gia thử thách. Hãy quay lại sau.	188	2	Ta sẽ quay lại sau.						
+189	Ngươi có biết không? MU giờ đây không còn là nơi an toàn nữa. Ferea đã được phát hiện và Nixies đang tái sinh. Những quái vật mạnh mẽ bắt đầu xuất hiện khắp MU. Ngươi cần phải chuẩn bị để đối phó với chúng.	190	-1	Ngươi đang nói về Deep Dungeon.						
+190	Thực ra, Deep Dungeon chính là nơi ta từng rèn luyện để trở thành Hộ Vệ Kỵ Sĩ từ rất lâu trước đây. Ngươi sẽ chưa thể đối mặt với những trận chiến sắp tới nếu không đánh bại quái vật ở đây.	191	1	Hãy triệu hồi quái vật đi!	190	2	Từ chối.			
+191	Ta sắp triệu hồi quái vật từ Deep Dungeon. Hãy tiêu diệt 5 Deep Dungeon Skeleton Warrior, 5 Larva và 5 Cyclops. Và ngươi phải sống sót trong 5 phút. Ta thật lòng mong ngươi sống sót và vượt qua thử thách cuối cùng. Giờ thì ta sẽ triệu hồi quái vật.	191	4	Hãy triệu hồi quái vật đi!						
+192	Ngươi đã làm được. Ngươi đã sống sót trước những sinh vật khủng khiếp từ Deep Dungeon.	193	3	Tiếp tục lắng nghe.						
+193	Giờ đây, ngươi đã hoàn toàn sẵn sàng để tham gia thử thách cuối cùng.	193	2	Tiếp tục lắng nghe.						
+194	Ngươi vẫn chưa đủ tư cách. Ngươi cần chiến thắng ta trong trận đấu đầu tiên.	194	2	Được rồi.						
+195	Đây là thử thách cuối cùng mà ta dành cho ngươi.	196	-1	Vậy ta cần làm gì?						
+196	Một lần nữa, hãy chiến đấu với ta và giành chiến thắng. Lần này, ngươi phải vừa chiến đấu với ta, vừa tiêu diệt những quái vật từ Deep Dungeon.	197	1	Chấp nhận	196	2	Từ chối.			
+197	Ngươi đã tập hợp đủ đồng đội chưa? Nếu đã sẵn sàng, chúng ta bắt đầu thôi.	197	4	Chấp nhận						
+198	Ngươi đã hoàn thành tất cả các thử thách và thể hiện năng lực của mình. Ta tin rằng một ngày nào đó ngươi có thể trở thành Hộ Vệ Kỵ Sĩ của Rugard, sánh vai cùng ta.	199	3	Tiếp tục lắng nghe.						
+199	Ngươi đã vượt qua mọi thử thách và giờ đây đã sẵn sàng sử dụng sức mạnh mới. Ta ca ngợi kỹ năng của ngươi. Hãy dùng phím nóng [Ctrl+A] để kiểm tra sức mạnh mới.	199	2	Tiếp tục lắng nghe.						
+200	Ngươi vẫn chưa đủ tư cách. Ngươi phải tiêu diệt quái vật ở Deep Dungeon để có cơ hội chiến đấu với ta trong trận chiến cuối cùng.	200	2	Được rồi. Ta sẽ quay lại khi đã sẵn sàng cho trận chiến cuối.						
+201	Ngươi không có đủ tiền. Ngươi phải hiến tế 1 triệu Zen cho Rugard nếu muốn nhận nhiệm vụ này.	201	2	Ta sẽ quay lại khi đã sẵn sàng.						
+95	Ngươi đã đọc “Cuộn Sách Hoàng Đế”, vậy chắc hẳn ngươi đã biết về 3 bảo vật.	82	-1	Xin hãy nói tiếp.						
+96	Ta biết ngươi muốn báo thù, nhưng hãy cẩn thận vì việc này rất nguy hiểm. Nếu ngươi tìm được “Mảnh Linh Hồn Pháp Sư” an toàn, hãy mang nó về cho ta.	96	2	Ta sẽ tìm nó.						
+97	Ta biết ngươi sẽ tìm được “Mảnh Linh Hồn Pháp Sư”. “Mảnh Linh Hồn Pháp Sư” là một ma thạch tượng trưng cho ý chí mạnh mẽ của Pháp Sư, và được cho là do Etramu trao cho Muren như minh chứng cho lời thề kiên định.	98	-1	Hãy nói thêm cho ta nghe.						
+98	Với “Mảnh Linh Hồn Pháp Sư” này, giờ đây ngươi sẽ trở thành “Rune Spell Master”.	98	3	Hãy nói thêm cho ta nghe.						
+99	Sau khi đọc xong “Cuộn Sách Hoàng Đế”, hãy đi tìm “Thanh Kiếm Gãy” được các Dark Knight ở Lorencia dâng lên Muren. Nghe đồn nó có thể được tìm thấy quanh Atlans, Lost Tower hoặc Tarkan.	202	1	Chấp nhận						
+202	Ta biết ngươi rất mạnh, nhưng hãy luôn cẩn thận vì nhiệm vụ này vô cùng nguy hiểm. Khi tìm được “Thanh Kiếm Gãy”, hãy mang nó về cho ta.	202	2	Chấp nhận						
+203	Ngươi đã tìm được “Thanh Kiếm Gãy”. “Thanh Kiếm Gãy” được cho là có nguồn gốc từ thanh kiếm của Muren – “Apocalypse”, chính tay Muren đã bẻ gãy nó sau khi thống nhất lục địa, với hy vọng chiến tranh sẽ không bao giờ xảy ra nữa.	204	-1	Tiếp tục lắng nghe.						
+204	Giờ đây, khi đã tìm được “Thanh Kiếm Gãy” và chứng minh ý chí kiên cường của mình, ngươi sẽ được gọi là Royal Slayer.	204	3	Tiếp tục lắng nghe.						
+205	Desmodus luôn đồng hành cùng ngươi. Ngươi có biết bí mật của nó không? Nếu ngươi quan tâm, hãy cho ta biết.	206	-1	Tiếp tục lắng nghe.						
+206	Được rồi. Đó là một “sinh mệnh phức hợp” được tạo ra bằng công nghệ của Vương quốc Kantur. Điều đặc biệt là nó được tạo nên từ manastone “Dark Stone”.	207	-1	Tiếp tục lắng nghe.						
+207	Chỉ có Dark Stone mới có thể tạo ra Desmodus. Nếu ngươi muốn, ngươi có muốn tạo một Desmodus không?	208	-1	Vậy ta cần phải làm gì?						
+208	Ta nghe nói Dark Stone có thể được tìm thấy ở Tarkan hoặc Icarus. Ngươi có thể thực hiện việc này nếu có 2 triệu Zen. Ngươi có muốn thử không?	205	-1	Nghe lại.	209	1	Chấp nhận	208	2	Hủy
+209	Hãy quay lại gặp ta sau khi tìm được “Dark Stone”.	209	2	Kết thúc hội thoại.						
+210	Ngươi thực sự đã tìm được “Dark Stone”! Giờ thì hãy tạo Desmodus nào.	211	-1	Tiếp tục lắng nghe.						
+211	Nó sẽ trích xuất “thuộc tính bóng tối” và “nguồn năng lượng mạnh mẽ” từ Dark Stone, sau đó tái cấu trúc để tạo thành một sinh mệnh. Được rồi, giờ ngươi đã sẵn sàng nhận Desmodus mới tạo của mình.	211	3	Tiếp tục lắng nghe.						
+212	Desmodus cũng có thể tiến hóa. Ngươi sẽ dần khám phá ra điều đó theo thời gian. Chúc ngươi được Rugard ban phước.	212	2	Kết thúc hội thoại.						
+213	Sau khi đọc xong “Cuộn Sách Hoàng Đế”, hãy đi tìm “Thanh Kiếm Gãy” được các Dark Knight ở Lorencia dâng lên Muren. Nghe đồn nó có thể được tìm thấy quanh Atlans, Lost Tower hoặc Tarkan.	214	1	Chấp nhận						
+214	Ta biết ngươi rất mạnh, nhưng hãy luôn cẩn thận vì nhiệm vụ này vô cùng nguy hiểm. Khi tìm được “Thanh Kiếm Gãy”, hãy mang nó về cho ta.	214	2	Chấp nhận						
+215	Ngươi đã tìm được “Thanh Kiếm Gãy”. “Thanh Kiếm Gãy” được cho là có nguồn gốc từ thanh kiếm của Muren – “Apocalypse”, chính tay Muren đã bẻ gãy nó sau khi thống nhất lục địa, với hy vọng chiến tranh sẽ không bao giờ xảy ra nữa.	216	-1	Tiếp tục lắng nghe.						
+216	Giờ đây, khi đã tìm được “Thanh Kiếm Gãy” và chứng minh ý chí kiên cường của mình, ngươi sẽ được gọi là Gun Breaker.	216	3	Tiếp tục lắng nghe.						
+217	Ngươi đã đọc “Cuộn Sách Hoàng Đế”. Vậy giờ ngươi đã biết ba bảo vật mà các anh hùng để lại rồi chứ?	218	1	Chấp nhận						
+218	Ta biết ngươi rất mạnh, nhưng hãy luôn cẩn thận vì nhiệm vụ này vô cùng nguy hiểm. Khi tìm được “Linh Hồn Pháp Sư”, hãy mang nó về cho ta.	218	2	Chấp nhận						
+219	Ngươi đã tìm được “Linh Hồn Pháp Sư”. “Linh Hồn Pháp Sư” là một ma thạch tượng trưng cho tinh thần mạnh mẽ của Dark Mage, và được cho là Etramu đã trao cho Muren như biểu tượng cho lời thề của mình.	220	-1	Tiếp tục lắng nghe.						
+220	Giờ đây, khi sở hữu “Linh Hồn Pháp Sư” tượng trưng cho tinh thần kiên cường, ngươi sẽ được gọi là Light Master.	220	3	Tiếp tục lắng nghe.						
+221	Ngươi đã tìm được “Linh Hồn Pháp Sư”. “Linh Hồn Pháp Sư” là một ma thạch tượng trưng cho tinh thần mạnh mẽ của Dark Mage, và được cho là Etramu đã trao cho Muren như biểu tượng cho lời thề của mình.	222	-1	Tiếp tục lắng nghe.						
+222	Giờ đây, khi sở hữu “Linh Hồn Pháp Sư” tượng trưng cho tinh thần kiên cường, ngươi sẽ được gọi là Wo Mage.	222	3	Tiếp tục lắng nghe.						
+223	Sau khi đọc xong “Cuộn Sách Hoàng Đế”, hãy đi tìm “Thanh Kiếm Gãy” được các Dark Knight ở Lorencia dâng lên Muren. Nghe đồn nó có thể được tìm thấy quanh Atlans, Lost Tower hoặc Tarkan.	224	1	Chấp nhận						
+224	Ta biết ngươi rất mạnh, nhưng hãy luôn cẩn thận vì nhiệm vụ này vô cùng nguy hiểm. Khi tìm được “Thanh Kiếm Gãy”, hãy mang nó về cho ta.	224	2	Chấp nhận						
+225	Ngươi đã tìm được “Thanh Kiếm Gãy”. “Thanh Kiếm Gãy” được cho là có nguồn gốc từ thanh kiếm của Muren – “Apocalypse”, chính tay Muren đã bẻ gãy nó sau khi thống nhất lục địa, với hy vọng chiến tranh sẽ không bao giờ xảy ra nữa.	226	-1	Tiếp tục lắng nghe.						
+226	Giờ đây, khi đã tìm được “Thanh Kiếm Gãy” và chứng minh ý chí kiên cường của mình, ngươi sẽ được gọi là Mirage Knight.	226	3	Tiếp tục lắng nghe.						
+227	Những quái vật mới với sát thương bổ sung cực mạnh như Nuke, Bolt và AoE đã xuất hiện trên lục địa MU. Chúng ta phải có đủ sức mạnh để đối phó với chúng nhằm bảo vệ lục địa MU.	228	-1	Ngươi muốn ta chứng minh điều đó như thế nào?						
+228	Ta sẽ cho phép ngươi sử dụng sức mạnh mới “Extra Nuke”, hãy dùng nó để chiến thắng ta trong trận chiến.	229	1	Được. Hãy thử xem!	228	2	Tôi không quan tâm			
+229	Hãy thể hiện kỹ năng của ngươi trong trận chiến với ta. Bắt đầu thôi.	230	5	Kết thúc hội thoại.						
+230	Ngươi đã chứng minh được năng lực của mình trong trận chiến với ta.	231	3	Tiếp tục lắng nghe.						
+231	Tốt lắm. Ta nghĩ đã đến lúc chuyển sang thử thách tiếp theo.	231	2	Tiếp tục lắng nghe.						
+232	Ngươi vẫn chưa sẵn sàng cho thử thách. Hãy quay lại vào lần sau.	232	2	Ta sẽ quay lại khi đủ khả năng.						
+233	Đây là thử thách thứ hai.	234	-1	Ta cần phải làm gì?						
+234	Ta sẽ cho phép ngươi sử dụng sức mạnh mới “Extra Bolt”, hãy dùng nó để chiến thắng ta trong trận chiến.	235	1	Được. Hãy thử xem!	234	2	Từ chối.			
+235	Hãy thể hiện kỹ năng của ngươi trong trận chiến với ta. Bắt đầu thôi.	236	5	Kết thúc hội thoại.						
+236	Ngươi đã chứng minh được năng lực của mình trong trận chiến với ta.	237	3	Tiếp tục lắng nghe.						
+237	Tốt lắm. Ta nghĩ đã đến lúc chuyển sang thử thách tiếp theo.	237	2	Tiếp tục lắng nghe.						
+238	Ngươi vẫn chưa đủ khả năng. Ngươi phải chiến thắng ta trong trận chiến đầu tiên.	238	2	Được rồi.						
+239	Đây là thử thách cuối cùng dành cho ngươi.	240	-1	Ta cần phải làm gì?						
+240	Ta sẽ cho phép ngươi sử dụng sức mạnh mới “Extra Wide Area”, hãy dùng sức mạnh đó để chiến thắng ta trong trận chiến.	241	1	Chấp nhận	240	2	Từ chối.			
+241	Hãy thể hiện kỹ năng của ngươi trong trận chiến với ta. Bắt đầu thôi.	242	5	Kết thúc hội thoại.						
+242	Ngươi đã vượt qua tất cả các thử thách. Ngươi xứng đáng với sức mạnh mới.	243	3	Tiếp tục lắng nghe.						
+243	Ta kính nể ngươi vì đã vượt qua mọi thử thách. Chúng ta sẽ trao cho ngươi ba thẻ kỹ năng, hãy trang bị chúng để nhận được sức mạnh mới.	243	2	Tiếp tục lắng nghe.						
+244	Ngươi vẫn chưa đủ khả năng. Ngươi phải chiến thắng ta trong trận chiến thứ hai.	244	2	Được rồi.						
+245	Ta muốn trao cho ngươi “Giant”, thứ mà ta đã tạo ra thông qua quá trình nghiên cứu cùng một người bạn cũ.	246	-1	Giant là gì?						
+246	“Giant” là một cỗ máy robot được tạo ra bằng công nghệ cơ khí. Sau một thời gian dài nghiên cứu, cuối cùng nó cũng đã sẵn sàng để điều khiển và sử dụng. Ngươi có hứng thú không?	247	1	Ta có hứng thú.	246	2	Tôi không quan tâm			
+247	Tốt lắm. Vậy ta cần kiểm tra xem ngươi có đủ khả năng điều khiển “Giant” hay không. Hãy chuẩn bị các nguyên liệu cần thiết để tạo Giant và sẵn sàng cho trận chiến.	248	2	Được rồi.						
+248	Ngươi đã chuẩn bị đầy đủ các nguyên liệu.	255	3	Tiếp tục lắng nghe.						
+249	Bây giờ, hãy thể hiện năng lực của ngươi trong trận chiến với ta khi đang điều khiển “Giant”. Ngươi đã sẵn sàng chiến đấu chưa?	250	1	Vâng, ta đã sẵn sàng.	249	2	Tôi chưa sẵn sàng.			
+250	Được rồi, bắt đầu thôi!	251	5	Kết thúc hội thoại.						
+251	Tuyệt vời. Ngươi thực sự có đủ tố chất để điều khiển “Giant”.	252	3	Tiếp tục lắng nghe.						
+252	Ngươi đã vượt qua mọi thử thách và xứng đáng được điều khiển “Giant”. Ngươi có thể lên Giant bằng cách nhấn [Nút] hoặc [Ctrl+X] trên màn hình.	252	2	Tiếp tục lắng nghe.						
+253	Ngươi vẫn chưa đủ điều kiện. Hãy quay lại sau khi hoàn thành chuyển chức lần thứ 5.	253	2	Được rồi.						
+254	Ngươi vẫn chưa đủ điều kiện. Hãy chuẩn bị đầy đủ các nguyên liệu cần thiết để tạo Giant.	254	2	Được rồi.						
+255	Chúng ta sẽ tạo ra một Giant phù hợp với ngươi bằng những nguyên liệu mà ngươi đã chuẩn bị.	255	2	Tiếp tục lắng nghe.						
+//S20.1-1										
+256	Bạn đã đọc xong Scroll of the Emperor và biết được di sản của ba anh hùng.	257	1	Chấp nhận						
+257	Ta biết bạn rất mạnh, nhưng hãy cẩn thận; nếu tìm được Soul of the Wizard, hãy mang về cho ta.	257	2	Kết thúc hội thoại.						
+258	Bạn đã tìm thấy Soul of the Wizard, viên đá ma thuật tượng trưng cho sức mạnh tinh thần của pháp sư.	259	-1	Hãy tiếp tục lắng nghe						
+259	Kể từ nay, bạn – người sở hữu Soul of the Wizard – sẽ được gọi là Alchemic Magician.	259	3	Chuyển chức thành Alchemic Magician						

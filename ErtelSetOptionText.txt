@@ -1,0 +1,17 @@
+//==============================================================================================================================================//
+//	MuDevs.com
+//	Version: S20.1-1
+//	Update: Sep/24/2024
+//	Editor: OMEGA
+//==============================================================================================================================================//
+0	"Tăng sức tấn công nguyên tố"					0
+1	"Tăng sức tấn công nguyên tố lên mục tiêu %s"	0
+2	"Tăng sức tấn công (PvP)"						0
+3	"Tăng sức tấn công (MvP)"						0
+4	"Tăng phòng thủ nguyên tố"						0
+5	"Tăng phòng thủ nguyên tố cho mục tiêu %s"		0
+6	"Tăng phòng thủ nguyên tố (PvP)"				0
+7	"Tăng phòng thủ nguyên tố (MvP)"				0
+8	"Tăng tỷ lệ đánh trúng nguyên tố"				0
+9	"Tăng tỷ lệ phòng thủ nguyên tố"				0
+end		
